@@ -87,9 +87,10 @@ pre
    font-weight: 400;
    font-style: normal;
    font-size:80%;
+    white-space: nowrap;
    word-wrap:break-word;
     float: right;
-  width: 100%;
+        margin-left: 0.5rem;
 }
 .listing a{
     text-decoration: none;
