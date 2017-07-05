@@ -1,6 +1,6 @@
 ﻿---
 Title: 12 years later, a new blog
-PublishDate: 7/4/2017
+PublishDate: 4/7/2017
 IsActive: True
 MinutesSpent: 50
 Tags: soliloquy
