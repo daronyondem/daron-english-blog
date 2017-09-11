@@ -12,7 +12,7 @@ July 1st, 2017 marks my 10th year receiving the [Microsoft MVP Award](https://mv
 
 ## The journey
 
-I was 24 when I wrote my first book. It was a 700 pages behemoth covering only ASP.NET AJAX. My motivation and dedication back in those days still surprises me today :) Once the book got readership community speaking opportunities literally poured in. I started speaking in local community events, got invited into conferences and loved it. Apparently Microsoft loved what I'm doing as well. I received my first award in 2008. I was a proud ASP.NET MVP. 
+I was 24 when I wrote my first book. It was a 700 pages behemoth covering only ASP.NET AJAX. My motivation and dedication back in those days still surprises me today :) Once the book got readership, community speaking opportunities literally poured in. I started speaking in local community events, got invited into conferences and loved it. Apparently Microsoft loved what I'm doing as well. I received my first award in 2008. I was a proud ASP.NET MVP. 
 
 The rest is mostly a repeating story of blogging, writing, speaking about what I do and what I work with. What I work with is the more interesting part. After focusing on the server side for years I found myself doing Silverlight :) On my second year I received the MVP Award for Silverligth and kept working on client-side for three years. To be honest I did some Windows Phone work as well. We all know how that story ends right?
 
@@ -20,7 +20,7 @@ In October 2008, during PDC in Los Angeles Microsoft announced "Windows Azure", 
 
 ## Time flies
 
-During the 10 years I have been in the program things have changed. I had the chance to work with multiple product groups and some very talented MVP Program Leads. When I look at back the MVP Program has a huge contribution in who I'm today. Remember, I was 24 when I got my first award. I'm not saying it was all blue and sunny skies but the investment Microsoft puts out there for its MVPs is second to none in the industry. It is part of the company culture.
+During the 10 years I have been in the program things have changed. I had the chance to work with multiple product groups and some very talented MVP Program Leads. When I look back the MVP Program has a huge contribution in who I'm today. Remember, I was 24 when I got my first award. I'm not saying it was all blue skies but the investment Microsoft puts out there for its MVPs is second to none in the industry. It is part of the company culture.
 
 ## So what?
 
