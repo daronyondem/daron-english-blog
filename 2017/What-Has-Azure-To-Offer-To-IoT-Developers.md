@@ -1,6 +1,6 @@
 ﻿---
-Title: What has Azure to Offer to IoT Developers
-PublishDate: 10/16/2017
+Title: What has Azure to Offer to IoT Developers?
+PublishDate: 16/10/2017
 IsActive: True
 MinutesSpent: 31
 Tags: IoT, Azure IoT Hub
