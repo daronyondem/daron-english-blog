@@ -6,7 +6,7 @@ MinutesSpent: 30
 Tags: cosmosdb, azure, sqlsaturday, istanbul
 ---
 
-Yesterday was the day of **SQL Saturday** for Istanbul. Thanks to an invitation from my RD peer [Koray Kocabaş](https://twitter.com/koraykocabas?lang=en) I had the chance to talk about CosmosDB. 
+Yesterday was the day of **SQL Saturday** for Istanbul. Thanks to an invitation from my RD peer [Koray Kocabaş](https://twitter.com/koraykocabas?lang=en) I had the chance to talk about CosmosDB. I should thank [Rimma Nehme](https://twitter.com/rimmanehme) as well, for her support getting my presentation content straight :)
 
 ![My CosmosDB session at SQL Saturday Istanbul](media/CosmosDB-at-SQLSaturday-Istanbul/cosmosdb-sqlsaturday.jpg)
 
