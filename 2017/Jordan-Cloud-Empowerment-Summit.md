@@ -2,7 +2,7 @@
 Title: Jordan Cloud Empowerment Summit
 PublishDate: 28/11/2017
 IsActive: True
-MinutesSpent: 11
+MinutesSpent: 18
 Tags: DevOps, Containers, Docker, CI/CD, VSTS, Jenkins, Git, GitHub, Docker Swarm, Kubernetes, DC/OS, ACS, AKS, ACI, DevTest Labs, Service Fabric, IaC
 ---
 
