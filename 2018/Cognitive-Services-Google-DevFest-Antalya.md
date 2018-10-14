@@ -10,7 +10,7 @@ What a weekend! Yesterday I took a one-hour long flight to Antalya, Turkey for t
 
 ![Google DevFest Antalya](media/Cognitive-Services-Google-DevFest-Antalya/IMG_4591.JPG)
 
-My session for the day was about **Azure Cognitive Services**, and I had some nice Azure Functions demos squeezed in it. Here are the slides in case you want to give it a look. I like services/technologies that can enable developers to do more in a very short time. Both Cognitive Services and Azure Functions are exactly that! Now, go and try these out yourselves if you still didn't look into any of the turn-key AI APIs in Azure Cognitive Services. 
+My session for the day was about **Azure Cognitive Services**, and I had some nice Azure Functions demos squeezed in it. [Here are the slides](http://daron.me/decks) in case you want to give it a look. I like services/technologies that can enable developers to do more in a very short time. Both Cognitive Services and Azure Functions are exactly that! Now, go and try these out yourselves if you still didn't look into any of the turn-key AI APIs in Azure Cognitive Services. 
 
 See you next time ;)
 
