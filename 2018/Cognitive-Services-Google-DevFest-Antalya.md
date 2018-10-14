@@ -14,4 +14,4 @@ My session for the day was about **Azure Cognitive Services**, and I had some ni
 
 See you next time ;)
 
-![GDG Antalya on Twitter](media/Cognitive-Services-Google-DevFest-Antalya/tweet.JPG)
+![GDG Antalya on Twitter](media/Cognitive-Services-Google-DevFest-Antalya/tweet.jpg)
