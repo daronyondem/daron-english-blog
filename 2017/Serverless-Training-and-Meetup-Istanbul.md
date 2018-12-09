@@ -2,6 +2,7 @@
 Title: Serverless Training and Meetup in Istanbul
 PublishDate: 21/12/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 22
 Tags: Serverless, Azure Functions, Azure Function Proxies, Azure API Management, Azure CosmosDB, Azure Event Grid, Azure Event Hubs, Azure Function Filters
 ---

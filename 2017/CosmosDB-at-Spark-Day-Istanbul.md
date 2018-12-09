@@ -2,6 +2,7 @@
 Title: CosmosDB at Spark Day Istanbul
 PublishDate: 11/11/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 16
 Tags: cosmosdb, azure, spark, istanbul, hdinsight
 ---

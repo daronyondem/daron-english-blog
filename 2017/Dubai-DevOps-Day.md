@@ -2,6 +2,7 @@
 Title: Dubai DevOps Day
 PublishDate: 27/10/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 19
 Tags: DevOps, Containers, Docker, CI/CD, VSTS, Jenkins, Git, GitHub, Docker Swarm, Kubernetes, DC/OS, ACS, AKS, ACI, DevTest Labs, Service Fabric, IaC
 ---

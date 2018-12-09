@@ -2,6 +2,7 @@
 Title: Google Developer Group Devfest Izmir 2018
 PublishDate: 04/11/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 11
 Tags: Azure, AI, Cognitive Services
 ---

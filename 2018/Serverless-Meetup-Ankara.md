@@ -2,6 +2,7 @@
 Title: Serverless Meetup Ankara
 PublishDate: 22/02/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 33
 Tags: serverless, azure functions
 ---

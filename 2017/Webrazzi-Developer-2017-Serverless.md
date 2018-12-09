@@ -2,6 +2,7 @@
 Title: Talking Serverless at Webrazzi Developer 2017 Conference
 PublishDate: 19/11/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 31
 Tags: cosmosdb, azure, spark, istanbul, hdinsight
 ---

@@ -2,6 +2,7 @@
 Title: 2017 Report
 PublishDate: 29/12/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 96
 Tags: Quantified Self, Report
 ---

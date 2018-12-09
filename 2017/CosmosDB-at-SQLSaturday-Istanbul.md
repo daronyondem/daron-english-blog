@@ -2,6 +2,7 @@
 Title: CosmosDB at SQL Saturday in Istanbul
 PublishDate: 5/11/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 30
 Tags: cosmosdb, azure, sqlsaturday, istanbul
 ---

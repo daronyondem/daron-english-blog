@@ -2,6 +2,7 @@
 Title: Serverless and Azure Functions in Izmir
 PublishDate: 19/02/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 22
 Tags: serverless, azure functions
 ---

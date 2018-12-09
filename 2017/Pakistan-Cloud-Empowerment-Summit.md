@@ -2,6 +2,7 @@
 Title: Pakistan Cloud Empowerment Summit
 PublishDate: 24/11/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 11
 Tags: DevOps, Containers, Docker, CI/CD, VSTS, Jenkins, Git, GitHub, Docker Swarm, Kubernetes, DC/OS, ACS, AKS, ACI, DevTest Labs, Service Fabric, IaC
 ---

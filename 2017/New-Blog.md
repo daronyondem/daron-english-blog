@@ -2,6 +2,7 @@
 Title: 12 years later, a new blog
 PublishDate: 4/7/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 50
 Tags: soliloquy
 ---

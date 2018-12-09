@@ -2,6 +2,7 @@
 Title: Hour Of Code at Istek Bilge Kagan K12 Schools
 PublishDate: 14/12/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 30
 Tags: HourOfCode
 ---

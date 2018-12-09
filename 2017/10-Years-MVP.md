@@ -2,6 +2,7 @@
 Title: 10 Years in the MVP Program
 PublishDate: 10/9/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 55
 Tags: mvp
 ---

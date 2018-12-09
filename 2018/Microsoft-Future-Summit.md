@@ -2,6 +2,7 @@
 Title: Microsoft Future Summit
 PublishDate: 16/09/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 22
 Tags: Blockchain, AI
 ---

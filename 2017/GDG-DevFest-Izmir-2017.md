@@ -2,6 +2,7 @@
 Title: Google Developer Groups DevFest Izmir 2017
 PublishDate: 4/12/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 32
 Tags: Serverless, Azure Functions
 ---

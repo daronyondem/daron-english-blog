@@ -2,6 +2,7 @@
 Title: Talking Serverless Framework at VoxxedDays Belgrade 
 PublishDate: 21/10/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 17
 Tags: Serverless, Serverless Framework, Azure Functions, AWS Lamdba, Google Functions
 ---

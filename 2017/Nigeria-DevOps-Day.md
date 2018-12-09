@@ -2,6 +2,7 @@
 Title: Nigeria Microsoft DevOps Day
 PublishDate: 19/12/2017
 IsActive: True
+IsListed: True
 MinutesSpent: 17
 Tags: DevOps, Containers, Docker, CI/CD, VSTS, Jenkins, Git, GitHub, Docker Swarm, Kubernetes, DC/OS, ACS, AKS, ACI, DevTest Labs, Service Fabric, IaC
 ---

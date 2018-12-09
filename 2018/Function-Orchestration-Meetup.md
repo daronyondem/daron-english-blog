@@ -2,6 +2,7 @@
 Title: Function Orchestration Meetup
 PublishDate: 20/09/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 24
 Tags: Serverless, Azure Function, Azure Logic Apps, Function Orchestration
 ---

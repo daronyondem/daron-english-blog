@@ -2,6 +2,7 @@
 Title: Google Developer Group Devfest Antalya 2018
 PublishDate: 14/10/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 25
 Tags: Azure, AI, Cognitive Services
 ---
