@@ -2,6 +2,7 @@
 Title: Google Developer Group Devfest Kutahya 2018
 PublishDate: 04/12/2018
 IsActive: True
+IsListed: True
 MinutesSpent: 18
 Tags: Azure, AI, Cognitive Services
 ---
