@@ -9,7 +9,7 @@ Tags: CosmosDB, Serverless, ESPC, Speaking, Conference
 
 This week I was at [ESPC 2018](https://www.sharepointeurope.com/) in Copenhagen to talk about CosmosDB. What a conference that was?!? I will be honest, at one point I was so jealous, I fancied to start working on Sharepoint :) I still can't believe that such a small team can organize such a professional conference at that size. Respect!
 
-![CosmosDB Talk at ESPC18](media/ESPC-CosmosDB-Talk/daron.jpg)
+![CosmosDB Talk at ESPC18](media/ESPC-CosmosDB-Talk/Daron.jpg)
 
 Unfortunately, this is the only photo from my session :) I need to do a better job at taking pictures of my sessions :) Thanks everyone for being there. Huge thanks to the event team. It looks like next years ESPC will be in Prague between 2-5 December. Hope to be there!
 
