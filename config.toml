@@ -1,0 +1,62 @@
+baseURL = "http://daron.blog/"
+languageCode = "en-us"
+title = "Daron Blog"
+theme = "noteworthy"
+summaryLength = 10
+paginate = 5
+
+googleAnalytics = "" 
+
+[params]
+	math = true
+	# Blog description at the top of the homepage. Supports markdown.
+	description = ""
+
+# Main
+twitter = "https://www.twitter.com/daronyondem"
+instagram = "https://www.instagram.com/daronyondem"
+youtube = "https://www.youtube.com/channel/UC7oYHShBoL7srrAVGMXWK0A/"
+linkedin = "https://www.linkedin.com/in/daronyondem/"
+
+# Programming
+github = "https://github.com/daronyondem"
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "http://daron.me"
+	weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+
+[[menu.main]]
+	name = "Archives"
+	identifier = "archives"
+	url = "/archives/"
+	weight = 3
+
+[[menu.main]]
+	name = "E-Mail List"
+	identifier = "subscribe"
+	url = "http://eepurl.com/cU3_0T"
+	weight = 4  
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
