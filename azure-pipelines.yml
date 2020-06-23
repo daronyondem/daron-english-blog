@@ -24,4 +24,4 @@ steps:
     archiveFile: $(Pipeline.Workspace)/hugo-build.zip
     replaceExistingArchive: true
 - publish: $(Pipeline.Workspace)/hugo-build.zip
-  artifact: build-${{ parameters.build_tag }}
+  artifact: blog
