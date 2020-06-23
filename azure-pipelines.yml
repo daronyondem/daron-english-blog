@@ -1,0 +1,31 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+- script: wget https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.deb
+    -O '$(Pipeline.Workspace)/hugo_Linux-64bit.deb'
+  displayName: Download Hugo} Linux x64
+- script: sudo dpkg -i $(Pipeline.Workspace)/hugo*.deb
+  displayName: Install Hugo
+- script: hugo 
+  displayName: Build site with Hugo 
+- task: ArchiveFiles@2
+  displayName: Archive built site files
+  inputs:
+    rootFolderOrFile: ./public
+    includeRootFolder: false
+    archiveType: zip
+    archiveFile: $(Pipeline.Workspace)/hugo-build.zip
+    replaceExistingArchive: true
+- publish: $(Pipeline.Workspace)/hugo-build.zip
+  artifact: blog
