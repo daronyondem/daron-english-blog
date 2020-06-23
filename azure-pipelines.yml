@@ -1,0 +1,27 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: hugo 
+  displayName: Build site with Hugo 
+- task: ArchiveFiles@2
+  displayName: Archive built site files
+  inputs:
+    rootFolderOrFile: ./public
+    includeRootFolder: false
+    archiveType: zip
+    archiveFile: $(Pipeline.Workspace)/hugo-build.zip
+    replaceExistingArchive: true
+- publish: $(Pipeline.Workspace)/hugo-build.zip
+  artifact: build-${{ parameters.build_tag }}
