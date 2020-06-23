@@ -2,7 +2,7 @@ baseURL = "http://daron.blog/"
 languageCode = "en-us"
 title = "Daron Blog"
 theme = "noteworthy"
-summaryLength = 10
+summaryLength = 20
 paginate = 5
 
 googleAnalytics = "" 
