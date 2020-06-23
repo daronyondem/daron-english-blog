@@ -7,6 +7,9 @@ paginate = 5
 
 googleAnalytics = "" 
 
+[markup.goldmark.renderer]
+    unsafe = true
+    
 [params]
 	math = true
 	# Blog description at the top of the homepage. Supports markdown.
