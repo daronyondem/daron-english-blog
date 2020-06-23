@@ -5,7 +5,7 @@ theme = "noteworthy"
 summaryLength = 20
 paginate = 5
 
-googleAnalytics = "" 
+googleAnalytics = "UA-48954873-4" 
 
 [markup.goldmark.renderer]
     unsafe = true
