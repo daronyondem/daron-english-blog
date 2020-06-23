@@ -31,16 +31,10 @@ github = "https://github.com/daronyondem"
 	weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
 
 [[menu.main]]
-	name = "Archives"
-	identifier = "archives"
-	url = "/archives/"
-	weight = 3
-
-[[menu.main]]
 	name = "E-Mail List"
 	identifier = "subscribe"
 	url = "http://eepurl.com/cU3_0T"
-	weight = 4  
+	weight = 2
 
 [privacy]
   [privacy.disqus]
