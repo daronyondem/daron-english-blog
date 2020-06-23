@@ -1,6 +1,11 @@
 {{ define "main" }}
 <!-- Page that displays after clicking on a post's tag -->
+    {{ if eq .Data.Term "Speaking" }}
+    <h1>These are all my <strong>speaking</strong> engagements.</h1>
+    {{ else }}
     <h1>This is all I wrote about <strong>{{ .Data.Term }}</strong></h1>
+    {{ end }}
+    
     <ul class="archives-list"> 
     {{ range (.Pages.GroupByDate "2006") }}
         <h3>{{ .Key }}</h3>
