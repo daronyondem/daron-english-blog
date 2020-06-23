@@ -12,11 +12,9 @@ pool:
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
-
-- script: wget https://github.com/gohugoio/hugo/releases/download/v${{ parameters.hugo_version }}
-    /hugo_${{ parameters.hugo_version }}_Linux-64bit.deb
-    -O '$(Pipeline.Workspace)/hugo_${{ parameters.hugo_version }}_Linux-64bit.deb'
-  displayName: Download Hugo v${{ parameters.hugo_version }} Linux x64
+- script: wget https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-ARM64.deb
+    -O '$(Pipeline.Workspace)/hugo_Linux-64bit.deb'
+  displayName: Download Hugo} Linux x64
 - script: sudo dpkg -i $(Pipeline.Workspace)/hugo*.deb
   displayName: Install Hugo
 - script: hugo 
