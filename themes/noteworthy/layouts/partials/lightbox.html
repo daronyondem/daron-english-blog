@@ -1,0 +1,7 @@
+{{ if or .Page.Params.lightbox .Site.Params.lightbox }}
+<!-- KaTeX -->
+<link rel="stylesheet" type="text/css" href="{{ "css/simplebox.min.css" | relURL }}" crossorigin="anonymous">
+<script type="text/javascript" src="{{ "js/simplebox.min.js" | relURL }}" crossorigin="anonymous"></script>
+<script type="text/javascript" src="{{ "js/auto-render.min.js" | relURL }}"onload="$(function () {$('.slb').simplebox();});" crossorigin="anonymous"></script>
+{{ end }}
+

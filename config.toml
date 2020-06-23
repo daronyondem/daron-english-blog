@@ -12,6 +12,7 @@ googleAnalytics = ""
     
 [params]
 	math = true
+  lightbox = true
 	# Blog description at the top of the homepage. Supports markdown.
 	description = ""
 

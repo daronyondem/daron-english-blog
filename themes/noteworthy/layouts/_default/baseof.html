@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!-- Default base template. Other templates define the "main" portion in this template -->
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.min.js"></script>
     {{ partial "head.html" . }}
     <body>
         {{ partial "nav.html" . }}
@@ -8,6 +9,7 @@
         {{ block "main" . }}
         {{ end }}
         {{ partial "math.html" . }}
+        {{ partial "lightbox.html" . }}
         </div>
         {{ partial "footer-mobile.html" . }}
     </body>
