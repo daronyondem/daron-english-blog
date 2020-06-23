@@ -41,22 +41,28 @@ github = "https://github.com/daronyondem"
 	weight = 2 
 
 [[menu.main]]
+	identifier = "Speaking"
+	name = "Speaking"
+	url = "/tags/speaking"
+	weight = 3 
+
+[[menu.main]]
 	identifier = "Fitness"
 	name = "Fitness"
 	url = "/tags/fitness"
-	weight = 3 
+	weight = 4
 
 [[menu.main]]
 	identifier = "others"
 	name = "Others"
 	url = "/tags/"
-	weight = 4
+	weight = 5
 
 [[menu.main]]
 	name = "E-Mail List"
 	identifier = "subscribe"
 	url = "http://eepurl.com/cU3_0T"
-	weight = 5
+	weight = 6
 
 [privacy]
   [privacy.disqus]
