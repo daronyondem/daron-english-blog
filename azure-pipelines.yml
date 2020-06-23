@@ -13,6 +13,12 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
+- script: wget https://github.com/gohugoio/hugo/releases/download/v${{ parameters.hugo_version }}
+    /hugo_${{ parameters.hugo_version }}_Linux-64bit.deb
+    -O '$(Pipeline.Workspace)/hugo_${{ parameters.hugo_version }}_Linux-64bit.deb'
+  displayName: Download Hugo v${{ parameters.hugo_version }} Linux x64
+- script: sudo dpkg -i $(Pipeline.Workspace)/hugo*.deb
+  displayName: Install Hugo
 - script: hugo 
   displayName: Build site with Hugo 
 - task: ArchiveFiles@2
