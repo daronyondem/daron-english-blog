@@ -7,6 +7,9 @@ paginate = 5
 
 googleAnalytics = "UA-48954873-4" 
 
+[permalinks]
+  posts = "/:year/:title/"
+
 [markup.goldmark.renderer]
     unsafe = true
     
@@ -27,15 +30,33 @@ github = "https://github.com/daronyondem"
 
 [[menu.main]]
 	identifier = "about"
-	name = "About"
+	name = "About Me"
 	url = "http://daron.me"
-	weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+	weight = 1 
+
+[[menu.main]]
+	identifier = "Software"
+	name = "Software"
+	url = "/tags/software"
+	weight = 2 
+
+[[menu.main]]
+	identifier = "Fitness"
+	name = "Fitness"
+	url = "/tags/fitness"
+	weight = 3 
+
+[[menu.main]]
+	identifier = "others"
+	name = "Others"
+	url = "/tags/"
+	weight = 4
 
 [[menu.main]]
 	name = "E-Mail List"
 	identifier = "subscribe"
 	url = "http://eepurl.com/cU3_0T"
-	weight = 2
+	weight = 5
 
 [privacy]
   [privacy.disqus]
