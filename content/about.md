@@ -1,23 +1,17 @@
 ---
-date: 2019-05-28
+date: 2020-06-24
 type: section
-title: "About"
+title: "About Me"
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE). Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi, I am Daron.
 
-Hugo makes use of a variety of open source projects including:
+Starting from the kid who wrote QBasic, it's been a long journey. My years spanned out across client app dev, back-end, cloud, and who knows where it will go. I led engineering teams at multiple startups and organizations in various sizes during the way.
 
-* [Blackfriday](https://github.com/russross/blackfriday)
-* [Chroma](https://github.com/alecthomas/chroma)
-* [Smartcrop](https://github.com/muesli/smartcrop)
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
+The desire to share what I discover resulted in me being a public speaker in various events and conferences. I figured I love it! Microsoft calls me a [MVP](https://mvp.microsoft.com/en-us/PublicProfile/4015692) and [RD](http://rd.microsoft.com/daron.yondem) for 12 years now. My recent love is Serverless! 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+If you want to have me in an event of yours, feel free to [look at the past events](/tags/speaking) I spoke to get a feel of what I can talk about :)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+If you want to reach out my e-mail is "myfirstname@mylastname.com" 👍  
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+See you around!
