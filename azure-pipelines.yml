@@ -31,4 +31,4 @@ steps:
     azureSubscription: 'Daron-Blog'
     appType: webApp
     appName: 'daron-fit'
-    package: '$(System.DefaultWorkingDirectory)/_daronyondem.daron-english-blog/blog/hugo-build.zip'
+    package: '$(Pipeline.Workspace)/hugo-build.zip'
