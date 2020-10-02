@@ -4,6 +4,8 @@ title = "Daron Blog"
 theme = "noteworthy"
 summaryLength = 20
 paginate = 5
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "vs"
 
 googleAnalytics = "UA-48954873-4" 
 
