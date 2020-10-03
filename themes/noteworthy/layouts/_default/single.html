@@ -1,14 +1,21 @@
 {{ define "main" }}
 
+{{ if .Params.ShowTableOfContent }}
+<div id="TableOfContentsDiv">
+    <h2>jump to...</h2>
+    {{ .TableOfContents }}
+</div>
+{{ end }}
+
 <h1 class="post-title">{{ .Title }}</h1>
     {{ if .Date }}
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
     <div>
         <p>
-        {{ .Content }}
+        {{ .Content }}                
         </p>
-    </div>
+    </div>    
     {{ template "_internal/disqus.html" . }}
 
     {{ if .Site.Params.enableKofi }}

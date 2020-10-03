@@ -14,7 +14,7 @@ $highlight: #FFEC5C;
 // FONTS
 $serif: "Noto Serif","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,serif;
 $sans-serif: "Noto Sans","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,sans-serif;
-$code: Menlo,Monaco,"Courier New",monospace;
+$code: monospace;
 
 /* SASS IMPORT ========================================================================== */
 
@@ -30,6 +30,7 @@ $code: Menlo,Monaco,"Courier New",monospace;
 pre
 {
     overflow: auto;
+    padding:10px;
 }
 html,
 body {
@@ -251,6 +252,20 @@ table {
 nav {
     padding: 0.25em 1.5em 1em 1.5em;
     max-width: 100%;
+}
+
+#TableOfContentsDiv {
+    margin-left:750px;
+    margin-top:160px;
+    position: fixed;
+}
+#TableOfContentsDiv nav {
+    position: relative;
+    overflow: unset;
+    left: 0px;
+}
+#TableOfContentsDiv a {
+    text-decoration: none;
 }
 
 .site-title {
