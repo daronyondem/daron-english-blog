@@ -10,7 +10,7 @@ Starting from the kid who wrote QBasic, it's been a long journey. My years spann
 
 The desire to share what I discover resulted in me being a public speaker in various events and conferences. I figured I love it! Microsoft calls me a [MVP](https://mvp.microsoft.com/en-us/PublicProfile/4015692) and [RD](http://rd.microsoft.com/daron.yondem) for 12 years now. My recent love is Serverless! 
 
-If you want to have me in an event of yours, feel free to [look at the past events](/tags/speaking) I spoke to get a feel of what I can talk about :)
+If you want to have me in an event of yours, feel free to [look at the past events](/speaking) I spoke to get a feel of what I can talk about :)
 
 If you want to reach out my e-mail is "myfirstname@mylastname.com" 👍  
 
