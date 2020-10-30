@@ -47,7 +47,7 @@ github = "https://github.com/daronyondem"
 [[menu.main]]
 	identifier = "Speaking"
 	name = "Speaking"
-	url = "/tags/speaking"
+	url = "/Speaking"
 	weight = 3 
 
 [[menu.main]]
