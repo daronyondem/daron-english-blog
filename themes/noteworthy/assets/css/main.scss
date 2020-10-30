@@ -130,6 +130,10 @@ a {
     color: $gray-dark;
 }
 
+li a {
+    text-decoration: none;
+}
+
 a,
 a>svg {
     transition: 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
