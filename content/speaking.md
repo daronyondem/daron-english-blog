@@ -15,6 +15,7 @@ Here is where I'm planning to be next;
 | [Azure Community Conference India](https://www.azconf.dev/) | Function Orchestration in the World of Serverless | Nov 24, 2020 | Online |
 | [Teknolot .NET Conf Online](https://www.meetup.com/Teknolot/events/273634473/) | Introducing the New and Improved Azure SDK for .NET | Nov 28, 2020 | Online |
 | [Data Platform Summit 2020](https://dataplatformgeeks.com/dps2020/) | CosmosDB: Jack of all Trades, Master of Many | Dec 2, 2020 | Online | 
+| [aOS Türkiye](https://collabtr.com/aos-turkiye/) | Grab and Go AI | Dec 17, 2020 | Online | 
 
 <br/>
 
