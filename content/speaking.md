@@ -11,8 +11,6 @@ Here is where I'm planning to be next;
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
-| [Teknolot .NET Conf Online](https://www.meetup.com/Teknolot/events/273634473/) | Introducing the New and Improved Azure SDK for .NET | Nov 28, 2020 | Online |
-| [Data Platform Summit 2020](https://dataplatformgeeks.com/dps2020/) | CosmosDB: Jack of all Trades, Master of Many | Dec 2, 2020 | Online | 
 | [aOS Türkiye](https://collabtr.com/aos-turkiye/) | Grab and Go AI | Dec 17, 2020 | Online | 
 
 <br/>
@@ -23,6 +21,8 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
+| [Data Platform Summit 2020](https://dataplatformgeeks.com/dps2020/) | CosmosDB: Jack of all Trades, Master of Many | Dec 4, 2020 | Online | 
+| [Teknolot .NET Conf Online](https://www.meetup.com/Teknolot/events/273634473/) | Introducing the New and Improved Azure SDK for .NET | Nov 28, 2020 | Online |
 | [Azure Community Conference India](https://www.azconf.dev/) | Function Orchestration in the World of Serverless | Nov 24, 2020 | Online |
 | [MVP Days Israel 2020](https://mvpdays.co.il/) | Function Orchestration in the World of Serverless | Nov 19, 2020 | Online |
 | [SAU The World of Algorithms](https://www.linkedin.com/posts/sakaryaemk_sa%C3%BCemk-ailesi-olarak-yapay-zeka-makine-%C3%B6%C4%9Frenmesi-activity-6728349840381661184-SVMi) | Practical AI | Nov 6, 2020 | Online |
