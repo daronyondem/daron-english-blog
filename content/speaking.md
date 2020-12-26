@@ -11,7 +11,7 @@ Here is where I'm planning to be next;
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
-| [aOS Türkiye](https://collabtr.com/aos-turkiye/) | Grab and Go AI | Dec 17, 2020 | Online | 
+| [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud  | Jan 7, 2021 | Online | 
 
 <br/>
 
