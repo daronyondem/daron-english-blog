@@ -52,6 +52,8 @@ $result = Invoke-RestMethod -Uri $uri -Method GET -Headers $headers `
 
 The final step is to download the documents from the index. We have to use [the Search API](https://docs.microsoft.com/en-us/rest/api/searchservice/search-documents) to access documents. There is no other way. The API has `$skip` and `$top` parameters that allows paging the result set. There are continuation tokens, but those are simply the search endpoint URL with an incremental skip and top values. One critical issue is the [BM25](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables) scoring that might shift data while our code iterates through pages. Another problem is if you have other applications interacting with the index that can trigger various data changes. Therefore, there isn't a guaranteed way of making sure you have a proper full backup. You might want to check document counts at least once after you restore the data to a new index. It will give you some level of confidence.
 
+While getting [the document count](https://docs.microsoft.com/en-us/rest/api/searchservice/count-documents) I got into some weird encoding issues with Powershell's `Invoke-RestMethod` or `Invoke-WebRequest`. After some timeboxed research, I decided to fall back to `System.Net.WebRequest`. It worked, so I moved on.
+
 ```powershell
 $uri = $serviceUri `
   + "/indexes/$($selectedIndexName.Name)/docs/`$count?api-version=2020-06-30"
@@ -67,7 +69,7 @@ $result = $reader.ReadToEnd()
 $documentCount = [int]$result
 ```
 
-While getting [the document count](https://docs.microsoft.com/en-us/rest/api/searchservice/count-documents) I got into some weird encoding issues with Powershell's `Invoke-RestMethod` or `Invoke-WebRequest`. After some timeboxed research, I decided to fall back to `System.Net.WebRequest`. It worked, so I moved on.
+To download documents faster, I decided to parallelize the code. With their introduction in Powershell 7, [ForEach-Object -Parallel](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/foreach-object?view=powershell-7) with a nice ThrottleLimit parameter and ability to [Receive-Job -Wait](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/receive-job?view=powershell-7.1), similar to WaitAll in C#, makes everything so comfortable. 
 
 ```powershell
 $pageCount = [math]::ceiling($documentCount / 500) 
@@ -82,8 +84,6 @@ $job = 1..$pageCount  | ForEach-Object -Parallel {
 } -ThrottleLimit 5 -AsJob
 $job | Receive-Job -Wait
 ```
-
-To download documents faster, I decided to parallelize the code. With their introduction in Powershell 7, [ForEach-Object -Parallel](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/foreach-object?view=powershell-7) with a nice ThrottleLimit parameter and ability to [Receive-Job -Wait](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/receive-job?view=powershell-7.1), similar to WaitAll in C#, makes everything so comfortable. 
 
 Once you run the script, you will end up with a schema file and a bunch of JSON files, each having 500 documents in them. 
 
