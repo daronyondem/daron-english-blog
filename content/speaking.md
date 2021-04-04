@@ -1,5 +1,5 @@
 ---
-date: 2020-12-04
+date: 2021-04-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,17 +11,27 @@ Here is where I'm planning to be next;
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
-| [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud  | Jan 7, 2021 | Online | 
+| [Global AI Night Istanbul 2021](https://www.meetup.com/Teknolot/events/276686223/) | Responsible ML | Apr 24, 2021 | Online |
+| [CloudTalk MatchMaking Summit 2021](https://cloudtalk.icu/) | Intro to ML Ops in Azure | May 26, 2021 | Online |
+| [ESPC21](https://www.sharepointeurope.com/events/no-code-conversational-ai-and-bots/) | No-Code Conversational AI and Bots | Jun 2, 2021 | Online |
 
 <br/>
 
-Here is a list of my past speaking activities, primarily kept for nostalgic reasons :) 
+Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)
+
+## 2021
+
+| Name | Topic | Date | Place |
+| ----------- | ----------- | ----------- | ----------- |
+| [GDG Duzce AI Nights](https://youtu.be/Q478pKD2lnc) | All AI Q&A Session  | Feb 28, 2021 | Online |
+| [Microsoft Turkey Developer Cloud Summit](https://twitter.com/MicrosoftTR/status/1361563465165529088) | Community Talk | Feb 16, 2021 | Online |
+| [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud  | Jan 7, 2021 | Online |
 
 ## 2020
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
-| [Data Platform Summit 2020](https://dataplatformgeeks.com/dps2020/) | CosmosDB: Jack of all Trades, Master of Many | Dec 4, 2020 | Online | 
+| [Data Platform Summit 2020](https://dataplatformgeeks.com/dps2020/) | CosmosDB: Jack of all Trades, Master of Many | Dec 4, 2020 | Online |
 | [Teknolot .NET Conf Online](https://www.meetup.com/Teknolot/events/273634473/) | Introducing the New and Improved Azure SDK for .NET | Nov 28, 2020 | Online |
 | [Azure Community Conference India](https://www.azconf.dev/) | Function Orchestration in the World of Serverless | Nov 24, 2020 | Online |
 | [MVP Days Israel 2020](https://mvpdays.co.il/) | Function Orchestration in the World of Serverless | Nov 19, 2020 | Online |
