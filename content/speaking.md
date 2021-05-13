@@ -11,7 +11,7 @@ Here is where I'm planning to be next;
 
 | Name | Topic | Date | Place |
 | ----------- | ----------- | ----------- | ----------- |
-| [Microsoft Build 2021](https://build.microsoft.com) | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online |
+| [Microsoft Build 2021](https://mybuild.microsoft.com/sessions/bbee6b04-b772-4c2a-8b31-ccb99f703692?source=sessions) | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online |
 | [CloudTalk MatchMaking Summit 2021](https://cloudtalk.icu/) | Intro to ML Ops in Azure | May 26, 2021 | Online |
 | [ESPC21](https://www.sharepointeurope.com/events/no-code-conversational-ai-and-bots/) | No-Code Conversational AI and Bots | Jun 2, 2021 | Online |
 
