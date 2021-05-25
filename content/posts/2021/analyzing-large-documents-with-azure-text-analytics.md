@@ -11,7 +11,7 @@ Tags:
 ShowTableOfContent: true
 ---
 
-A day ago, I saw Anuraj, [a fellow MVP](https://twitter.com/anuraj), [researching](https://twitter.com/anuraj/status/1347136278379204612) the document size limitations of Azure Text Analytics. If you look at [the official documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3), the answer is pretty straightforward, and in some sense, not so helpful. 
+A day ago, I saw Anuraj, [a fellow MVP](https://twitter.com/anuraj), [researching](https://twitter.com/anuraj/status/1347136278379204612) the document size limitations of Azure Text Analytics. If you look at [the official documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3&WT.mc_id=AZ-MVP-4015692), the answer is pretty straightforward, and in some sense, not so helpful. 
 
 ![](/media/2021/2021-01-09_11-12-08.png)
 
@@ -63,7 +63,7 @@ public static async Task<IActionResult> Run(
 }
 ```
 
-First, I'm splitting the files into separate lines hoping that line separation will help keeping sentence structure and meaning as much as possible before I cut the text into 5000 character length segments. The maximum size for a single document for Text Analytics is [5,120 characters](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3). I could have implemented the splitting as an asynchronous task and orchestrated it with Durable Functions. In this case, I wanted this process to be part of the initial HTTP request to make sure failure in segmentation is something the user can face during document submission, the initial GET request. This is not a very good idea if your files are massive :) I will talk about the gigantic files scenario later on. 
+First, I'm splitting the files into separate lines hoping that line separation will help keeping sentence structure and meaning as much as possible before I cut the text into 5000 character length segments. The maximum size for a single document for Text Analytics is [5,120 characters](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3&WT.mc_id=AZ-MVP-4015692). I could have implemented the splitting as an asynchronous task and orchestrated it with Durable Functions. In this case, I wanted this process to be part of the initial HTTP request to make sure failure in segmentation is something the user can face during document submission, the initial GET request. This is not a very good idea if your files are massive :) I will talk about the gigantic files scenario later on. 
 
 ## Orchestration and Fan-Out
 
@@ -131,7 +131,7 @@ In case you are not familiar with Durable Functions, here is what will happen ne
 
 ## The Result
 
-When you upload the solution to Azure, make sure you have Standard tier Text Analytics services. The free version has a 200 transaction/minute limit on it. [The standard tier can go up to 1000 requests per minute](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3). 
+When you upload the solution to Azure, make sure you have Standard tier Text Analytics services. The free version has a 200 transaction/minute limit on it. [The standard tier can go up to 1000 requests per minute](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3&WT.mc_id=AZ-MVP-4015692). 
 
 ![](/media/2021/2021-01-09_14-22-56.png)
 
@@ -151,7 +151,7 @@ The average runtime for the Orchestrator is just 198ms. That's perfect. The timi
 
 `AnalyzeText` ran 2.4K times. That's ok. It looks like we successfully analyzed 2.4K segments. The number is aligned with the number of successful Text Analytics transactions we saw previously. The `Analyze` function is the HTTP function. It ran ten times. That approves my memory of submitting ten documents as a test. Finally, our Orchestrator ran 161 times. What? 
 
-Here is what we know so far; we run an orchestrator every time we run the HTTP function. That means we should at least have ten runs of the Orchestrator. We have 161. Oh wait, after we wait for all the tasks to complete, there is a replay. That counts as execution as well. Cool, we are up to two times ten equals 20. We are still 141 far. That's because when there are tons of tasks to be waited and replays to be processed, Durable Functions Runtime does batch replays without waiting for all tasks to complete. There is a [detailed section in the official docs about replays]((https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-perf-and-scale#orchestrator-function-replay)) if interested :) 
+Here is what we know so far; we run an orchestrator every time we run the HTTP function. That means we should at least have ten runs of the Orchestrator. We have 161. Oh wait, after we wait for all the tasks to complete, there is a replay. That counts as execution as well. Cool, we are up to two times ten equals 20. We are still 141 far. That's because when there are tons of tasks to be waited and replays to be processed, Durable Functions Runtime does batch replays without waiting for all tasks to complete. There is a [detailed section in the official docs about replays]((https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-perf-and-scale?WT.mc_id=AZ-MVP-4015692#orchestrator-function-replay)) if interested :) 
 
 ## What Can Be Improved?
 
@@ -165,19 +165,19 @@ Keep in mind that the improvements discussed here are not as easy as they sound 
 
 While working on the solution above, one alternative solution that came to my mind is much smoother and more comfortable. Still, it might be a little bit more costly and not as real-time as functions are, but it might provide better search capabilities on the resulting data set. 
 
-We can use Azure Cognitive Search, [Key Phrase Extraction](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-keyphrases), and [Text split](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit) cognitive skills to index documents and create an [enriched knowledge base](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro). However, [incremental enrichment is in preview](https://docs.microsoft.com/en-us/azure/search/cognitive-search-incremental-indexing-conceptual), and you might not need/want a cognitive search environment's footprint. With that said, it is a straightforward implementation if you want to create an index with key phrases out of an archive of documents. 
+We can use Azure Cognitive Search, [Key Phrase Extraction](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-keyphrases?WT.mc_id=AZ-MVP-4015692), and [Text split](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit?WT.mc_id=AZ-MVP-4015692) cognitive skills to index documents and create an [enriched knowledge base](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro?WT.mc_id=AZ-MVP-4015692). However, [incremental enrichment is in preview](https://docs.microsoft.com/en-us/azure/search/cognitive-search-incremental-indexing-conceptual?WT.mc_id=AZ-MVP-4015692), and you might not need/want a cognitive search environment's footprint. With that said, it is a straightforward implementation if you want to create an index with key phrases out of an archive of documents. 
 
 Hope this post gives you some ideas about different options and ways of using Text Analytics with large documents :) The source code of the project I built as a sample for this blog post is on [Github](https://github.com/daronyondem/azuresamples/tree/main/LargeTextAnalysis). This is as far as we will go for now ;)
 
 ## Resources
 
-- [AI enrichment in Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
-- [Data and rate limits for the Text Analytics API](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3)
-- [DurableTaskOptions.MaxConcurrentActivityFunctions Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.webjobs.extensions.durabletask.durabletaskoptions.maxconcurrentactivityfunctions?view=azure-dotnet)
-- [Incremental enrichment and caching in Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-incremental-indexing-conceptual)
-- [Key Phrase Extraction cognitive skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-keyphrases)
+- [AI enrichment in Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro?WT.mc_id=AZ-MVP-4015692)
+- [Data and rate limits for the Text Analytics API](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/data-limits?tabs=version-3&WT.mc_id=AZ-MVP-4015692)
+- [DurableTaskOptions.MaxConcurrentActivityFunctions Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.webjobs.extensions.durabletask.durabletaskoptions.maxconcurrentactivityfunctions?view=azure-dotnet&WT.mc_id=AZ-MVP-4015692)
+- [Incremental enrichment and caching in Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-incremental-indexing-conceptual?WT.mc_id=AZ-MVP-4015692)
+- [Key Phrase Extraction cognitive skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-keyphrases?WT.mc_id=AZ-MVP-4015692)
 - [Microsoft.Azure.WebJobs.Extensions.DurableTask Nuget Package](https://www.nuget.org/packages/Microsoft.Azure.WebJobs.Extensions.DurableTask)
-- [Performance and scale in Durable Functions (Azure Functions)](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-perf-and-scale#orchestrator-function-replay)
-- [Text split cognitive skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit)
+- [Performance and scale in Durable Functions (Azure Functions)](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-perf-and-scale?WT.mc_id=AZ-MVP-4015692#orchestrator-function-replay)
+- [Text split cognitive skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit?WT.mc_id=AZ-MVP-4015692)
 
 
