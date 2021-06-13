@@ -22,12 +22,11 @@ googleAnalytics = "UA-48954873-4"
 	description = ""
 
 # Main
+linkedin = "https://www.linkedin.com/in/daronyondem/"
 twitter = "https://www.twitter.com/daronyondem"
 instagram = "https://www.instagram.com/daronyondem"
 youtube = "https://www.youtube.com/channel/UC7oYHShBoL7srrAVGMXWK0A/"
-linkedin = "https://www.linkedin.com/in/daronyondem/"
 mvp = "https://mvp.microsoft.com/en-us/PublicProfile/4015692?fullName=Daron%20Yondem"
-rd = "https://rd.microsoft.com/en-us/daron-yondem"
 
 # Programming
 github = "https://github.com/daronyondem"
