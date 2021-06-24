@@ -9,9 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                             | Topic             | Date         | Place  |
-|--------------------------------------------------|-------------------|--------------|--------|
-| [Global AI On Tour](https://tour.globalai.live/) | AI-Infused Search | Jun 17, 2021 | Online |
+| Name                                                                                                 | Topic                               | Date         | Place  |
+|------------------------------------------------------------------------------------------------------|-------------------------------------|--------------|--------|
+| [Data Platform Virtual Summit 2021](https://dataplatformgeeks.com/dps2021/sessions-agenda-schedule/) | The ML Hero's Secret Weapon: AutoML | Sep 13, 2021 | Online |
 
 <br/>
 
@@ -21,10 +21,12 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|--------|
+| [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                                                                 | AI-Infused Search                                                     | Jun 17, 2021 | Online |
 | [ESPC21](https://www.sharepointeurope.com/conference/speakers/2021/)                                                              | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online |
 | [CloudTalk MatchMaking Summit 2021](https://youtu.be/vkLY2LKzZ18)                                                                 | Intro to ML Ops in Azure                                              | May 26, 2021 | Online |
 | [Microsoft Build 2021](https://youtu.be/AilAxfKaRyM?t=916)                                                                        | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online |
 | [Global AI Night Istanbul 2021](https://www.meetup.com/Teknolot/events/276686223/)                                                | Responsible ML                                                        | Apr 24, 2021 | Online |
+| [Google DevFest Turkey](https://youtu.be/PgESGg42m04)                                                                             | The ML Hero's Secret Weapon: AutoML                                   | Mar 12, 2021 | Online |
 | [GDG Duzce AI Nights](https://youtu.be/Q478pKD2lnc)                                                                               | All AI Q&A Session                                                    | Feb 28, 2021 | Online |
 | [Microsoft Turkey Developer Cloud Summit](https://twitter.com/MicrosoftTR/status/1361563465165529088)                             | Community Talk                                                        | Feb 16, 2021 | Online |
 | [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud                              | Jan 7, 2021  | Online |
