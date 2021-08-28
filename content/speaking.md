@@ -12,6 +12,7 @@ Here is where I'm planning to be next;
 | Name                                                                                                 | Topic                                             | Date         | Place  |
 |------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|--------|
 | [Data Platform Virtual Summit 2021](https://dataplatformgeeks.com/dps2021/sessions-agenda-schedule/) | The ML Hero's Secret Weapon: AutoML               | Sep 13, 2021 | Online |
+| [Azure Community Conference 2021](https://www.azconf.dev/)                                           | The ML Hero's Secret Weapon: AutoML               | Oct 20, 2021 | Online |
 | [Update Conference Prague 2021](https://www.updateconference.net/)                                   | Function Orchestration in the World of Serverless | Nov 18, 2021 | Online |
 
 <br/>
