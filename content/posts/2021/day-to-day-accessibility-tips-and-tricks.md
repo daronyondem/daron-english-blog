@@ -10,7 +10,7 @@ Tags:
 ShowTableOfContent: true
 ---
 
-Wait, what? You are telling me I should explain why I have that arrow shape in the slide? This is where my accessibility awareness journey started pretty much around a year ago when I built my first trainer deck for one of the Microsoft Cloud Workshops. Like many of you, I have maybe built thousands of decks but with no clue about accessibility. Back in that day, I was working for Solliance building a Microsoft Cloud Workshop, and Microsoft had a throughout auditing process and detailed guidelines about accessibility.
+Wait, what? You are telling me I should explain why I have that arrow shape in the slide? This is where my accessibility awareness journey started pretty much around a year ago when I built my first trainer deck for one of the [Microsoft Cloud Workshops](https://microsoftcloudworkshop.com/). Like many of you, I have maybe built thousands of decks but with no clue about accessibility. Back in that day, I was working for [Solliance](https://solliance.net/) building a Microsoft Cloud Workshop, and Microsoft had a throughout auditing process and detailed guidelines about accessibility.
 
 ![Achievement in Accessibility Badge by Microsoft](/media/2021/2021-09-11_15-59-42.png "Achievement in Accessibility Badge by Microsoft")
 
