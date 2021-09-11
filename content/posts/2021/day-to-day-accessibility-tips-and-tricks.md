@@ -12,6 +12,8 @@ ShowTableOfContent: true
 
 Wait, what? You are telling me I should explain why I have that arrow shape in the slide? This is where my accessibility awareness journey started pretty much around a year ago when I built my first trainer deck for one of the Microsoft Cloud Workshops. Like many of you, I have maybe built thousands of decks but with no clue about accessibility. Back in that day, I was working for Solliance building a Microsoft Cloud Workshop, and Microsoft had a throughout auditing process and detailed guidelines about accessibility.
 
+![Achievement in Accessibility Badge by Microsoft](/media/2021/2021-09-11_15-59-42.png "Achievement in Accessibility Badge by Microsoft")
+
 Last week, as a new employee, I went through Microsoft's internal employee learning portal and found the [Accessibility 101](https://www.credly.com/earner/earned/badge/011c6124-0688-4906-8772-7cd83f3aa3ff) online course. To my surprise, the course did have a good amount of practical information and connected the concept of accessibility nicely to inclusion and diversity. In this post, I want to share a couple of the practical steps to help you step up your accessibility game. If you are where I was, I'm sure you will love these.
 
 ## Color Contrast Analyzer
