@@ -12,7 +12,7 @@ ShowTableOfContent: true
 
 Wait, what? You are telling me I should explain why I have that arrow shape in the slide? This is where my accessibility awareness journey started pretty much around a year ago when I built my first trainer deck for one of the Microsoft Cloud Workshops. Like many of you, I have maybe built thousands of decks but with no clue about accessibility. Back in that day, I was working for Solliance building a Microsoft Cloud Workshop, and Microsoft had a throughout auditing process and detailed guidelines about accessibility.
 
-Last week, as a new employee, I went through Microsoft's internal employee learning portal and found the Accessibility 101 online course. To my surprise, the course did have a good amount of practical information and connected the concept of accessibility nicely to inclusion and diversity. In this post, I want to share a couple of the practical steps to help you step up your accessibility game. If you are where I was, I'm sure you will love these.
+Last week, as a new employee, I went through Microsoft's internal employee learning portal and found the [Accessibility 101](https://www.credly.com/earner/earned/badge/011c6124-0688-4906-8772-7cd83f3aa3ff) online course. To my surprise, the course did have a good amount of practical information and connected the concept of accessibility nicely to inclusion and diversity. In this post, I want to share a couple of the practical steps to help you step up your accessibility game. If you are where I was, I'm sure you will love these.
 
 ## Color Contrast Analyzer
 
@@ -38,7 +38,7 @@ Trust me; once you get used to it, it does not take more than an additional 3-5 
 
 Captioning is another vital accessibility feature when it comes to presentations. You can enable live captioning for free in Powerpoint. Just go to the **Slide Show (1)** tab and select the **Spoken Language, Subtitle Language (2)**, and finally, check **Always Use Subtitles (4)**. The next time you start presenting, you will see live captions. That's all!
 
-![Powerpoint's Slide Show panel is open. Always use subtitles is checked. Subtitle Settings is open and spoken language is set to English.](media/2021/2021-09-11_14-46-17.png "Powerpoint Live Captioning Settings")
+![Powerpoint's Slide Show panel is open. Always use subtitles is checked. Subtitle Settings is open and spoken language is set to English.](/media/2021/2021-09-11_14-46-17.png "Powerpoint Live Captioning Settings")
 
 ## Accessibility Insights for Web Content
 
