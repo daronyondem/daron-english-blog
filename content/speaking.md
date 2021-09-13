@@ -1,5 +1,5 @@
 ---
-date: 2021-07-29
+date: 2021-09-13
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -10,8 +10,7 @@ It all started when they asked me If I would like to speak about what I wrote. S
 Here is where I'm planning to be next;
 
 | Name                                                                                                 | Topic                                             | Date         | Place  |
-|------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|--------|
-| [Data Platform Virtual Summit 2021](https://dataplatformgeeks.com/dps2021/sessions-agenda-schedule/) | The ML Hero's Secret Weapon: AutoML               | Sep 13, 2021 | Online |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|------
 | [Azure Community Conference 2021](https://www.azconf.dev/)                                           | The ML Hero's Secret Weapon: AutoML               | Oct 20, 2021 | Online |
 | [Update Conference Prague 2021](https://www.updateconference.net/)                                   | Function Orchestration in the World of Serverless | Nov 18, 2021 | Online |
 
@@ -23,6 +22,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|--------|
+| [Data Platform Virtual Summit 2021](https://drn.fyi/3A897EM)                                                                      | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online |
 | [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                                                                 | AI-Infused Search                                                     | Jun 17, 2021 | Online |
 | [ESPC21](https://www.sharepointeurope.com/conference/speakers/2021/)                                                              | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online |
 | [CloudTalk MatchMaking Summit 2021](https://youtu.be/vkLY2LKzZ18)                                                                 | Intro to ML Ops in Azure                                              | May 26, 2021 | Online |
