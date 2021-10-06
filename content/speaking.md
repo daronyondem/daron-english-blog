@@ -12,7 +12,7 @@ Here is where I'm planning to be next;
 | Name                                                                                                 | Topic                                               | Date         | Place  |
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------|--------|
 | [Microsoft Rapid Innovation Hackfest](https://mktoevents.com/Microsoft+Event/291933/157-GQE-382)     | Enable AI-powered cloud search to Existing Websites | Oct 6, 2021  | Online |
-| [Azure Community Conference 2021](https://www.azconf.dev/)                                           | The ML Hero's Secret Weapon: AutoML                 | Oct 20, 2021 | Online |
+| [Azure Community Conference 2021](https://www.azconf.dev/)                                           | The ML Hero's Secret Weapon: AutoML                 | Oct 30, 2021 | Online |
 | [Update Conference Prague 2021](https://www.updateconference.net/)                                   | Function Orchestration in the World of Serverless   | Nov 18, 2021 | Online |
 
 <br/>
