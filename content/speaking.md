@@ -1,5 +1,5 @@
 ---
-date: 2021-09-27
+date: 2021-10-13
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,8 +11,8 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                 | Topic                                               | Date         | Place  |
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------|--------|
-| [Microsoft Rapid Innovation Hackfest](https://mktoevents.com/Microsoft+Event/291933/157-GQE-382)     | Enable AI-powered cloud search to Existing Websites | Oct 6, 2021  | Online |
 | [Azure Community Conference 2021](https://www.azconf.dev/)                                           | The ML Hero's Secret Weapon: AutoML                 | Oct 30, 2021 | Online |
+| [Google DevFest Konya](https://gdg.community.dev/gdg-konya/)                                         | TBA                                                 | Nov 6, 2021  | Online |
 | [Update Conference Prague 2021](https://www.updateconference.net/)                                   | Function Orchestration in the World of Serverless   | Nov 18, 2021 | Online |
 
 <br/>
@@ -23,6 +23,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|--------|
+| [Microsoft Rapid Innovation Hackfest](https://mktoevents.com/Microsoft+Event/291933/157-GQE-382)                                  | Enable AI-powered cloud search to Existing Websites                   | Oct 6, 2021  | Online |
 | [Data Platform Virtual Summit 2021](https://drn.fyi/3A897EM)                                                                      | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online |
 | [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                                                                 | AI-Infused Search                                                     | Jun 17, 2021 | Online |
 | [ESPC21](https://www.sharepointeurope.com/conference/speakers/2021/)                                                              | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online |
