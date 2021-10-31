@@ -11,7 +11,7 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                 | Topic                                               | Date         | Place  |
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------|--------|
-| [Google DevFest Konya](https://gdg.community.dev/gdg-konya/)                                         | TBA                                                 | Nov 6, 2021  | Online |
+| [Google DevFest Konya](https://gdg.community.dev/gdg-konya/)                                         | Cloud 101                                           | Nov 6, 2021  | Online |
 | [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)             | Innovation for your Apps with Azure                 | Nov 9, 2021  | Online |
 | [Update Conference Prague 2021](https://www.updateconference.net/)                                   | Function Orchestration in the World of Serverless   | Nov 18, 2021 | Online |
 
