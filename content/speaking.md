@@ -1,5 +1,5 @@
 ---
-date: 2021-11-10
+date: 2021-11-27
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,9 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                               | Topic                                             | Date         | Place  |
-|--------------------------------------------------------------------|---------------------------------------------------|--------------|--------|
-| [Update Conference Prague 2021](https://www.updateconference.net/) | Function Orchestration in the World of Serverless | Nov 18, 2021 | Online |
+| Name           | Topic                                 | Date         | Place          |
+|----------------|---------------------------------------|--------------|----------------|
+| AI Fest Ankara | Innovate now with Applied AI Services | Dec 18, 2021 | Ankara, Turkey |
 
 <br/>
 
@@ -21,6 +21,8 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|--------|
+| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online | 
+| [Update Conference Prague 2021](https://www.youtube.com/watch?v=iuQncu-jf68)                                                      | Function Orchestration in the World of Serverless                     | Nov 18, 2021 | Online |
 | [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)                                          | Innovation for your Apps with Azure                                   | Nov 9, 2021  | Online |
 | [Google DevFest Konya](https://gdg.community.dev/gdg-konya/)                                                                      | Cloud 101                                                             | Nov 6, 2021  | Online |
 | [Azure Community Conference 2021](https://www.youtube.com/watch?v=uZYQhDyKLsc&t=9s)                                               | The ML Hero's Secret Weapon: AutoML                                   | Oct 30, 2021 | Online |
