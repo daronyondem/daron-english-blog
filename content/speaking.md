@@ -19,24 +19,24 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2021
 
-| Name                                                                                                                              | Topic                                                                 | Date         | Place  |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|--------|
-| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online | 
-| [Update Conference Prague 2021](https://www.youtube.com/watch?v=iuQncu-jf68)                                                      | Function Orchestration in the World of Serverless                     | Nov 18, 2021 | Online |
-| [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)                                          | Innovation for your Apps with Azure                                   | Nov 9, 2021  | Online |
-| [Google DevFest Konya](https://gdg.community.dev/gdg-konya/)                                                                      | Cloud 101                                                             | Nov 6, 2021  | Online |
-| [Azure Community Conference 2021](https://www.youtube.com/watch?v=uZYQhDyKLsc&t=9s)                                               | The ML Hero's Secret Weapon: AutoML                                   | Oct 30, 2021 | Online |
-| [Microsoft Rapid Innovation Hackfest](https://mktoevents.com/Microsoft+Event/291933/157-GQE-382)                                  | Enable AI-powered cloud search to Existing Websites                   | Oct 6, 2021  | Online |
-| [Data Platform Virtual Summit 2021](https://drn.fyi/3A897EM)                                                                      | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online |
-| [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                                                                 | AI-Infused Search                                                     | Jun 17, 2021 | Online |
-| [ESPC21](https://www.sharepointeurope.com/conference/speakers/2021/)                                                              | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online |
-| [CloudTalk MatchMaking Summit 2021](https://youtu.be/vkLY2LKzZ18)                                                                 | Intro to ML Ops in Azure                                              | May 26, 2021 | Online |
-| [Microsoft Build 2021](https://youtu.be/AilAxfKaRyM?t=916)                                                                        | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online |
-| [Global AI Night Istanbul 2021](https://www.meetup.com/Teknolot/events/276686223/)                                                | Responsible ML                                                        | Apr 24, 2021 | Online |
-| [Google DevFest Turkey](https://youtu.be/PgESGg42m04)                                                                             | The ML Hero's Secret Weapon: AutoML                                   | Mar 12, 2021 | Online |
-| [GDG Duzce AI Nights](https://youtu.be/Q478pKD2lnc)                                                                               | All AI Q&A Session                                                    | Feb 28, 2021 | Online |
-| [Microsoft Turkey Developer Cloud Summit](https://twitter.com/MicrosoftTR/status/1361563465165529088)                             | Community Talk                                                        | Feb 16, 2021 | Online |
-| [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud                              | Jan 7, 2021  | Online |
+| Name                                                                                                                              | Topic                                                                 | Date         | Place         |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|---------------|
+| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online        | 
+| [Update Conference Prague 2021](https://www.youtube.com/watch?v=iuQncu-jf68)                                                      | Function Orchestration in the World of Serverless                     | Nov 18, 2021 | Online        |
+| [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)                                          | Innovation for your Apps with Azure                                   | Nov 9, 2021  | Online        |
+| [Google DevFest Konya](https://twitter.com/GDGKonya/status/1455989565962002446)                                                   | Cloud 101                                                             | Nov 6, 2021  | Konya, Turkey |
+| [Azure Community Conference 2021](https://www.youtube.com/watch?v=uZYQhDyKLsc&t=9s)                                               | The ML Hero's Secret Weapon: AutoML                                   | Oct 30, 2021 | Online        |
+| [Microsoft Rapid Innovation Hackfest](https://mktoevents.com/Microsoft+Event/291933/157-GQE-382)                                  | Enable AI-powered cloud search to Existing Websites                   | Oct 6, 2021  | Online        |
+| [Data Platform Virtual Summit 2021](https://drn.fyi/3A897EM)                                                                      | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online        |
+| [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                                                                 | AI-Infused Search                                                     | Jun 17, 2021 | Online        |
+| [ESPC21](https://www.sharepointeurope.com/conference/speakers/2021/)                                                              | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online        |
+| [CloudTalk MatchMaking Summit 2021](https://youtu.be/vkLY2LKzZ18)                                                                 | Intro to ML Ops in Azure                                              | May 26, 2021 | Online        |
+| [Microsoft Build 2021](https://youtu.be/AilAxfKaRyM?t=916)                                                                        | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online        |
+| [Global AI Night Istanbul 2021](https://www.meetup.com/Teknolot/events/276686223/)                                                | Responsible ML                                                        | Apr 24, 2021 | Online        |
+| [Google DevFest Turkey](https://youtu.be/PgESGg42m04)                                                                             | The ML Hero's Secret Weapon: AutoML                                   | Mar 12, 2021 | Online        |
+| [GDG Duzce AI Nights](https://youtu.be/Q478pKD2lnc)                                                                               | All AI Q&A Session                                                    | Feb 28, 2021 | Online        |
+| [Microsoft Turkey Developer Cloud Summit](https://twitter.com/MicrosoftTR/status/1361563465165529088)                             | Community Talk                                                        | Feb 16, 2021 | Online        |
+| [Cozumpark Hybrid Cloud Webinar](https://etkinlik.cozumpark.com/etkinlik/hibrit-bulut-cozumleriyle-rekabet-avantaji-kazanin/1131) | A Developers Perspective on Hybrid Cloud                              | Jan 7, 2021  | Online        |
 
 ## 2020
 
