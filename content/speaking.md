@@ -1,5 +1,5 @@
 ---
-date: 2021-11-27
+date: 2021-12-01
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,9 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name           | Topic                                 | Date         | Place          |
-|----------------|---------------------------------------|--------------|----------------|
-| AI Fest Ankara | Innovate now with Applied AI Services | Dec 18, 2021 | Ankara, Turkey |
+| Name                       | Topic                                         | Date         | Place          |
+|----------------------------|-----------------------------------------------|--------------|----------------|
+| Karel IT Strategy Day 2021 | App Innovation as Part of Your Cloud Strategy | Dec 8, 2021  | Online         |
+| AI Fest Ankara             | Innovate now with Applied AI Services         | Dec 18, 2021 | Ankara, Turkey |
 
 <br/>
 
@@ -21,7 +22,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place         |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|---------------|
-| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online        | 
+| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online        |  |
 | [Update Conference Prague 2021](https://www.youtube.com/watch?v=iuQncu-jf68)                                                      | Function Orchestration in the World of Serverless                     | Nov 18, 2021 | Online        |
 | [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)                                          | Innovation for your Apps with Azure                                   | Nov 9, 2021  | Online        |
 | [Google DevFest Konya](https://twitter.com/GDGKonya/status/1455989565962002446)                                                   | Cloud 101                                                             | Nov 6, 2021  | Konya, Turkey |
@@ -49,6 +50,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [SAU The World of Algorithms](https://drn.fyi/3wP95zu)                                                                                             | Practical AI                                        | Nov 6, 2020  | Online |
 | [Power BI Turkey Meetup](https://www.meetup.com/PowerBI-Turkiye/events/273342362/)                                                                 | Azure Synapse 101                                   | Oct 10, 2020 | Online |
 | [Microsoft Reactor Abu Dhabi Meetup](https://www.meetup.com/Microsoft-Reactor-Abu-Dhabi/events/273068788/)                                         | Function Orchestration in the World of Serverless   | Oct 6,2020   | Online |
+| [Karel IT Strategy Day 2021](https://www.youtube.com/watch?v=Ccgt9UjrJz4&t=254s)                                                                   | Software Trends to Consider in Your IT Strategy     | Oct 5, 2021  | Online |
 | [Global AI Hub](https://www.youtube.com/watch?v=bFzoquhr9gc&ab_channel=GlobalAIHub)                                                                | Serverless AI                                       | Jul 11, 2020 | Online |
 | [Çözümpark Tech Talks](https://etkinlik.cozumpark.com/etkinlik/cozumpark-teknoloji-sohbetleri-tech-talks-live--kahve-arasinda-veri-analitigi/1079) | Data Analytics Coffee Talk                          | Jun 23, 2020 | Online |
 | [Çözümpark Tech Talks](https://etkinlik.cozumpark.com/etkinlik/gercek-hayatta-yapay-zeka/1055)                                                     | AI in Real-Life                                     | Jun 16, 2020 | Online |
