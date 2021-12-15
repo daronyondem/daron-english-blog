@@ -1,5 +1,5 @@
 ---
-date: 2021-12-01
+date: 2021-12-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,10 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                       | Topic                                         | Date         | Place          |
-|----------------------------|-----------------------------------------------|--------------|----------------|
-| Karel IT Strategy Day 2021 | App Innovation as Part of Your Cloud Strategy | Dec 8, 2021  | Online         |
-| AI Fest Ankara             | Innovate now with Applied AI Services         | Dec 18, 2021 | Ankara, Turkey |
+| Name                                                                              | Topic                                 | Date         | Place          |
+|-----------------------------------------------------------------------------------|---------------------------------------|--------------|----------------|
+| [AI Fest Ankara](https://kommunity.com/tensorflow-turkey/events/ai-fest-dc2c9061) | Innovate now with Applied AI Services | Dec 18, 2021 | Ankara, Turkey |
 
 <br/>
 
@@ -22,7 +21,8 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                              | Topic                                                                 | Date         | Place         |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|---------------|
-| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online        |  |
+| [Karel IT Strategy Day 2021](https://youtu.be/pYiJ0MdDsiE)                                                                        | App Innovation as Part of Your Cloud Strategy                         | Dec 8, 2021  | Online        |
+| [DotNetConf Turkey 2021](https://youtu.be/oiH5LNOUxdM)                                                                            | Serverless .NET 6 with Azure Functions                                | Nov 28, 2021 | Online        |
 | [Update Conference Prague 2021](https://www.youtube.com/watch?v=iuQncu-jf68)                                                      | Function Orchestration in the World of Serverless                     | Nov 18, 2021 | Online        |
 | [Azure Virtual Developer Day](https://mktoevents.com/microsoft+event/303423/157-gqe-382)                                          | Innovation for your Apps with Azure                                   | Nov 9, 2021  | Online        |
 | [Google DevFest Konya](https://twitter.com/GDGKonya/status/1455989565962002446)                                                   | Cloud 101                                                             | Nov 6, 2021  | Konya, Turkey |
