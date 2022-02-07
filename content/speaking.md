@@ -1,5 +1,5 @@
 ---
-date: 2021-12-25
+date: 2022-02-07
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,13 +9,18 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                                            | Topic                       | Date        | Place  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|--------|
-| [AI Days Google DSC Beykent](https://kommunity.com/beykent-google-developer-student-clubs/events/ai-days-yapay-zeka-kariyer-konusmasi-6118c7c5) | Building a Career around AI | Jan 7, 2022 | Online |
+TBA
 
 <br/>
 
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)
+
+## 2022
+
+| Name                                                                              | Topic                       | Date        | Place  |
+|-----------------------------------------------------------------------------------|-----------------------------|-------------|--------|
+| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)            | Serverless AI               | Feb 4, 2022 | Online |
+| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s) | Building a Career around AI | Jan 7, 2022 | Online |
 
 ## 2021
 
