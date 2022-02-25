@@ -44,7 +44,7 @@ The next step is to convert the HAR file to JMX (JMeter) file. The easiest way t
 </ThreadGroup>
 ```
 
-Once you have the JMX file, you might want to open it up with a text editor to edit the XML to fine-tune some JMeter parameters. In my case, I have changed `LoopController.loops` value to 1 and set `ThreadGroup.num_threads` to 200. The [official recommendation](https://docs.microsoft.com/en-us/azure/load-testing/how-to-high-scale-load#test-engine-instances) is to keep thread count under 250 for every Azure Load Test agent. When it comes to the endless loop, I will run this test manually, and I wanted to have it running till I stop it. If you are going to incorporate this test into a CD/CD pipeline, you don't want a forever loop for sure.
+Once you have the JMX file, you might want to open it up with a text editor to edit the XML to fine-tune some JMeter parameters. In my case, I have changed `LoopController.loops` value to 1 and set `ThreadGroup.num_threads` to 200. The [official recommendation](https://docs.microsoft.com/en-us/azure/load-testing/how-to-high-scale-load#test-engine-instances) is to keep thread count under 250 for every Azure Load Test agent. When it comes to the endless loop, I will run this test manually, and I wanted to have it running till I stop it. If you are going to incorporate this test into a CI/CD pipeline, you don't want a forever loop for sure.
 
 ## Setting up Azure Load Test
 
@@ -52,7 +52,7 @@ Now it is time to set up our Azure Load Test service account in the Azure Portal
 
 ![Azure Load Test page is open on the Azure Portal. A warning message about access permissions is highlighted. The create button for new tests is disabled. The preview flag for the service is highlighted.](/media/2022/2022-02-25_11-35-16.png)
 
-I'm assuming this warning **(1)** is because the service in **Preview (3)**. Otherwise, it does not make sense at all :) Right now, the service is telling us that we don't have proper permissions to create a test **(2)**. Let's give ourselves the permissions.
+I'm assuming this warning **(1)** shows up because the service is in **Preview (3)**. Otherwise, it does not make sense at all :) Right now, the service is telling us that we don't have proper permissions to create a test **(2)**. Let's give ourselves the permissions.
 
 ![Access control tab for Azure Load Test service is open. Add button is selected. Add role assignment command is highlighted.](/media/2022/2022-02-25_11-35-38.png)
 
