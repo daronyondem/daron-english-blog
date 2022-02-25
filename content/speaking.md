@@ -1,5 +1,5 @@
 ---
-date: 2022-02-07
+date: 2022-02-25
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,7 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-TBA
+| Name                                                                            | Topic                                 | Date         | Place  |
+|---------------------------------------------------------------------------------|---------------------------------------|--------------|--------|
+| [Microsoft Turkey Startup Bootcamp](https://www.microsoft.com/turkey/startups/) | Serverless and API Management         | Mar 8, 2022  | Online |
+| [Microsoft Turkey Startup Bootcamp](https://www.microsoft.com/turkey/startups/) | Applied Azure AI services and Auto ML | Mar 15, 2022 | Online |
 
 <br/>
 
