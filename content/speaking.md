@@ -9,10 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                            | Topic                                 | Date         | Place  |
-|---------------------------------------------------------------------------------|---------------------------------------|--------------|--------|
-| [Microsoft Turkey Startup Bootcamp](https://www.microsoft.com/turkey/startups/) | Serverless and API Management         | Mar 8, 2022  | Online |
-| [Microsoft Turkey Startup Bootcamp](https://www.microsoft.com/turkey/startups/) | Applied Azure AI services and Auto ML | Mar 15, 2022 | Online |
+| Name                                                                                           | Topic                                 | Date         | Place  |
+|------------------------------------------------------------------------------------------------|---------------------------------------|--------------|--------|
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382) | Serverless and API Management         | Mar 8, 2022  | Online |
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382) | Applied Azure AI services and Auto ML | Mar 15, 2022 | Online |
 
 <br/>
 
