@@ -61,7 +61,7 @@ github = "https://github.com/daronyondem"
 	weight = 5
 
 [[menu.main]]
-	name = "E-Mail List"
+	name = "Subscribe"
 	identifier = "subscribe"
 	url = "http://eepurl.com/cU3_0T"
 	weight = 6
