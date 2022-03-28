@@ -17,13 +17,13 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2022
 
-| Name                                                                                                       | Topic                                 | Date         | Place  |
-|------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|--------|
-| [Microsoft Reactor Middle East and Africa](https://www.meetup.com/Microsoft-Reactor-MEA/events/284694897/) | Serverless on the Microsoft Stack     | Mar 22, 2022 | Online |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382)             | Applied Azure AI services and Auto ML | Mar 15, 2022 | Online |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382)             | Serverless and API Management         | Mar 8, 2022  | Online |
-| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)                                     | Serverless AI                         | Feb 4, 2022  | Online |
-| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s)                          | Building a Career around AI           | Jan 7, 2022  | Online |
+| Name                                                                                           | Topic                                 | Date         | Place  |
+|------------------------------------------------------------------------------------------------|---------------------------------------|--------------|--------|
+| [Microsoft Reactor Middle East and Africa](https://www.youtube.com/watch?v=1UqUoTv45O8)        | Serverless on the Microsoft Stack     | Mar 22, 2022 | Online |
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382) | Applied Azure AI services and Auto ML | Mar 15, 2022 | Online |
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382) | Serverless and API Management         | Mar 8, 2022  | Online |
+| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)                         | Serverless AI                         | Feb 4, 2022  | Online |
+| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s)              | Building a Career around AI           | Jan 7, 2022  | Online |
 
 ## 2021
 
