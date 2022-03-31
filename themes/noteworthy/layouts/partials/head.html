@@ -18,6 +18,13 @@
     {{ $main_style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $main_style.Permalink }}"/>
 
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "b9kxdx9b2y");
+    </script>
     <!-- Uncomment to add custom styles -->
     <!-- Modify the custom.scss file inside assets > css to use scss -->
     <!-- {{ $custom_style := resources.Get "css/custom.scss" | toCSS | minify | fingerprint }} 
