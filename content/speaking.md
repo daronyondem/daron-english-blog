@@ -1,5 +1,5 @@
 ---
-date: 2022-03-24
+date: 2022-03-31
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,7 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-TBA
+| Name                                      | Topic | Date         | Place         |
+|-------------------------------------------|-------|--------------|---------------|
+| [BILMOK 2022](https://www.bilmok.org.tr/) | TBA   | May 14, 2022 | Konya, Turkey |
 
 <br/>
 
