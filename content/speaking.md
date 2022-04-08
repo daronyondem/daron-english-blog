@@ -9,10 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                               | Topic                                     | Date         | Place         |
-|----------------------------------------------------|-------------------------------------------|--------------|---------------|
-| [Global Azure 2022](https://drn.fyi/globalazure22) | What’s in Azure for your mobile projects? | May 5, 2022  | Online        |
-| [BILMOK 2022](https://www.bilmok.org.tr/)          | TBA                                       | May 14, 2022 | Konya, Turkey |
+| Name                                                         | Topic                                     | Date         | Place         |
+|--------------------------------------------------------------|-------------------------------------------|--------------|---------------|
+| [Global Azure 2022](https://globalazure.net/sessions/332089) | What’s in Azure for your mobile projects? | May 5, 2022  | Online        |
+| [BILMOK 2022](https://www.bilmok.org.tr/)                    | TBA                                       | May 14, 2022 | Konya, Turkey |
 
 <br/>
 
