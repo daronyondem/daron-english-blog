@@ -63,7 +63,7 @@ github = "https://github.com/daronyondem"
 [[menu.main]]
 	name = "Subscribe"
 	identifier = "subscribe"
-	url = "http://eepurl.com/cU3_0T"
+	url = "http://updates.daron.me/"
 	weight = 6
 
 [privacy]
