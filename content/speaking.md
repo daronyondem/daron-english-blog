@@ -1,5 +1,5 @@
 ---
-date: 2022-03-31
+date: 2022-05-29
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,7 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-No upcoming events so far...
+| Name                                                                                           | Topic                                          | Date        | Place            |
+|------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|------------------|
+| [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/) | A Look at Cloud Computing, Today and Tomorrow. | Jun 3, 2022 | Istanbul, Turkey |
 
 <br/>
 
