@@ -1,5 +1,5 @@
 ---
-date: 2022-05-29
+date: 2022-07-13
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,9 +9,9 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                           | Topic                                          | Date        | Place            |
-|------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|------------------|
-| [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/) | A Look at Cloud Computing, Today and Tomorrow. | Jun 3, 2022 | Istanbul, Turkey |
+| Name                                                                                                                             | Topic                                         | Date         | Place  |
+|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------|--------|
+| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps. | Sep 20, 2022 | Online |
 
 <br/>
 
@@ -19,15 +19,16 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2022
 
-| Name                                                                                           | Topic                                          | Date         | Place         |
-|------------------------------------------------------------------------------------------------|------------------------------------------------|--------------|---------------|
-| [BILMOK 2022](https://www.bilmok.org.tr/)                                                      | A Look at Cloud Computing, Today and Tomorrow. | May 14, 2022 | Konya, Turkey |
-| [Global Azure 2022](https://youtu.be/kwP9q5ESqiY)                                              | What’s in Azure for your mobile projects?      | May 5, 2022  | Online        |
-| [Microsoft Reactor Middle East and Africa](https://www.youtube.com/watch?v=1UqUoTv45O8)        | Serverless on the Microsoft Stack              | Mar 22, 2022 | Online        |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382) | Applied Azure AI services and Auto ML          | Mar 15, 2022 | Online        |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382) | Serverless and API Management                  | Mar 8, 2022  | Online        |
-| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)                         | Serverless AI                                  | Feb 4, 2022  | Online        |
-| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s)              | Building a Career around AI                    | Jan 7, 2022  | Online        |
+| Name                                                                                           | Topic                                          | Date         | Place            |
+|------------------------------------------------------------------------------------------------|------------------------------------------------|--------------|------------------|
+| [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/) | A Look at Cloud Computing, Today and Tomorrow. | Jun 3, 2022  | Istanbul, Turkey |
+| [BILMOK 2022](https://www.bilmok.org.tr/)                                                      | A Look at Cloud Computing, Today and Tomorrow. | May 14, 2022 | Konya, Turkey    |
+| [Global Azure 2022](https://youtu.be/kwP9q5ESqiY)                                              | What’s in Azure for your mobile projects?      | May 5, 2022  | Online           |
+| [Microsoft Reactor Middle East and Africa](https://www.youtube.com/watch?v=1UqUoTv45O8)        | Serverless on the Microsoft Stack              | Mar 22, 2022 | Online           |
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382) | Applied Azure AI services and Auto ML          | Mar 15, 2022 | Online           |
+| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382) | Serverless and API Management                  | Mar 8, 2022  | Online           |
+| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)                         | Serverless AI                                  | Feb 4, 2022  | Online           |
+| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s)              | Building a Career around AI                    | Jan 7, 2022  | Online           |
 
 ## 2021
 
