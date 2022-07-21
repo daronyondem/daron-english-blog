@@ -11,7 +11,9 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                             | Topic                                         | Date         | Place  |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------|--------|
+| [Global AI Hub AI Summer Camp](https://globalaihub.com/ai-summer-camp-22/)                                                       | Innovate now with Applied AI Services         | Aug 3, 2022  | Online |
 | [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps. | Sep 20, 2022 | Online |
+
 
 <br/>
 
