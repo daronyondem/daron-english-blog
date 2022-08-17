@@ -1,5 +1,5 @@
 ---
-date: 2022-07-13
+date: 2022-08-17
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,10 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                             | Topic                                         | Date         | Place  |
-|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------|--------|
-| [Global AI Hub AI Summer Camp](https://globalaihub.com/ai-summer-camp-22/)                                                       | Innovate now with Applied AI Services         | Aug 3, 2022  | Online |
-| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps. | Sep 20, 2022 | Online |
+| Name                                                                                                                             | Topic                                             | Date         | Place  |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|--------|
+| [Serverless Days Student Edition 2022](https://student.serverlessdays.io/)                                                       | Function Orchestration in the World of Serverless | Aug 20, 2022 | Online |
+| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps.     | Sep 20, 2022 | Online |
 
 
 <br/>
@@ -23,6 +23,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                           | Topic                                          | Date         | Place            |
 |------------------------------------------------------------------------------------------------|------------------------------------------------|--------------|------------------|
+| [Global AI Hub AI Summer Camp](https://globalaihub.com/ai-summer-camp-22/)                     | Innovate now with Applied AI Services          | Aug 3, 2022  | Online           |
 | [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/) | A Look at Cloud Computing, Today and Tomorrow. | Jun 3, 2022  | Istanbul, Turkey |
 | [BILMOK 2022](https://www.bilmok.org.tr/)                                                      | A Look at Cloud Computing, Today and Tomorrow. | May 14, 2022 | Konya, Turkey    |
 | [Global Azure 2022](https://youtu.be/kwP9q5ESqiY)                                              | What’s in Azure for your mobile projects?      | May 5, 2022  | Online           |
