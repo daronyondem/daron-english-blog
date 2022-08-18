@@ -9,11 +9,11 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                             | Topic                                             | Date         | Place  |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|--------|
-| [Serverless Days Student Edition 2022](https://student.serverlessdays.io/)                                                       | Function Orchestration in the World of Serverless | Aug 20, 2022 | Online |
-| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps.     | Sep 20, 2022 | Online |
-
+| Name                                                                                                                             | Topic                                             | Date         | Place         |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|---------------|
+| [Serverless Days Student Edition 2022](https://student.serverlessdays.io/)                                                       | Function Orchestration in the World of Serverless | Aug 20, 2022 | Online        |
+| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps.     | Sep 20, 2022 | Online        |
+| [xpand conference 2022](https://www.xpandconf.com/session/function-orchestration-in-the-world-of-serverless)                     | Function Orchestration in the World of Serverless | Oct 22, 2022 | Amman, Jordan |
 
 <br/>
 
