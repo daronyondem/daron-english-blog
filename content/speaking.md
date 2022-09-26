@@ -1,5 +1,5 @@
 ---
-date: 2022-08-17
+date: 2022-09-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,10 +9,10 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                             | Topic                                             | Date         | Place         |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|---------------|
-| [Data Platform Virtual Summit 2022](https://dataplatformgeeks.com/dps2022/session/discover-serverless-data-for-serverless-apps/) | Discover Serverless Data for Serverless Apps.     | Sep 20, 2022 | Online        |
-| [xpand conference 2022](https://www.xpandconf.com/session/function-orchestration-in-the-world-of-serverless)                     | Function Orchestration in the World of Serverless | Oct 22, 2022 | Amman, Jordan |
+| Name                                                                                                         | Topic                                             | Date         | Place           |
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|-----------------|
+| [7. Tourism Technologies Day](https://turizmteknolojilerigunu.com/)                                          | Rapid Application Innovation Through AI           | Oct 20, 2022 | Antalya, Turkey |
+| [xpand conference 2022](https://www.xpandconf.com/session/function-orchestration-in-the-world-of-serverless) | Function Orchestration in the World of Serverless | Oct 22, 2022 | Amman, Jordan   |
 
 <br/>
 
@@ -22,6 +22,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                           | Topic                                             | Date         | Place            |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------|------------------|
+| [Data Platform Virtual Summit 2022](https://youtu.be/th4mRf1Dw3c)                              | Discover Serverless Data for Serverless Apps.     | Sep 20, 2022 | Online           |
 | [Serverless Days Student Edition 2022](https://youtu.be/h1v2xfaEWc8?t=6796)                    | Function Orchestration in the World of Serverless | Aug 20, 2022 | Online           |
 | [Global AI Hub AI Summer Camp](https://globalaihub.com/ai-summer-camp-22/)                     | Innovate now with Applied AI Services             | Aug 3, 2022  | Online           |
 | [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/) | A Look at Cloud Computing, Today and Tomorrow.    | Jun 3, 2022  | Istanbul, Turkey |
