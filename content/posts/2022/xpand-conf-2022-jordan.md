@@ -1,6 +1,6 @@
 ---
 Title: "Talking Function Orchestration at xpand Conference 2022"
-date: "2022-10-24" 
+date: "2022-10-23" 
 Tags: 
     - "Azure"
     - "Serverless"
@@ -12,7 +12,7 @@ Tags:
 ShowTableOfContent: false
 ---
 
-This last weekend I had the privilege to join the [xpand conference](https://www.xpandconf.com/) in Jordan as a speaker talking about function orchestration in the serverless world. For those following my work in the community, I'm sure the topic is not a surprise 😃. However, the location might be.
+This weekend I had the privilege to join the [xpand conference](https://www.xpandconf.com/) in Jordan as a speaker talking about function orchestration in the serverless world. For those following my work in the community, I'm sure the topic is not a surprise 😃. However, the location might be.
 
 ![Daron on stage at xpand Conference 2022](/media/2022/2022-10-23-daron-on-stage.png)
 
