@@ -1,5 +1,5 @@
 ---
-Title: "Finished My First mMarathon"
+Title: "Finished My First Marathon"
 date: "2022-10-31" 
 Tags: 
     - "Fitness"
