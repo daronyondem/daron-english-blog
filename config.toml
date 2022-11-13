@@ -56,16 +56,22 @@ github = "https://github.com/daronyondem"
 	weight = 4
 
 [[menu.main]]
+	identifier = "Races"
+	name = "Races"
+	url = "/Races"
+	weight = 5
+
+[[menu.main]]
 	identifier = "others"
 	name = "Others"
 	url = "/tags/"
-	weight = 5
+	weight = 6
 
 [[menu.main]]
 	name = "Subscribe"
 	identifier = "subscribe"
 	url = "http://updates.daron.me/"
-	weight = 6
+	weight = 7
 
 [privacy]
   [privacy.disqus]
