@@ -13,6 +13,8 @@ Here is where I'm planning to be next;
 |------------|-------------------------------------------------------------|--------------|----------------|
 | GDG Burdur | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey |
 | GDG Konya  | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey  |
+| GDG Izmir  | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 17, 2022 | Izmir, Turkey  |
+| GDG Izmir  | Building a Human Capital Through Engineering Leadership     | Dec 3, 2022  | Izmir, Turkey  |
 
 <br/>
 
