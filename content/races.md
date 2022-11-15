@@ -1,5 +1,5 @@
 ---
-date: 2022-11-13
+date: 2022-11-15
 type: section
 title: "Finis it!"
 ShowFullWidthContent: true
@@ -31,8 +31,13 @@ Here is a list of past races 🏃‍♂️
 | Sandpoint Bay Trail Fun Run                                               | 10 km    | Jun 9, 2019  | 59:27     |
 | Coeur D'Alene Marathon                                                    | 12 km    | May 26, 2019 | 01:10:41  |
 | Ultimate Aydos                                                            | 12 km    | Feb 3, 2019  | 01:14:35  |
+| Urbanathlon Istanbul                                                      | 10 km    | Oct 12, 2014 | 58:20     |
+| Gurme Run                                                                 | 6 km     | Sep 28, 2019 | 33:13     |  
+| Cunda Trail                                                               | 16 km    | Sep 20, 2014 | 01:39:19  |
+| Mudrace Turkey                                                            | 5 km     | Sep 13, 2014 | 43:30     |
 | Istanbul Half Marathon                                                    | 21.1 km  | Apr 27, 2014 | 02:07:33  |
+| Nike Run Istanbul                                                         | 7 km     | Sep 30, 2013 | 38:11     |
+| Mudrace Turkey                                                            | 5K       | Sep 22, 2013 | 38:23     |
+| New Balance Buyukada Run                                                  | 11 km    | Sep 15, 2013 | 01:02:12  |
+| Urbanathlon Istanbul                                                      | 10 km    | Sep 1, 2013  | 51:35     |
 
-<br/>
-
-Still building up this list...
