@@ -1,5 +1,5 @@
 ---
-date: 2022-11-15
+date: 2022-11-30
 type: section
 title: "Finis it!"
 ShowFullWidthContent: true
@@ -9,11 +9,12 @@ It was all about losing weight. I could never imagine having fun running. Why wo
 
 Here is where I'm planning to be next;
 
-| Race                   | Distance | Date         |
-|------------------------|----------|--------------|
-| Izmir Marathon         | 42.2 km  | Mar 12, 2023 |
-| Thessaloniki Marathon  | 42.2 km  | Apr 30, 2023 |
-| New York City Marathon | 42.2 km  | Nov 5, 2023  |
+| Race                   | Distance | Date          |
+|------------------------|----------|---------------|
+| Izmir Marathon         | 42.2 km  | Mar 12, 2023  |
+| Thessaloniki Marathon  | 42.2 km  | Apr 30, 2023  |
+| San Francisco Marathon | 42.2 km  | July 23, 2023 |
+| New York City Marathon | 42.2 km  | Nov 5, 2023   |
 
 <br/>
 
