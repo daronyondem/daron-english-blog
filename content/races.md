@@ -1,7 +1,7 @@
 ---
 date: 2022-11-30
 type: section
-title: "Finis it!"
+title: "Finish it!"
 ShowFullWidthContent: true
 ---
 
