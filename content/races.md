@@ -1,5 +1,5 @@
 ---
-date: 2022-11-30
+date: 2022-12-08
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -12,6 +12,7 @@ Here is where I'm planning to be next;
 | Race                   | Distance | Date          |
 |------------------------|----------|---------------|
 | Izmir Marathon         | 42.2 km  | Mar 12, 2023  |
+| Paris Marathon         | 42.2 km  | Apr 2, 2023   |
 | Thessaloniki Marathon  | 42.2 km  | Apr 30, 2023  |
 | San Francisco Marathon | 42.2 km  | July 23, 2023 |
 | New York City Marathon | 42.2 km  | Nov 5, 2023   |
