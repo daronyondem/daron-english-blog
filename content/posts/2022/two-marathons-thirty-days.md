@@ -28,4 +28,17 @@ After the Marathon, I took a day off and returned to my daily 1 hour long sessio
 
 During November, I lost another 1.8 kg / 4 lbs. I'm not strictly trying to lose weight anymore. My goal is to stay between 80-85 kg / 176-187 lbs. The long-term goal is to reach 80 kg /  176 lbs. I'm keeping intermittent fasting up with a single meal a day, timed after running. 
 
+## Movember
+
+Every November is actually [Movember](https://movember.com/) 😃. It is the month of the mustache to increase awareness of men's health. As part of the Movember Foundation's efforts, I joined the [Strava challenge](https://www.strava.com/challenges/3474) and committed to running 300km during November. I did 314 km 😉. Three hundred sixteen thousand people also joined the challenge, unlocking monetary donations to Movember Foundation totaling over 316 thousand USD! I will be rocking the mustache for a while 😃.
+
+*My virtual meeting setup during November*
+![Movember Mustache](/media/2022/2022-12-01-Movember.png)
+
+## Running for Kids
+
+Starting in December, I'm joining the [NYRR Team for Kids](https://runwithtfk.org/Profile/PublicPage/100491/58200), which supports youth and community programs for the NYC Marathon and help kids develop healthy attitudes about engaging in physical activity. I have a personal fundraising goal of 2600 USD till the race. If you have the means, [head here](https://runwithtfk.org/Profile/PublicPage/100491/58200) to give a hand 😉. 
+
+![NYRR Team for Kids Fundraising Banner](/2022-12-01-nyrr.png)
+
 That's it for this month 😊. See you end of the year 😉
