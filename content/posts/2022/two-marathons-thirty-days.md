@@ -39,6 +39,6 @@ Every November is actually [Movember](https://movember.com/) 😃. It is the mon
 
 Starting in December, I'm joining the [NYRR Team for Kids](https://runwithtfk.org/Profile/PublicPage/100491/58200), which supports youth and community programs for the NYC Marathon and help kids develop healthy attitudes about engaging in physical activity. I have a personal fundraising goal of 2600 USD till the race. If you have the means, [head here](https://runwithtfk.org/Profile/PublicPage/100491/58200) to give a hand 😉. 
 
-![NYRR Team for Kids Fundraising Banner](/2022-12-01-nyrr.png)
+![NYRR Team for Kids Fundraising Banner](/media/2022/2022-12-01-nyrr.png)
 
 That's it for this month 😊. See you end of the year 😉
