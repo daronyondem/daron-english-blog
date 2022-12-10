@@ -24,7 +24,7 @@ After the Marathon, I took a day off and returned to my daily 1 hour long sessio
 
 ## Weight Change
 
-![Personal weight chart for November 2022.](/media/2022/2022-12-01-Weight-Chart.jpg)
+![Personal weight chart for November 2022.](/media/2022/2022-12-01-Weight-Chart.png)
 
 During November, I lost another 1.8 kg / 4 lbs. I'm not strictly trying to lose weight anymore. My goal is to stay between 80-85 kg / 176-187 lbs. The long-term goal is to reach 80 kg /  176 lbs. I'm keeping intermittent fasting up with a single meal a day, timed after running. 
 
