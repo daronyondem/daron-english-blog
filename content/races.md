@@ -1,5 +1,5 @@
 ---
-date: 2022-12-08
+date: 2022-12-12
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -23,7 +23,8 @@ Here is a list of past races 🏃‍♂️
 
 | Race                                                                      | Distance | Date         | Net Time  |
 |---------------------------------------------------------------------------|----------|--------------|-----------|
-| Istanbul Marathon                                                         | 42.2 km  | Nov 6, 2022  | 04:40:03  |
+| Geyik Kosusu                                                              | 14 km    | Dec 11, 2022 | 01:32:47  |
+| [Istanbul Marathon](https://daron.blog/2022/two-marathons-in-30-days/)    | 42.2 km  | Nov 6, 2022  | 04:40:03  |
 | [Amsterdam Marathon](https://daron.blog/2022/finished-my-first-marathon/) | 42.2 km  | Oct 16, 2022 | 04:47: 43 |
 | Ultimate Aydos                                                            | 10 km    | Apr 24, 2022 | 01:12:57  |
 | Under Armour Night Run                                                    | 6 km     | Apr 9, 2022  | 40:49     |
