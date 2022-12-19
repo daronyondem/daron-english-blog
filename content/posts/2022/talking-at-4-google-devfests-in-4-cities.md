@@ -23,7 +23,7 @@ And now, here are some photos from each event as souvenirs:
 ![](/media/2022/gdg-konya-2022.jpg)
 
 *Denizli*
-![](/media/2022/20191124_Istanbul-2-1024x374.jpg)
+![](/media/2022/gdg-denizli-2022.jpg)
 
 *Izmir*
 ![](/media/2022/20191130-Denizli-1024x381.jpg)
