@@ -1,6 +1,6 @@
 ---
 Title: Talking at 4 Google DevFests in 4 Cities
-date: "2022-12-18" 
+date: "2022-12-20" 
 Tags: 
     - "AI"
     - "Developer Velocity"
@@ -17,13 +17,13 @@ I would like to express my gratitude to all those who have played a role in orga
 And now, here are some photos from each event as souvenirs:
 
 *Burdur*
-![](/media/2022/gdg-burdur-2022.jpg)
+![GDG Burdur 2022 Event Photo](/media/2022/gdg-burdur-2022.jpg)
 
 *Konya*
-![](/media/2022/gdg-konya-2022.jpg)
+![GDG Konya 2022 Event Photo](/media/2022/gdg-konya-2022.jpg)
 
 *Denizli*
-![](/media/2022/gdg-denizli-2022.jpg)
+![GDG Denizli 2022 Event Photo](/media/2022/gdg-denizli-2022.jpg)
 
 *Izmir*
-![](/media/2022/20191130-Denizli-1024x381.jpg)
+![GDG Izmir 2022 Event Photo](/media/2022/gdg-izmir-2022.jpg)
