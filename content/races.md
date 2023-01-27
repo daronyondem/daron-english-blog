@@ -15,6 +15,7 @@ Here is where I'm planning to be next;
 | Paris Marathon         | 42.2 km  | Apr 2, 2023   |
 | Thessaloniki Marathon  | 42.2 km  | Apr 30, 2023  |
 | San Francisco Marathon | 42.2 km  | July 23, 2023 |
+| Plovdiv Marathon       | 42.2 km  | Sep 24, 2023  |
 | New York City Marathon | 42.2 km  | Nov 5, 2023   |
 
 <br/>
