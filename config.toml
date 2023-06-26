@@ -24,10 +24,8 @@ googleAnalytics = "UA-48954873-4"
 # Main
 linkedin = "https://www.linkedin.com/in/daronyondem/"
 twitter = "https://www.twitter.com/daronyondem"
-instagram = "https://www.instagram.com/daronyondem"
 youtube = "https://www.youtube.com/channel/UC7oYHShBoL7srrAVGMXWK0A/"
 strava = "https://www.strava.com/athletes/3374802"
-mastodon = "https://hachyderm.io/@daron"
 
 # Programming
 github = "https://github.com/daronyondem"
@@ -71,7 +69,7 @@ github = "https://github.com/daronyondem"
 [[menu.main]]
 	name = "Subscribe"
 	identifier = "subscribe"
-	url = "http://updates.daron.me/"
+	url = "https://superpeer.com/daronyondem/community"
 	weight = 7
 
 [privacy]
