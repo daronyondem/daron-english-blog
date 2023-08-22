@@ -1,5 +1,5 @@
 ---
-date: 2022-12-05
+date: 2023-08-22
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,20 +9,32 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name        | Topic                                                       | Date         | Place           |
-|-------------|-------------------------------------------------------------|--------------|-----------------|
-| GDG Denizli | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey |
-| GDG Izmir   | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 17, 2022 | Izmir, Turkey   |
-| GDG Izmir   | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey   |
+| Name                   | Topic                              | Date         | Place                  |
+|------------------------|------------------------------------|--------------|------------------------|
+| UBTECH ED Conference   | Skyrocketing Developer Velocity    | Nov 23, 2023 | Tel-Aviv, Israel       |
+| UBTECH ED Conference   | Talk the AI Lingo: Unfolding GPT   | Nov 23, 2023 | Tel-Aviv, Israel       |
+| Product Camp EU        | Spectrums of AI for App Innovation | Sep 28, 2023 | Amsterdam, Netherlands |
+| Global AI Hub Webinars | Generative AI for Everyone         | Aug 26, 2023 | Online                 |
 
 <br/>
 
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)
 
+## 2023
+
+| Name                              | Topic                                                         | Date         | Place           |
+|-----------------------------------|---------------------------------------------------------------|--------------|-----------------|
+| Microsoft Founder's Hub Trainings | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)              | Jun 19, 2023 | Online          |
+| Azure Bootcamp 03                 | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4) | May 6, 2023  | Dublin, Ireland |
+| Internet Week 2023                | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey   |
+
+
 ## 2022
 
 | Name                                                                                                                                | Topic                                                       | Date         | Place            |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------|------------------|
+| GDG Izmir                                                                                                                           | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey    |
+| GDG Denizli                                                                                                                         | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey  |
 | GDG Konya                                                                                                                           | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey    |
 | GDG Burdur                                                                                                                          | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey   |
 | [xpand conference 2022](https://daron.blog/2022/talking-function-orchestration-at-xpand-conference-2022/)                           | Function Orchestration in the World of Serverless           | Oct 22, 2022 | Amman, Jordan    |
