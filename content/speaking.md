@@ -1,5 +1,5 @@
 ---
-date: 2023-08-22
+date: 2023-09-03
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,12 +9,13 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                   | Topic                              | Date         | Place                  |
-|------------------------|------------------------------------|--------------|------------------------|
-| UBTECH ED Conference   | Skyrocketing Developer Velocity    | Nov 23, 2023 | Tel-Aviv, Israel       |
-| UBTECH ED Conference   | Talk the AI Lingo: Unfolding GPT   | Nov 23, 2023 | Tel-Aviv, Israel       |
-| Product Camp EU        | Spectrums of AI for App Innovation | Sep 28, 2023 | Amsterdam, Netherlands |
-| Global AI Hub Webinars | Generative AI for Everyone         | Aug 26, 2023 | Online                 |
+| Name                          | Topic                              | Date         | Place                  |
+|-------------------------------|------------------------------------|--------------|------------------------|
+| UBTECH ED Conference          | Skyrocketing Developer Velocity    | Nov 23, 2023 | Tel-Aviv, Israel       |
+| UBTECH ED Conference          | Talk the AI Lingo: Unfolding GPT   | Nov 23, 2023 | Tel-Aviv, Israel       |
+| Product Camp EU               | Spectrums of AI for App Innovation | Sep 28, 2023 | Amsterdam, Netherlands |
+| Global AI Hub Webinars        | Generative AI for Everyone         | Sep 08, 2023 | Online                 |
+| Google Developer Groups Bursa | Prompt Engineering                 | Sep 06, 2023 | Online                 |
 
 <br/>
 
@@ -22,11 +23,12 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2023
 
-| Name                              | Topic                                                         | Date         | Place           |
-|-----------------------------------|---------------------------------------------------------------|--------------|-----------------|
-| Microsoft Founder's Hub Trainings | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)              | Jun 19, 2023 | Online          |
-| Azure Bootcamp 03                 | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4) | May 6, 2023  | Dublin, Ireland |
-| Internet Week 2023                | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey   |
+| Name                              | Topic                                                                                                                                          | Date         | Place           |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------|
+| Huawei Developer Group Turkey     | [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d) | Sep 3, 2023  | Online          |
+| Microsoft Founder's Hub Trainings | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                               | Jun 19, 2023 | Online          |
+| Azure Bootcamp 03                 | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                  | May 6, 2023  | Dublin, Ireland |
+| Internet Week 2023                | Boosting Developer Velocity Through Culture and AI                                                                                             | Apr 15, 2023 | Mugla, Turkey   |
 
 
 ## 2022
