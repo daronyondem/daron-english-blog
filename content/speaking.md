@@ -11,7 +11,7 @@ Here is where I'm planning to be next;
 
 | Name                                 | Topic                                                                                           | Date         | Place                  |
 |--------------------------------------|-------------------------------------------------------------------------------------------------|--------------|------------------------|
-| GDG DevFest Izmir                    | TBA                                                                                             | Dec 2, 2023  | Izmir, Durkey          |
+| GDG DevFest Izmir                    | TBA                                                                                             | Dec 2, 2023  | Izmir, Turkey          |
 | UBTECH ED Conference                 | Skyrocketing Developer Velocity                                                                 | Nov 23, 2023 | Tel-Aviv, Israel       |
 | UBTECH ED Conference                 | Talk the AI Lingo: Unfolding GPT                                                                | Nov 23, 2023 | Tel-Aviv, Israel       |
 | Emerge International Tech Conference | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey       |
