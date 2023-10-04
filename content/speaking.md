@@ -14,8 +14,6 @@ Here is where I'm planning to be next;
 | GDG DevFest Izmir                    | TBA                                                                                             | Dec 2, 2023  | Izmir, Turkey          |
 | UBTECH ED Conference                 | Skyrocketing Developer Velocity                                                                 | Nov 23, 2023 | Tel-Aviv, Israel       |
 | UBTECH ED Conference                 | Talk the AI Lingo: Unfolding GPT                                                                | Nov 23, 2023 | Tel-Aviv, Israel       |
-| Emerge International Tech Conference | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey       |
-| Product Camp EU                      | Spectrums of AI for App Innovation                                                              | Sep 28, 2023 | Amsterdam, Netherlands |
 
 <br/>
 
@@ -23,13 +21,14 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2023
 
-| Name                              | Topic                                                                                                                                          | Date         | Place           |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------|
-| Global AI Hub Webinars            | Generative AI for Everyone                                                                                                                     | Sep 08, 2023 | Online          |
-| Google Developer Groups Bursa     | [Prompt Engineering](https://youtu.be/R--fSB7CBIs)                                                                                             | Sep 06, 2023 | Online          |
-| Huawei Developer Group Turkey     | [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d) | Sep 3, 2023  | Online          |
-| Microsoft Founder's Hub Trainings | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                               | Jun 19, 2023 | Online          |
-| Azure Bootcamp 03                 | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                  | May 6, 2023  | Dublin, Ireland |
+| Name                                 | Topic                                                                                                                                          | Date         | Place            |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|
+| Emerge International Tech Conference | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general                                                | Oct 3, 2023  | Istanbul, Turkey |
+| Global AI Hub Webinars               | Generative AI for Everyone                                                                                                                     | Sep 08, 2023 | Online           |
+| Google Developer Groups Bursa        | [Prompt Engineering](https://youtu.be/R--fSB7CBIs)                                                                                             | Sep 06, 2023 | Online           |
+| Huawei Developer Group Turkey        | [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d) | Sep 3, 2023  | Online           |
+| Microsoft Founder's Hub Trainings    | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                               | Jun 19, 2023 | Online           |
+| Azure Bootcamp 03                    | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                  | May 6, 2023  | Dublin, Ireland  |
 | Internet Week 2023                | Boosting Developer Velocity Through Culture and AI                                                                                             | Apr 15, 2023 | Mugla, Turkey   |
 
 ## 2022
