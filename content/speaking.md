@@ -1,5 +1,5 @@
 ---
-date: 2023-09-15
+date: 2023-11-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,11 +9,12 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                 | Topic                                                                                           | Date         | Place                  |
-|--------------------------------------|-------------------------------------------------------------------------------------------------|--------------|------------------------|
-| GDG DevFest Izmir                    | TBA                                                                                             | Dec 2, 2023  | Izmir, Turkey          |
-| UBTECH ED Conference                 | Skyrocketing Developer Velocity                                                                 | Nov 23, 2023 | Tel-Aviv, Israel       |
-| UBTECH ED Conference                 | Talk the AI Lingo: Unfolding GPT                                                                | Nov 23, 2023 | Tel-Aviv, Israel       |
+| Name              | Topic                       | Date        | Place         |
+|-------------------|-----------------------------|-------------|---------------|
+| GDG DevFest Izmir | Meet my AI Sidekick : GPT-4 | Dec 2, 2023 | Izmir, Turkey |
+| GDG DevFest Izmir | Meet my AI Sidekick : GPT-4 | Dec 9, 2023 | Bursa, Turkey |
+| GDG DevFest Mus | Meet my AI Sidekick : GPT-4 | Dec 13, 2023 | Mus, Turkey |
+| Getek'23 | Future of CoPilots and Agents | Dec 14, 2023 | Istanbul, Turkey |
 
 <br/>
 
