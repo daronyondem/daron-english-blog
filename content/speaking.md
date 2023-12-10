@@ -1,5 +1,5 @@
 ---
-date: 2023-12-04
+date: 2023-12-10
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,7 +11,6 @@ Here is where I'm planning to be next;
 
 | Name                  | Topic                         | Date         | Place             |
 |-----------------------|-------------------------------|--------------|-------------------|
-| GDG DevFest Bursa     | Meet my AI Sidekick : GPT-4   | Dec 9, 2023  | Bursa, Turkey     |
 | GDG DevFest Mus       | Meet my AI Sidekick : GPT-4   | Dec 13, 2023 | Mus, Turkey       |
 | Getek'23              | Future of CoPilots and Agents | Dec 14, 2023 | Istanbul, Turkey  |
 | GDG DevFest Konya     | Meet my AI Sidekick : GPT-4   | Dec 16, 2023 | Konya, Turkey     |
@@ -25,6 +24,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                 | Topic                                                                                                                                          | Date         | Place            |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|
+| GDG DevFest Bursa                    | Meet my AI Sidekick : GPT-4                                                                                                                    | Dec 9, 2023  | Bursa, Turkey    |
 | GDG DevFest Izmir                    | Meet my AI Sidekick : GPT-4                                                                                                                    | Dec 2, 2023  | Izmir, Turkey    |
 | Emerge International Tech Conference | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general                                                | Oct 3, 2023  | Istanbul, Turkey |
 | Global AI Hub Webinars               | Generative AI for Everyone                                                                                                                     | Sep 08, 2023 | Online           |
