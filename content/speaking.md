@@ -16,7 +16,7 @@ Here is where I'm planning to be next;
 
 <br/>
 
-Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)
+Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
 
 ## 2023
 
