@@ -1,5 +1,5 @@
 ---
-date: 2023-12-14
+date: 2023-12-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -20,19 +20,20 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2023
 
-| Name                                         | Topic                                                                                                                                          | Date         | Place            |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|
-| Getek'23                                     | [Future of CoPilots and Agents](https://www.instagram.com/p/C0mYE1ytZKc/?hl=en&img_index=2)                                                    | Dec 14, 2023 | Istanbul, Turkey |
-| Mus Alparslan Universitesi Yazilim Festivali | [Meet my AI Sidekick : GPT-4](https://www.instagram.com/p/C01El97LgBM/?hl=en&img_index=1)                                                      | Dec 13, 2023 | Mus, Turkey      |
-| GDG DevFest Bursa                            | [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgbursa_devfest23bursa-gdgbursa-bursa-activity-7140342491714695168-I5ts)         | Dec 9, 2023  | Bursa, Turkey    |
-| GDG DevFest Izmir                            | [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgizmir_dfestizmir23-activity-7136792057024569344-31sZ)                          | Dec 2, 2023  | Izmir, Turkey    |
-| Emerge International Tech Conference         | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general                                                | Oct 3, 2023  | Istanbul, Turkey |
-| Global AI Hub Webinars                       | Generative AI for Everyone                                                                                                                     | Sep 08, 2023 | Online           |
-| Google Developer Groups Bursa                | [Prompt Engineering](https://youtu.be/R--fSB7CBIs)                                                                                             | Sep 06, 2023 | Online           |
-| Huawei Developer Group Turkey                | [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d) | Sep 3, 2023  | Online           |
-| Microsoft Founder's Hub Trainings            | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                               | Jun 19, 2023 | Online           |
-| Azure Bootcamp 03                            | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                  | May 6, 2023  | Dublin, Ireland  |
-| Internet Week 2023                           | Boosting Developer Velocity Through Culture and AI                                                                                             | Apr 15, 2023 | Mugla, Turkey    |
+| Name                                         | Topic                                                                                                                                                                                                          | Date         | Place            |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|
+| Getek'23                                     | [Future of CoPilots and Agents](https://www.instagram.com/p/C0mYE1ytZKc/?hl=en&img_index=2)                                                                                                                    | Dec 14, 2023 | Istanbul, Turkey |
+| Mus Alparslan Universitesi Yazilim Festivali | [Meet my AI Sidekick : GPT-4](https://www.instagram.com/p/C01El97LgBM/?hl=en&img_index=1)                                                                                                                      | Dec 13, 2023 | Mus, Turkey      |
+| GDG DevFest Bursa                            | [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgbursa_devfest23bursa-gdgbursa-bursa-activity-7140342491714695168-I5ts)                                                                         | Dec 9, 2023  | Bursa, Turkey    |
+| AI Startup Factory Is Bank                   | [Innovation through Apps and LLMs](https://www.linkedin.com/posts/ai-startup-factory-yapay-zeka-giri%C5%9Fim-fabrikas%C4%B1_yapayzekafabrikasaft-aistartupfactory-microsoft-activity-7138869911157735424--kY4) | Dec 5, 2023  | Istanbul, Turkey |
+| GDG DevFest Izmir                            | [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgizmir_dfestizmir23-activity-7136792057024569344-31sZ)                                                                                          | Dec 2, 2023  | Izmir, Turkey    |
+| Emerge International Tech Conference         | Lean Learning in Turbulish Times: How Startups Can Adapt and Thrive with Gen AI & AI in general                                                                                                                | Oct 3, 2023  | Istanbul, Turkey |
+| Global AI Hub Webinars                       | Generative AI for Everyone                                                                                                                                                                                     | Sep 08, 2023 | Online           |
+| Google Developer Groups Bursa                | [Prompt Engineering](https://youtu.be/R--fSB7CBIs)                                                                                                                                                             | Sep 06, 2023 | Online           |
+| Huawei Developer Group Turkey                | [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d)                                                                 | Sep 3, 2023  | Online           |
+| Microsoft Founder's Hub Trainings            | [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                                                                                               | Jun 19, 2023 | Online           |
+| Azure Bootcamp 03                            | [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                                                                                  | May 6, 2023  | Dublin, Ireland  |
+| Internet Week 2023                           | Boosting Developer Velocity Through Culture and AI                                                                                                                                                             | Apr 15, 2023 | Mugla, Turkey    |
 
 ## 2022
 
