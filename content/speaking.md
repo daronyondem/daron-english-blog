@@ -1,5 +1,5 @@
 ---
-date: 2023-12-16
+date: 2023-12-17
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,7 +11,6 @@ Here is where I'm planning to be next;
 
 | Name                  | Topic                         | Date         | Place             |
 |-----------------------|-------------------------------|--------------|-------------------|
-| GDG DevFest Konya     | Meet my AI Sidekick : GPT-4   | Dec 16, 2023 | Konya, Turkey     |
 | GDG DevFest Eskisehir | Meet my AI Sidekick : GPT-4   | Dec 23, 2023 | Eskisehir, Turkey |
 
 <br/>
@@ -22,6 +21,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                         | Topic                                                                                                                                                                                                          | Date         | Place            |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|
+| GDG DevFest Konya                            | Meet my AI Sidekick : GPT-4                                                                                                                                                                                    | Dec 16, 2023 | Konya, Turkey    |
 | Getek'23                                     | [Future of CoPilots and Agents](https://www.instagram.com/p/C0mYE1ytZKc/?hl=en&img_index=2)                                                                                                                    | Dec 14, 2023 | Istanbul, Turkey |
 | Mus Alparslan Universitesi Yazilim Festivali | [Meet my AI Sidekick : GPT-4](https://www.instagram.com/p/C01El97LgBM/?hl=en&img_index=1)                                                                                                                      | Dec 13, 2023 | Mus, Turkey      |
 | GDG DevFest Bursa                            | [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgbursa_devfest23bursa-gdgbursa-bursa-activity-7140342491714695168-I5ts)                                                                         | Dec 9, 2023  | Bursa, Turkey    |
