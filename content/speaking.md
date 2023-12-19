@@ -1,5 +1,5 @@
 ---
-date: 2023-12-17
+date: 2023-12-19
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -12,6 +12,7 @@ Here is where I'm planning to be next;
 | Name                  | Topic                         | Date         | Place             |
 |-----------------------|-------------------------------|--------------|-------------------|
 | GDG DevFest Eskisehir | Meet my AI Sidekick : GPT-4   | Dec 23, 2023 | Eskisehir, Turkey |
+| GDG DevFest Isparta   | Meet my AI Sidekick : GPT-4   | Dec 26, 2023 | Online            |
 
 <br/>
 
