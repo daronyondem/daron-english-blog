@@ -13,7 +13,7 @@ As we close out another year, it's time to share my journey - a blend of vulnera
 
 This year was a test of resilience, especially in terms of health and fitness. Remember when I said, "Sometimes an accidental injury or sickness can derail everything"? That was in my 2022 report. That summed up my 2023. A routine 5K run led to an IT-Band injury, disrupting my exercise routine and leading to some weight gain. I’m currently at 126 Kgs (277 lbs), a noticeable increase from the start of the year. Despite this setback, I've learned a lot about the importance of having a fallback plan for exercise and maintaining pillar habits.
 
-[My weight chart for an entire 10 year](/media/2023/2023-12-31-weight-chart.png)
+![My weight chart for an entire 10 year](/media/2023/2023-12-31-weight-chart.png)
 
 So what did I learn? What happened? The injury was expected, but I was not prepared with a fall back plan for my exercise routine and I was not aware how most of my habits were stacked on a morning run. Next time when the dark clouds come in I need to ensure I have a backup plan for my pillar habits. 
 
