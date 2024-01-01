@@ -1,5 +1,5 @@
 ---
-date: 2023-05-30
+date: 2024-01-01
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -9,11 +9,9 @@ It was all about losing weight. I could never imagine having fun running. Why wo
 
 Here is where I'm planning to be next;
 
-| Race                   | Distance | Date          |
-|------------------------|----------|---------------|
-| San Francisco Marathon | 42.2 km  | July 23, 2023 |
-| Plovdiv Marathon       | 42.2 km  | Sep 24, 2023  |
-| New York City Marathon | 42.2 km  | Nov 5, 2023   |
+| Race              | Distance | Date        |
+|-------------------|----------|-------------|
+| Istanbul Marathon | 42.2 km  | Nov 3, 2024 |
 
 <br/>
 
