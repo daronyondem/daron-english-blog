@@ -1,5 +1,5 @@
 ---
-date: 2023-12-31
+date: 2024-01-17
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,7 +9,11 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-TBA
+| Name                         | Topic                                        | Date         | Place           |
+|------------------------------|----------------------------------------------|--------------|-----------------|
+| Epic AI Dev Summit           | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online          |
+| Erzurum Technical University | Meet my AI Sidekick : GPT-4                  | Feb 17, 2024 | Erzurum, Turkey |
+| Toros Tech Fair              | TBA                                          | Mar 1, 2024  | Mersin, Turkey  |
 
 <br/>
 
