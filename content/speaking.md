@@ -1,5 +1,5 @@
 ---
-date: 2024-01-18
+date: 2024-02-01
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,13 +11,18 @@ Here is where I'm planning to be next;
 
 | Name                         | Topic                                        | Date         | Place           |
 |------------------------------|----------------------------------------------|--------------|-----------------|
-| Epic AI Dev Summit           | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online          |
-| Erzurum Technical University | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey |
 | Toros Tech Fair              | TBA                                          | Mar 1, 2024  | Mersin, Turkey  |
+| Erzurum Technical University | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey |
 
 <br/>
 
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
+
+## 2024
+
+| Name                         | Topic                                        | Date         | Place           |
+|------------------------------|----------------------------------------------|--------------|-----------------|
+| Epic AI Dev Summit           | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online          |
 
 ## 2023
 
