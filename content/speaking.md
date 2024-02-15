@@ -1,5 +1,5 @@
 ---
-date: 2024-02-01
+date: 2024-02-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,10 +9,11 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                         | Topic                                        | Date         | Place           |
-|------------------------------|----------------------------------------------|--------------|-----------------|
-| Toros Tech Fair              | TBA                                          | Mar 1, 2024  | Mersin, Turkey  |
-| Erzurum Technical University | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey |
+| Name                         | Topic                       | Date        | Place            |
+|------------------------------|-----------------------------|-------------|------------------|
+| Toros Tech Fair              | Meet my AI Sidekick : GPT-4 | Mar 1, 2024 | Mersin, Turkey   |
+| Erzurum Technical University | Meet my AI Sidekick : GPT-4 | Mar 8, 2024 | Erzurum, Turkey  |
+| BILMOK 2024                  | Meet my AI Sidekick : GPT-4 | Mar 9, 2024 | Istanbul, Turkey |
 
 <br/>
 
