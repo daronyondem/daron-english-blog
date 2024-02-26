@@ -1,5 +1,5 @@
 ---
-date: 2024-02-25
+date: 2024-02-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,6 +11,7 @@ Here is where I'm planning to be next;
 
 | Name                                | Topic                       | Date         | Place            |
 |-------------------------------------|-----------------------------|--------------|------------------|
+| Marmara University Data Fusion 1.0  | Applied AI                  | Feb 29, 2024 | Istanbul, Turkey |
 | Toros Tech Fair                     | Meet my AI Sidekick : GPT-4 | Mar 1, 2024  | Mersin, Turkey   |
 | Erzurum Technical University        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
 | BILMOK 2024                         | Meet my AI Sidekick : GPT-4 | Mar 9, 2024  | Istanbul, Turkey |
