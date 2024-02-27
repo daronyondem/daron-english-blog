@@ -3,6 +3,7 @@ const axios = require('axios');
 
 const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
 const filePath = './content/speaking.md'; 
+const tableHeader = "Here is where I'm planning to be next;";
 
 fs.readFile(filePath, 'utf8', (err, markdown) => {
   if (err) {
@@ -10,7 +11,7 @@ fs.readFile(filePath, 'utf8', (err, markdown) => {
     return;
   }
 
-  const tableStart = markdown.indexOf("Here is where I'm planning to be next;") + "Here is where I'm planning to be next;".length;
+  const tableStart = markdown.indexOf(tableHeader) + tableHeader.length;
   const tableEnd = markdown.indexOf('<br/>', tableStart);
   const tableContent = '```' + markdown.substring(tableStart, tableEnd).trim() + '```';
 
