@@ -26,7 +26,7 @@ jobs:
           const axios = require('axios');\
           const { WebhookClient } = require('discord.js');\
           const webhookUrl = process.env.DISCORD_WEBHOOK_URL;\
-          const urlRegex = /https:\\/\\/discord.com\\/api\\/webhooks\\/(\\d+)\\/(.+)/;\
+          const urlRegex = /https?:\/\/(discord.com|discordapp.com)\/api\/webhooks\/(\d+)\/(.+)/;
           const match = webhookUrl.match(urlRegex);\
           const webhookClient = new WebhookClient({ id: match[1], token: match[2] });\
           const markdown = fs.readFileSync('content/speaking.md', 'utf8');\
