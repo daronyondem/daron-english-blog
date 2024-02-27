@@ -19,7 +19,7 @@ Here is where I'm planning to be next;
 | Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
 | Gazi University AI'2SEC                             | TBA                         | May 28, 2024 | Ankara, Turkey   |
 
-<br/> 
+<br/>
 
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
 
