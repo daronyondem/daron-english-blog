@@ -14,7 +14,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: '16' 
     
       - name: Extract Table and Notify Discord
         env:
@@ -33,7 +33,7 @@ jobs:
           const tableStart = markdown.indexOf('Here is where I\\'m planning to be next;') + 'Here is where I\\'m planning to be next;'.length;\
           const tableEnd = markdown.indexOf('\\n\\n', tableStart);\
           const tableContent = markdown.substring(tableStart, tableEnd).trim();\
-          webhookClient.send(tableContent)\
+          webhookClient.send({content: tableContent})\
             .then(() => console.log('Message sent'))\
             .catch(console.error);\
           "
