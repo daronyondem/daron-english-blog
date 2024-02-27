@@ -22,4 +22,4 @@ jobs:
       - name: Extract Table and Notify Discord
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_ANNOUNCMENTS_WEBHOOK_URL }}
-        run: node notifyDiscord.js
+        run: node ./.github/workflows/discord-updates.js
