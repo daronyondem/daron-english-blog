@@ -1,9 +1,8 @@
 const fs = require('fs');
 const axios = require('axios');
 
-// Ensure you have set this environment variable in your GitHub secrets
 const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
-const filePath = './content/speaking.md'; // Adjust the path as necessary
+const filePath = './content/speaking.md'; 
 
 fs.readFile(filePath, 'utf8', (err, markdown) => {
   if (err) {
