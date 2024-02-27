@@ -20,20 +20,20 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_ANNOUNCMENTS_WEBHOOK_URL }}
         run: |
-          npm install axios discord.js
-          node -e "\
-          const fs = require('fs');\
-          const axios = require('axios');\
-          const { WebhookClient } = require('discord.js');\
-          const webhookUrl = process.env.DISCORD_WEBHOOK_URL;\
-          const urlRegex = /https?:\/\/(discord.com|discordapp.com)\/api\/webhooks\/(\d+)\/(.+)/;
-          const match = webhookUrl.match(urlRegex);\
-          const webhookClient = new WebhookClient({ id: match[1], token: match[2] });\
-          const markdown = fs.readFileSync('content/speaking.md', 'utf8');\
-          const tableStart = markdown.indexOf('Here is where I\\'m planning to be next;') + 'Here is where I\\'m planning to be next;'.length;\
-          const tableEnd = markdown.indexOf('\\n\\n', tableStart);\
-          const tableContent = markdown.substring(tableStart, tableEnd).trim();\
-          webhookClient.send({content: tableContent})\
+            npm install axios
+            node -e "\
+            const fs = require('fs');\
+            const axios = require('axios');\
+            const webhookUrl = process.env.DISCORD_WEBHOOK_URL;\
+            const markdown = fs.readFileSync('content/speaking.md', 'utf8');\
+            const tableStart = markdown.indexOf('Here is where I\\'m planning to be next;') + 'Here is where I\\'m planning to be next;'.length;\
+            const tableEnd = markdown.indexOf('<br/>', tableStart);\
+            const tableContent = '```' + markdown.substring(tableStart, tableEnd).trim() + '```';\
+            axios.post(webhookUrl, {\
+              username: 'Etkinlik Habercisi',\
+              avatar_url: 'https://cdn-icons-png.flaticon.com/512/7653/7653930.png',\
+              content: tableContent\
+            })\
             .then(() => console.log('Message sent'))\
             .catch(console.error);\
-          "
+            "
