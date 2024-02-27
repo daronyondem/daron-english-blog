@@ -9,14 +9,15 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                | Topic                       | Date         | Place            |
-|-------------------------------------|-----------------------------|--------------|------------------|
-| Marmara University Data Fusion 1.0  | Applied AI                  | Feb 29, 2024 | Istanbul, Turkey |
-| Toros Tech Fair                     | Meet my AI Sidekick : GPT-4 | Mar 1, 2024  | Mersin, Turkey   |
-| Erzurum Technical University        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
-| BILMOK 2024                         | Meet my AI Sidekick : GPT-4 | Mar 9, 2024  | Istanbul, Turkey |
-| Uskudar University Tech Summit 2024 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC             | TBA                         | May 28, 2024 | Ankara, Turkey   |
+| Name                                                | Topic                       | Date         | Place            |
+|-----------------------------------------------------|-----------------------------|--------------|------------------|
+| Marmara University Data Fusion 1.0                  | Applied AI                  | Feb 29, 2024 | Istanbul, Turkey |
+| Toros Tech Fair                                     | Meet my AI Sidekick : GPT-4 | Mar 1, 2024  | Mersin, Turkey   |
+| Erzurum Technical University                        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
+| BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 9, 2024  | Istanbul, Turkey |
+| Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
+| Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
+| Gazi University AI'2SEC                             | TBA                         | May 28, 2024 | Ankara, Turkey   |
 
 <br/> 
 
