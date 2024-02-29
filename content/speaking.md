@@ -1,5 +1,5 @@
 ---
-date: 2024-02-27
+date: 2024-02-29
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -17,6 +17,7 @@ Here is where I'm planning to be next;
 | BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 9, 2024  | Istanbul, Turkey |
 | Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
 | Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
+| Aksaray University                                  | TBA                         | May 3, 2024  | Aksaray, Turkey  |
 | Gazi University AI'2SEC                             | TBA                         | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
