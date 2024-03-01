@@ -1,5 +1,5 @@
 ---
-date: 2024-02-29
+date: 2024-03-01
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,10 +11,8 @@ Here is where I'm planning to be next;
 
 | Name                                                | Topic                       | Date         | Place            |
 |-----------------------------------------------------|-----------------------------|--------------|------------------|
-| Marmara University Data Fusion 1.0                  | Applied AI                  | Feb 29, 2024 | Istanbul, Turkey |
-| Toros Tech Fair                                     | Meet my AI Sidekick : GPT-4 | Mar 1, 2024  | Mersin, Turkey   |
 | Erzurum Technical University                        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
-| BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 9, 2024  | Istanbul, Turkey |
+| BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
 | Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
 | Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
 | Aksaray University                                  | TBA                         | May 3, 2024  | Aksaray, Turkey  |
@@ -26,9 +24,11 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2024
 
-| Name                         | Topic                                        | Date         | Place           |
-|------------------------------|----------------------------------------------|--------------|-----------------|
-| Epic AI Dev Summit           | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online          |
+| Name                               | Topic                                        | Date         | Place            |
+|------------------------------------|----------------------------------------------|--------------|------------------|
+| Toros Tech Fair                    | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
+| Marmara University Data Fusion 1.0 | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
+| Epic AI Dev Summit                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
 
 ## 2023
 
