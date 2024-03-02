@@ -12,7 +12,7 @@ Here is where I'm planning to be next;
 | Name                                                | Topic                       | Date         | Place            |
 |-----------------------------------------------------|-----------------------------|--------------|------------------|
 | Erzurum Technical University                        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
-| BILMOK2024                                          | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
+| BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
 | Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
 | Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
 | Aksaray University                                  | TBA                         | May 3, 2024  | Aksaray, Turkey  |
