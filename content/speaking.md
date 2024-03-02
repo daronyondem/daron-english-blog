@@ -1,5 +1,5 @@
 ---
-date: 2024-03-01
+date: 2024-03-02
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -16,6 +16,7 @@ Here is where I'm planning to be next;
 | Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
 | Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
 | Aksaray University                                  | TBA                         | May 3, 2024  | Aksaray, Turkey  |
+| Uskudar University Industry and Leadership Days 8   | Journeying Beyond Outcomes  | May 22, 2024 | Istanbul, Turkey |
 | Gazi University AI'2SEC                             | TBA                         | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
