@@ -13,12 +13,32 @@ fs.readFile(filePath, 'utf8', (err, markdown) => {
 
   const tableStart = markdown.indexOf(tableHeader) + tableHeader.length;
   const tableEnd = markdown.indexOf('<br/>', tableStart);
-  const tableContent = '```' + markdown.substring(tableStart, tableEnd).trim() + '```';
+  const tableMarkdown = markdown.substring(tableStart, tableEnd).trim();
+
+  const lines = tableMarkdown.split('\n').slice(2);
+  const embeds = lines.map(line => {
+    // Extract data from each column
+    const [nameColumn, topic, date, place] = line.split('|').slice(1).map(text => text.trim());
+    const nameMatch = nameColumn.match(/\[(.*?)\]\((.*?)\)/) || [];
+    const name = nameMatch[1] || nameColumn;
+    const url = nameMatch[2];
+
+    return {
+      description: `Konu: ${topic}\nTarih: ${date}\n`,
+      fields: [],
+      footer: {
+        text: place
+      },
+      title: name,
+      ...(url && { url })
+    };
+  });
 
   axios.post(webhookUrl, {
     username: 'Etkinlik Habercisi',
     avatar_url: 'https://cdn-icons-png.flaticon.com/512/7653/7653930.png',
-    content: tableContent
+    content: "An update has been made on the future event list on https://daron.blog/speaking/",
+    embeds: embeds
   })
   .then(() => console.log('Message sent'))
   .catch(console.error);
