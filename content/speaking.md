@@ -26,11 +26,11 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2024
 
-| Name                               | Topic                                        | Date         | Place            |
-|------------------------------------|----------------------------------------------|--------------|------------------|
-| Toros Tech Fair                    | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
-| Marmara University Data Fusion 1.0 | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
-| Epic AI Dev Summit                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
+| Name                                                                                         | Topic                                        | Date         | Place            |
+|----------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| Toros Tech Fair                                                                              | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
+| Marmara University Data Fusion 1.0                                                           | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
+| [Epic AI Dev Summit](https://daron.blog/2024/talking-promptflow-at-epic-ai-dev-summit-2024/) | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
 
 ## 2023
 
