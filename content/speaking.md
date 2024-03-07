@@ -9,18 +9,19 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                | Topic                       | Date         | Place            |
-|-----------------------------------------------------|-----------------------------|--------------|------------------|
-| Erzurum Technical University                        | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
-| BILMOK 2024                                         | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
-| Istanbul International Community School Career Fair | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
-| Erciyes University IEEE Computer Society            | Meet my AI Sidekick : GPT-4 | Mar 22, 2024 | Istanbul, Turkey |
-| Uskudar University Tech Summit 2024                 | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
-| Sivas University National Informatics Festivals     | TBD                         | Apr 29, 2024 | Sivas, Turkey    |
-| Aksaray University                                  | TBA                         | May 2, 2024  | Aksaray, Turkey  |
-| Isparta University IZTECH                           | TBA                         | May 3, 2024  | Isparta, Turkey  |
-| Uskudar University Industry and Leadership Days 8   | Journeying Beyond Outcomes  | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                             | TBA                         | May 28, 2024 | Ankara, Turkey   |
+| Name                                                     | Topic                       | Date         | Place            |
+|----------------------------------------------------------|-----------------------------|--------------|------------------|
+| Erzurum Technical University                             | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
+| BILMOK 2024                                              | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
+| Istanbul International Community School Career Fair      | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
+| Erciyes University IEEE Computer Society                 | Meet my AI Sidekick : GPT-4 | Mar 22, 2024 | Istanbul, Turkey |
+| Uskudar University Tech Summit 2024                      | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
+| Sivas University National Informatics Festivals          | TBD                         | Apr 29, 2024 | Sivas, Turkey    |
+| Aksaray University                                       | TBA                         | May 2, 2024  | Aksaray, Turkey  |
+| Isparta University IZTECH                                | TBA                         | May 3, 2024  | Isparta, Turkey  |
+| Trakya University Information and Innovation Summit 2024 | TBA                         | May 14, 2024 | Edirne, Turkey   |
+| Uskudar University Industry and Leadership Days 8        | Journeying Beyond Outcomes  | May 22, 2024 | Istanbul, Turkey |
+| Gazi University AI'2SEC                                  | TBA                         | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
 
