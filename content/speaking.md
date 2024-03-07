@@ -190,6 +190,35 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Kocaeli University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-07.md)                                                               | Journeying Beyond Outcomes                  | Mar 6, 2017  | Kocaeli, Turkey   |
 | [Yasar University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-02-19.md)                                                                 | Journeying Beyond Outcomes                  | Feb 18, 2017 | Istanbul, Turkey  |
 
+## 2016
+
+| Name                                                                                                                                    | Topic                                     | Date         | Place             |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------|-------------------|
+| [reConnect 2016](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-11-24.md)                                      | What's new in Azure from Connect 2016?    | Nov 23, 2016 | Istanbul, Turkey  |
+| [Microsoft Turkey Windows Server 2016 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-11-18.md)         | Service Fabric and Microservices Overview | Nov 17, 2016 | Istanbul, Turkey  |
+| [Işık University SteamWin Talk](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-11-04.md)                       | Career Talk                               | Nov 3, 2016  | Istanbul, Turkey  |
+| [Open Academy Summer School 2016](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-08-16.md)                     | Azure 101                                 | Aug 15, 2016 | Istanbul, Turkey  |
+| [Voxxed Days Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-05-08.md)                                | Swagger Explained                         | May 7, 2016  | Istanbul, Turkey  |
+| [Toros University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-29.md)                                    | Cloud 101                                 | Apr 28, 2016 | Mersin, Turkey    |
+| [Süleyman Demirel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-28.md)                         | Journeying Beyond Outcomes                | Apr 27, 2016 | Isparta, Turkey   |
+| [Trakya University Information and Innovation Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-23.md) | Azure 101                                 | Apr 22, 2016 | Edirne, Turkey    |
+| [Bartın University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-22.md)                                   | Azure 101                                 | Apr 21, 2016 | Istanbul, Turkey  |
+| [IEEE Çukurova University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-21.md)                            | What we do at XOMNI?                      | Apr 20, 2016 | Adana, Turkey     |
+| [Hacettepe University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-12.md)                                | Azure 101                                 | Apr 11, 2016 | Ankara, Turkey    |
+| [Microsoft Tech Tour Edirne](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-09.md)                          | Journeying Beyond Outcomes                | Apr 8, 2016  | Edirne, Turkey    |
+| [Istanbul Şehir University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-08.md)                           | Azure 101                                 | Apr 7, 2016  | Istanbul, Turkey  |
+| [Istanbul Aydın University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-07.md)                           | Cloud 101                                 | Apr 6, 2016  | Istanbul, Turkey  |
+| [Sakarya University IEEE Talks](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-18.md)                       | Journeying Beyond Outcomes                | Mar 17, 2016 | Sakarya, Turkey   |
+| [Galatasaray University Reunion](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-17.md)                      | Journeying Beyond Outcomes                | Mar 16, 2016 | Istanbul, Turkey  |
+| [Osmangazi University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-14.md)                                | Journeying Beyond Outcomes                | Mar 13, 2016 | Eskişehir, Turkey |
+| [Ege University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-13.md)                                      | Journeying Beyond Outcomes                | Mar 12, 2016 | Izmir, Turkey     |
+| [Nişantaşı University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-11.md)                                | Azure IoT Suite                           | Mar 10, 2016 | Istanbul, Turkey  |
+| [BİLMÖK 2016](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-08.md)                                         | Journeying Beyond Outcomes                | Mar 7, 2016  | Şanlıurfa, Turkey |
+| [Izmir Institute of Technology (IYTE)](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-04.md)                | Cloud 101                                 | Mar 3, 2016  | Izmir, Turkey     |
+| [Karabük University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-02.md)                                  | Talking Microsoft and Linux               | Mar 1, 2016  | Karabük, Turkey   |
+| [Nişantaşı University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-15.md)                                | Azure 101                                 | Jan 14, 2016 | Istanbul, Turkey  |
+| [Middle East Technical University (ODTÜ)](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-07.md)             | Big Data and IoT                          | Jan 6, 2016  | Ankara, Turkey    |
+
 <br/>
 
 Still building up this list...
