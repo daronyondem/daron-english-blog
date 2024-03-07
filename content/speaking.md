@@ -51,6 +51,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)          | Prompt Engineering                                            | Sep 06, 2023 | Online            |
 | [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                     | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
 | [Microsoft Founder's Hub Trainings](https://youtu.be/J09R0Z5cjA8)                      | Azure OpenAI 101                                              | Jun 19, 2023 | Online            |
+| [Bandirma Onyedi Eylul University](/media/2023/techno-z.jpg)                           | The Role of Artificial Intelligence in Engineering Management | May 22, 2023 | Online            |
 | [Global AI Hub Webinars](/media/2023/global-ai-hub-data-bootcamp-keynote.png)          | Generative AI for Everyone                                    | May 08, 2023 | Online            |
 | [Microsoft Azure Bootcamp 03](https://youtu.be/YipJmhZK6g4)                            | FaaS For Everyone, Everywhere                                 | May 6, 2023  | Dublin, Ireland   |
 | [Internet Week 2023](/media/2023/mugla-internet-week-2023.png)                         | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey     |
