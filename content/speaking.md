@@ -57,25 +57,22 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2022
 
-| Name                                                                                                                                | Topic                                                       | Date         | Place            |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------|------------------|
-| [GDG Izmir](https://daron.blog/2022/talking-at-4-google-devfests-in-4-cities/)                                                      | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey    |
-| [GDG Denizli](https://daron.blog/2022/talking-at-4-google-devfests-in-4-cities/)                                                    | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey  |
-| [GDG Konya](https://daron.blog/2022/talking-at-4-google-devfests-in-4-cities/)                                                      | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey    |
-| [GDG Burdur](https://daron.blog/2022/talking-at-4-google-devfests-in-4-cities/)                                                     | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey   |
-| [xpand conference 2022](https://daron.blog/2022/talking-function-orchestration-at-xpand-conference-2022/)                           | Function Orchestration in the World of Serverless           | Oct 22, 2022 | Amman, Jordan    |
-| [7. Tourism Technologies Day](https://www.linkedin.com/posts/daronyondem_appliedai-innovation-ai-activity-6988812872952754176-Wvcg) | Rapid Application Innovation Through AI                     | Oct 20, 2022 | Antalya, Turkey  |
-| [Data Platform Virtual Summit 2022](https://youtu.be/th4mRf1Dw3c)                                                                   | Discover Serverless Data for Serverless Apps.               | Sep 20, 2022 | Online           |
-| [Serverless Days Student Edition 2022](https://youtu.be/h1v2xfaEWc8?t=6796)                                                         | Function Orchestration in the World of Serverless           | Aug 20, 2022 | Online           |
-| [Global AI Hub AI Summer Camp](https://globalaihub.com/ai-summer-camp-22/)                                                          | Innovate now with Applied AI Services                       | Aug 3, 2022  | Online           |
-| [Zirvedekiler 2022](https://www.linkedin.com/feed/update/urn:li:activity:6936015262403936256/)                                      | A Look at Cloud Computing, Today and Tomorrow.              | Jun 3, 2022  | Istanbul, Turkey |
-| [BILMOK 2022](https://www.bilmok.org.tr/)                                                                                           | A Look at Cloud Computing, Today and Tomorrow.              | May 14, 2022 | Konya, Turkey    |
-| [Global Azure 2022](https://youtu.be/kwP9q5ESqiY)                                                                                   | What’s in Azure for your mobile projects?                   | May 5, 2022  | Online           |
-| [Microsoft Reactor Middle East and Africa](https://www.youtube.com/watch?v=1UqUoTv45O8)                                             | Serverless on the Microsoft Stack                           | Mar 22, 2022 | Online           |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326579/157-GQE-382)                                      | Applied Azure AI services and Auto ML                       | Mar 15, 2022 | Online           |
-| [Microsoft Turkey Startup Bootcamp](https://mktoevents.com/Microsoft+Event/326608/157-GQE-382)                                      | Serverless and API Management                               | Mar 8, 2022  | Online           |
-| [Microsoft Turkey Girls-in-AI Hackathon](https://youtu.be/PhC0-3xXbbI)                                                              | Serverless AI                                               | Feb 4, 2022  | Online           |
-| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s)                                                   | Building a Career around AI                                 | Jan 7, 2022  | Online           |
+| Name                                                                              | Topic                                                       | Date         | Place            |
+|-----------------------------------------------------------------------------------|-------------------------------------------------------------|--------------|------------------|
+| [GDG Izmir](/media/2022/gdg-izmir-devfest-2022.jpg)                               | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey    |
+| [GDG Denizli](/media/2022/gdg-denizli-devfest-2022.jpg)                           | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey  |
+| [GDG Konya](/media/2022/gdg-devfest-konya-2022.jpg)                               | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey    |
+| [GDG Burdur](/media/2022/gdg-burdur-2022-devfest.jpg))                            | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey   |
+| [xpand conference 2022](/media/2022/xpand-2022.jpg)                               | Function Orchestration in the World of Serverless           | Oct 22, 2022 | Amman, Jordan    |
+| [7. Tourism Technologies Day](/media/2022/tbdantalya-2022.jpg)                    | Rapid Application Innovation Through AI                     | Oct 20, 2022 | Antalya, Turkey  |
+| [Data Platform Virtual Summit 2022](https://youtu.be/th4mRf1Dw3c)                 | Discover Serverless Data for Serverless Apps.               | Sep 20, 2022 | Online           |
+| [Serverless Days Student Edition 2022](https://youtu.be/h1v2xfaEWc8?t=6796)       | Function Orchestration in the World of Serverless           | Aug 20, 2022 | Online           |
+| [Global AI Hub AI Summer Camp](/media/2022/global-ai-hub-2022.jpg)                | Innovate now with Applied AI Services                       | Aug 3, 2022  | Online           |
+| [Zirvedekiler 2022](/media/2022/zirvedeilker-ieee-uskudar.jpg)                    | A Look at Cloud Computing, Today and Tomorrow.              | Jun 3, 2022  | Istanbul, Turkey |
+| [BILMOK 2022](/media/2022/bilmok-2022.jpg)                                        | A Look at Cloud Computing, Today and Tomorrow.              | May 14, 2022 | Konya, Turkey    |
+| [Global Azure 2022](https://youtu.be/kwP9q5ESqiY)                                 | What’s in Azure for your mobile projects?                   | May 5, 2022  | Online           |
+| [Microsoft Reactor Middle East and Africa](/media/2022/middlesex-uni.jpg)         | Serverless on the Microsoft Stack                           | Mar 22, 2022 | Online           |
+| [AI Days Google DSC Beykent](https://www.youtube.com/watch?v=Ml2-PbvexLs&t=3434s) | Building a Career around AI                                 | Jan 7, 2022  | Online           |
 
 ## 2021
 
