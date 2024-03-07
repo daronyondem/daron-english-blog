@@ -28,31 +28,31 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2024
 
-| Name                                                                                         | Topic                                        | Date         | Place            |
-|----------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| Toros Tech Fair                                                                              | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
-| Marmara University Data Fusion 1.0                                                           | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
-| [Epic AI Dev Summit](https://daron.blog/2024/talking-promptflow-at-epic-ai-dev-summit-2024/) | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
+| Name                                                                          | Topic                                        | Date         | Place            |
+|-------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                       | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
+| [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg) | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
+| [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)            | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
 
 ## 2023
 
-| Name                                                                                                                                                                                                           | Topic                                                         | Date         | Place             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
-| [GDG DevFest Isparta](https://daron.blog/2023/talking-at-5-google-devfests-in-5-cities/)                                                                                                                       | Meet my AI Sidekick : GPT-4                                   | Dec 26, 2023 | Online            |
-| [GDG DevFest Eskisehir](https://daron.blog/2023/talking-at-5-google-devfests-in-5-cities/)                                                                                                                     | Meet my AI Sidekick : GPT-4                                   | Dec 23, 2023 | Eskisehir, Turkey |
-| [GDG DevFest Konya](https://daron.blog/2023/talking-at-5-google-devfests-in-5-cities/)                                                                                                                         | Meet my AI Sidekick : GPT-4                                   | Dec 16, 2023 | Konya, Turkey     |
-| [Future of CoPilots and Agents](https://www.instagram.com/p/C0mYE1ytZKc/?hl=en&img_index=2)                                                                                                                    | Dec 14, 2023                                                  | Dec 14, 2023 | Istanbul, Turkey  |
-| [Meet my AI Sidekick : GPT-4](https://www.instagram.com/p/C01El97LgBM/?hl=en&img_index=1)                                                                                                                      | Dec 13, 2023                                                  | Dec 13, 2023 | Mus, Turkey       |
-| [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgbursa_devfest23bursa-gdgbursa-bursa-activity-7140342491714695168-I5ts)                                                                         | Dec 9, 2023                                                   | Dec 9, 2023  | Bursa, Turkey     |
-| [Innovation through Apps and LLMs](https://www.linkedin.com/posts/ai-startup-factory-yapay-zeka-giri%C5%9Fim-fabrikas%C4%B1_yapayzekafabrikasaft-aistartupfactory-microsoft-activity-7138869911157735424--kY4) | Dec 5, 2023                                                   | Dec 5, 2023  | Istanbul, Turkey  |
-| [Meet my AI Sidekick : GPT-4](https://www.linkedin.com/posts/gdgizmir_dfestizmir23-activity-7136792057024569344-31sZ)                                                                                          | Dec 2, 2023                                                   | Dec 2, 2023  | Izmir, Turkey     |
-| Emerge International Tech Conference                                                                                                                                                                           | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
-| Global AI Hub Webinars                                                                                                                                                                                         | Generative AI for Everyone                                    | Sep 08, 2023 | Online            |
-| [Prompt Engineering](https://youtu.be/R--fSB7CBIs)                                                                                                                                                             | Sep 06, 2023                                                  | Sep 06, 2023 | Online            |
-| [Applied AI: Foundations and Future](https://kommunity.com/hdgturkey/events/uygulamali-yapay-zeka-temeller-ve-gelecek-perspektifleri-feb8cf2d)                                                                 | Sep 3, 2023                                                   | Sep 3, 2023  | Online            |
-| [Azure OpenAI 101](https://youtu.be/J09R0Z5cjA8)                                                                                                                                                               | Jun 19, 2023                                                  | Jun 19, 2023 | Online            |
-| [FaaS For Everyone, Everywhere](https://youtu.be/YipJmhZK6g4)                                                                                                                                                  | May 6, 2023                                                   | May 6, 2023  | Dublin, Ireland   |
-| Internet Week 2023                                                                                                                                                                                             | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey     |
+| Name                                                                                   | Topic                                                         | Date         | Place             |
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
+| [GDG DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                | Meet my AI Sidekick : GPT-4                                   | Dec 26, 2023 | Online            |
+| [GDG DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                    | Meet my AI Sidekick : GPT-4                                   | Dec 23, 2023 | Eskisehir, Turkey |
+| [GDG DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 16, 2023 | Konya, Turkey     |
+| [Getek'23](/media/2023/getek-2023.png)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
+| [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick : GPT-4                                   | Dec 13, 2023 | Mus, Turkey       |
+| [GDG DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 9, 2023  | Bursa, Turkey     |
+| [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
+| [GDG DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 2, 2023  | Izmir, Turkey     |
+| [Emerge International Tech Conference](/media/2023/emerge-conf-2023.png)               | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
+| [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)          | Prompt Engineering                                            | Sep 06, 2023 | Online            |
+| [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                     | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
+| [Microsoft Founder's Hub Trainings](https://youtu.be/J09R0Z5cjA8)                      | Azure OpenAI 101                                              | Jun 19, 2023 | Online            |
+| [Global AI Hub Webinars](/media/2023/global-ai-hub-data-bootcamp-keynote.png)          | Generative AI for Everyone                                    | May 08, 2023 | Online            |
+| [Microsoft Azure Bootcamp 03](https://youtu.be/YipJmhZK6g4)                            | FaaS For Everyone, Everywhere                                 | May 6, 2023  | Dublin, Ireland   |
+| [Internet Week 2023](/media/2023/mugla-internet-week-2023.png)                         | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey     |
 
 ## 2022
 
