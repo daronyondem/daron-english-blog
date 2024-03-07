@@ -99,60 +99,60 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2020
 
-| Name                                                                                                    | Topic                                              | Date         | Place  |
-|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|--------|
-| [Data Platform Summit 2020](/media/2020/dps-2020.jpg)                                                   | CosmosDB: Jack of all Trades, Master of Many       | Dec 4, 2020  | Online |
-| [Azure Community Conference India](/media/2020/2020-azconf-2.jpg)                                       | Function Orchestration in the World of Serverless  | Nov 24, 2020 | Online |
-| [SAU The World of Algorithms](/media/2020/sau-world-of-algo.jpg)                                        | Practical AI                                       | Nov 6, 2020  | Online |
-| [Power BI Turkey Meetup](/media/2020/powerbi-tr-event.jpg)                                              | Azure Synapse 101                                  | Oct 10, 2020 | Online |
-| [Microsoft Reactor Abu Dhabi Meetup](/media/2020/reactor-abu-dhabi.jpg)                                 | Function Orchestration in the World of Serverless  | Oct 6,2020   | Online |
-| [Global AI Hub](https://www.youtube.com/watch?v=bFzoquhr9gc&ab_channel=GlobalAIHub)                     | Serverless AI                                      | Jul 11, 2020 | Online |
-| [Çözümpark Tech Talks](/media/2020/cozumpark-data-analytics.jpg)                                        | Data Analytics Coffee Talk                         | Jun 23, 2020 | Online |
-| [Çözümpark Tech Talks](/media/2020/cozumpark-ai.jpg)                                                    | AI in Real-Life                                    | Jun 16, 2020 | Online |
-| [CloudTalk Online](https://youtu.be/88EqcmY7w54?si=gI6XQEmQ99vjG9hY)                                    | DevOps On-Prem and Online                          | May 8,2020   | Online |
-| [International Women Day 2020 Zonguldak](/media/2020/women-tech-makers-zonguldak.jpg)                   | Implementing AI into your apps Without Learning AI | Apr 26,2020  | Online |
-| [Global Azure Virtual 2020 Conference](https://daron.blog/2020/global-azure-virtual-2020-conference/)   | Function Orchestration in the World of Serverless  | Apr 24,2020  | Online |
-| [GDevs Bursa](https://www.youtube.com/live/2S6MQqrKZus?si=Pbo-1ZWP827FusL-)                             | Serverless AI                                      | Apr 12,2020  | Online |
-| [Global AI Community Virtual Tour 2020](https://daron.blog/2020/global-ai-community-virtual-tour-2020/) | Implementing AI into your Apps without Learning AI | Apr 8,2020   | Online |
-| [Azure Cognitive Services Day](https://daron.blog/2020/a-full-day-of-azure-cognitive-services/)         | Mastering Azure Cognitive Services                 | Mar 8,2020   | Online |
-| [Karabük University IT Days](https://daron.blog/2020/karabuk-university-it-days-2020/)                  | Implementing AI into your Apps without Learning AI | Mar 1,2020   | Online |
-| [GeekDay 2020](https://daron.blog/2020/geekday-2020/)                                                   | Serverless Boost for Your Next Startup             | Feb 28,2020  | Online |
-| [Microsoft Turkey Edu Roundtables](https://daron.blog/2020/devops-paas-and-serverless-for-education/)   | DevOps, PaaS, and Serverless for Education         | Feb 22, 2020 | Online |
+| Name                                                                                  | Topic                                              | Date         | Place  |
+|---------------------------------------------------------------------------------------|----------------------------------------------------|--------------|--------|
+| [Data Platform Summit 2020](/media/2020/dps-2020.jpg)                                 | CosmosDB: Jack of all Trades, Master of Many       | Dec 4, 2020  | Online |
+| [Azure Community Conference India](/media/2020/2020-azconf-2.jpg)                     | Function Orchestration in the World of Serverless  | Nov 24, 2020 | Online |
+| [SAU The World of Algorithms](/media/2020/sau-world-of-algo.jpg)                      | Practical AI                                       | Nov 6, 2020  | Online |
+| [Power BI Turkey Meetup](/media/2020/powerbi-tr-event.jpg)                            | Azure Synapse 101                                  | Oct 10, 2020 | Online |
+| [Microsoft Reactor Abu Dhabi Meetup](/media/2020/reactor-abu-dhabi.jpg)               | Function Orchestration in the World of Serverless  | Oct 6,2020   | Online |
+| [Global AI Hub](https://www.youtube.com/watch?v=bFzoquhr9gc&ab_channel=GlobalAIHub)   | Serverless AI                                      | Jul 11, 2020 | Online |
+| [Çözümpark Tech Talks](/media/2020/cozumpark-data-analytics.jpg)                      | Data Analytics Coffee Talk                         | Jun 23, 2020 | Online |
+| [Çözümpark Tech Talks](/media/2020/cozumpark-ai.jpg)                                  | AI in Real-Life                                    | Jun 16, 2020 | Online |
+| [CloudTalk Online](https://youtu.be/88EqcmY7w54?si=gI6XQEmQ99vjG9hY)                  | DevOps On-Prem and Online                          | May 8,2020   | Online |
+| [International Women Day 2020 Zonguldak](/media/2020/women-tech-makers-zonguldak.jpg) | Implementing AI into your apps Without Learning AI | Apr 26,2020  | Online |
+| [Global Azure Virtual 2020 Conference](/2020/global-azure-virtual-2020-conference/)   | Function Orchestration in the World of Serverless  | Apr 24,2020  | Online |
+| [GDevs Bursa](https://www.youtube.com/live/2S6MQqrKZus?si=Pbo-1ZWP827FusL-)           | Serverless AI                                      | Apr 12,2020  | Online |
+| [Global AI Community Virtual Tour 2020](/2020/global-ai-community-virtual-tour-2020/) | Implementing AI into your Apps without Learning AI | Apr 8,2020   | Online |
+| [Azure Cognitive Services Day](/2020/a-full-day-of-azure-cognitive-services/)         | Mastering Azure Cognitive Services                 | Mar 8,2020   | Online |
+| [Karabük University IT Days](/2020/karabuk-university-it-days-2020/)                  | Implementing AI into your Apps without Learning AI | Mar 1,2020   | Online |
+| [GeekDay 2020](/2020/geekday-2020/)                                                   | Serverless Boost for Your Next Startup             | Feb 28,2020  | Online |
+| [Microsoft Turkey Edu Roundtables](/2020/devops-paas-and-serverless-for-education/)   | DevOps, PaaS, and Serverless for Education         | Feb 22, 2020 | Online |
 
 ## 2019
 
-| Name                                                                                                                                   | Topic                                                     | Date         | Place            |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|------------------|
-| [Google DevFest Isparta](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Dec 21, 2019 | Isparta, Turkey  |
-| [Google DevFest Manisa](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Dec 19, 2019 | Manisa, Turkey   |
-| [Global AI Bootcamp Istanbul 2019](https://daron.blog/2019/global-ai-bootcamp-istanbul-2019/)                                          | Serverless Tensorflow                                     | Dec 17, 2019 | Istanbul, Turkey |
-| [Adana Software and Technologies Summit 2019](https://daron.blog/2019/adana-software-and-technologies-summit-2019/)                    | Implementing AI into your Apps without Learning AI        | Dec 17, 2019 | Adana, Turkey    |
-| [Google DevFest Burdur](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Dec 14, 2019 | Burdur, Turkey   |
-| [Google DevFest Trabzon](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Dec 13, 2019 | Trabzon, Turkey  |
-| [Google DevFest Duzce](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Implementing AI into your Apps without Learning AI        | Dec 11, 2019 | Duzce, Turkey    |
-| [Google DevFest Kayseri](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Dec 9, 2019  | Kayseri, Turkey  |
-| [Google DevFest Bursa](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Implementing AI into your Apps without Learning AI        | Dec 8, 2019  | Bursa, Turkey    |
-| [Google DevFest Sivas](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Serverless Boost for Your Next Startup                    | Dec 7, 2019  | Sivas, Turkey    |
-| [Google DevFest Mersin](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Dec 6, 2019  | Mersin, Turkey   |
-| [Google DevFest Edirne](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Serverless Boost for Your Next Startup                    | Dec 1, 2019  | Edirne, Turkey   |
-| [Google DevFest Denizli](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Nov 30, 2019 | Denizli, Turkey  |
-| [Google DevFest Istanbul](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                         | Implementing AI into your Apps without Learning AI        | Nov 24, 2019 | Istanbul, Turkey |
-| [Google DevFest Izmir](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Implementing AI into your Apps without Learning AI        | Nov 23, 2019 | Izmir, Turkey    |
-| [ICT Summit Turkey 2019](https://daron.blog/2019/using-ai-for-abnormal-behavior-detection-at-ict-summit-turkey-2019/)                  | Using AI for Abnormal Behavior Detection                  | Nov 22, 2019 | Istanbul, Turkey |
-| [Google DevFest Ankara](https://daron.blog/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Nov 17, 2019 | Ankara, Turkey   |
-| [Cozumpark Tech Talks 2019](https://daron.blog/2019/cozumpark-tech-talks-2019/)                                                        | Easy-Peasy AI with Azure Cognitive Services               | Nov 9, 2019  | Istanbul, Turkey |
-| [Cozumpark Career Day](https://daron.blog/2019/cozumpark-career-day-talk-how-to-mother-yourself/)                                      | How to Mother Yourself                                    | Oct 31, 2019 | Istanbul, Turkey |
-| [ServerlessDays Istanbul 2019](https://daron.blog/2019/serverlessdays-istanbul-2019/)                                                  | What comes after your first function in Serverless?       | Oct 10, 2019 | Istanbul, Turkey |
-| [.NET Conf 2019 Istanbul](https://daron.blog/2019/talked-about-serverless-at-.net-conf-2019-istanbul/)                                 | Serverless application development : The Complete Picture | Sep 28, 2019 | Istanbul, Turkey |
-| [Global AI Night Istanbul](https://daron.blog/2019/talking-ai-on-the-edge-at-global-ai-night-istanbul/)                                | AI on the Edge                                            | Sep 7, 2019  | Istanbul, Turkey |
-| [Visual Studio 2019 Community Launch Istanbul](https://daron.blog/2019/visual-studio-2019-community-launch-istanbul/)                  | What's new in Azure?                                      | Apr 4, 2019  | Istanbul, Turkey |
-| [Arena and Cozumpark TechDays 2019](https://daron.blog/2019/talking-ai-for-everyone-at-arena-and-cozumpark-techdays-2019-in-istanbul/) | AI for Everyone                                           | Apr 4, 2019  | Istanbul, Turkey |
-| [Cozumpark IoT on Azure](https://daron.blog/2019/talking-about-iot-on-azure/)                                                          | What has Azure to offer to IoT Developers?                | Mar 27, 2019 | Online           |
-| [Microsoft Turkey IT Summit 2019](https://daron.blog/2019/talking-ai-and-compute-at-microsoft-turkey-it-summit-2019/)                  | AI and Compute in Azure                                   | Mar 8, 2019  | Istanbul, Turkey |
-| [Karabuk IT Days](https://daron.blog/2019/karabuk-university-ai-talk/)                                                                 | Easy-Peasy AI : Azure Cognitive Services                  | Mar 7, 2019  | Karabuk, Turkey  |
-| [Xamarin Turkey UG Anniverisary Conference](https://daron.blog/2019/architecture-101-for-mobile-backend-developers-on-azure/)          | Architecture 101 for Mobile Backend Developers on Azure   | Mar 3, 2019  | Istanbul, Turkey |
-| [Teknolot Meetup](https://daron.blog/2019/teknolot-february-2019-meetup/)                                                              | Serverless Single Page Apps on Azure                      | Feb 20, 2019 | Istanbul, Turkey |
+| Name                                                                                                                 | Topic                                                     | Date         | Place            |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|------------------|
+| [Google DevFest Isparta](media/2019/gdg-isparta-devfest-2.jpg)                                                       | Implementing AI into your Apps without Learning AI        | Dec 21, 2019 | Isparta, Turkey  |
+| [Google DevFest Manisa](/media/2019/gdg-manisa.jpg)                                                                  | Implementing AI into your Apps without Learning AI        | Dec 19, 2019 | Manisa, Turkey   |
+| [Adana Software and Technologies Summit 2019](/2019/adana-software-and-technologies-summit-2019/)                    | Implementing AI into your Apps without Learning AI        | Dec 17, 2019 | Adana, Turkey    |
+| [Google DevFest Burdur](/media/2019/gdg-burdur-2019.jpg)                                                             | Implementing AI into your Apps without Learning AI        | Dec 14, 2019 | Burdur, Turkey   |
+| [Google DevFest Trabzon](/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Dec 13, 2019 | Trabzon, Turkey  |
+| [Google DevFest Duzce](/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Implementing AI into your Apps without Learning AI        | Dec 11, 2019 | Duzce, Turkey    |
+| [Google DevFest Kayseri](/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Dec 9, 2019  | Kayseri, Turkey  |
+| [Google DevFest Bursa](/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Implementing AI into your Apps without Learning AI        | Dec 8, 2019  | Bursa, Turkey    |
+| [Google DevFest Sivas](/2019/talking-at-14-google-devfests-in-14-cities/)                                            | Serverless Boost for Your Next Startup                    | Dec 7, 2019  | Sivas, Turkey    |
+| [Google DevFest Mersin](/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Dec 6, 2019  | Mersin, Turkey   |
+| [Google DevFest Edirne](/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Serverless Boost for Your Next Startup                    | Dec 1, 2019  | Edirne, Turkey   |
+| [Google DevFest Denizli](/2019/talking-at-14-google-devfests-in-14-cities/)                                          | Implementing AI into your Apps without Learning AI        | Nov 30, 2019 | Denizli, Turkey  |
+| [Google DevFest Istanbul](/2019/talking-at-14-google-devfests-in-14-cities/)                                         | Implementing AI into your Apps without Learning AI        | Nov 24, 2019 | Istanbul, Turkey |
+| [Google DevFest Izmir](/media/2019/gdg-devfest-izmir-2019.jpg)                                                       | Implementing AI into your Apps without Learning AI        | Nov 23, 2019 | Izmir, Turkey    |
+| [ICT Summit Turkey 2019](/2019/using-ai-for-abnormal-behavior-detection-at-ict-summit-turkey-2019/)                  | Using AI for Abnormal Behavior Detection                  | Nov 22, 2019 | Istanbul, Turkey |
+| [Google DevFest Ankara](/2019/talking-at-14-google-devfests-in-14-cities/)                                           | Implementing AI into your Apps without Learning AI        | Nov 17, 2019 | Ankara, Turkey   |
+| [Cozumpark Tech Talks 2019](/2019/cozumpark-tech-talks-2019/)                                                        | Easy-Peasy AI with Azure Cognitive Services               | Nov 9, 2019  | Istanbul, Turkey |
+| [Cozumpark Career Day](/2019/cozumpark-career-day-talk-how-to-mother-yourself/)                                      | How to Mother Yourself                                    | Oct 31, 2019 | Istanbul, Turkey |
+| [ServerlessDays Istanbul 2019](/2019/serverlessdays-istanbul-2019/)                                                  | What comes after your first function in Serverless?       | Oct 10, 2019 | Istanbul, Turkey |
+| [.NET Conf 2019 Istanbul](/2019/talked-about-serverless-at-.net-conf-2019-istanbul/)                                 | Serverless application development : The Complete Picture | Sep 28, 2019 | Istanbul, Turkey |
+| [Global AI Night Istanbul](/2019/talking-ai-on-the-edge-at-global-ai-night-istanbul/)                                | AI on the Edge                                            | Sep 7, 2019  | Istanbul, Turkey |
+| [Visual Studio 2019 Community Launch Istanbul](/2019/visual-studio-2019-community-launch-istanbul/)                  | What's new in Azure?                                      | Apr 4, 2019  | Istanbul, Turkey |
+| [Arena and Cozumpark TechDays 2019](/2019/talking-ai-for-everyone-at-arena-and-cozumpark-techdays-2019-in-istanbul/) | AI for Everyone                                           | Apr 4, 2019  | Istanbul, Turkey |
+| [Cozumpark IoT on Azure](/2019/talking-about-iot-on-azure/)                                                          | What has Azure to offer to IoT Developers?                | Mar 27, 2019 | Online           |
+| [Microsoft Turkey IT Summit 2019](/2019/talking-ai-and-compute-at-microsoft-turkey-it-summit-2019/)                  | AI and Compute in Azure                                   | Mar 8, 2019  | Istanbul, Turkey |
+| [Karabuk IT Days](/2019/karabuk-university-ai-talk/)                                                                 | Easy-Peasy AI : Azure Cognitive Services                  | Mar 7, 2019  | Karabuk, Turkey  |
+| [Xamarin Turkey UG Anniverisary Conference](/2019/architecture-101-for-mobile-backend-developers-on-azure/)          | Architecture 101 for Mobile Backend Developers on Azure   | Mar 3, 2019  | Istanbul, Turkey |
+| [Teknolot Meetup](/2019/teknolot-february-2019-meetup/)                                                              | Serverless Single Page Apps on Azure                      | Feb 20, 2019 | Istanbul, Turkey |
 
 <br/>
 
 Still building up this list...
+
