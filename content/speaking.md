@@ -152,6 +152,23 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Xamarin Turkey UG Anniverisary Conference](/2019/architecture-101-for-mobile-backend-developers-on-azure/)          | Architecture 101 for Mobile Backend Developers on Azure   | Mar 3, 2019  | Istanbul, Turkey |
 | [Teknolot Meetup](/2019/teknolot-february-2019-meetup/)                                                              | Serverless Single Page Apps on Azure                      | Feb 20, 2019 | Istanbul, Turkey |
 
+## 2018
+
+| Name                                                                                         | Topic                                                                   | Date         | Place                   |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------|-------------------------|
+| [Microsoft Connect 2018](/2018/microsoft-connect-istanbul-2018/)                             | What’s new for Serverless from Microsoft Connect?                       | Dec 29, 2018 | Istanbul, Turkey        |
+| [Mediterranean IT Summit 2018](/2018/mediterranean-it-summit-2018/)                          | Applied AI                                                              | Dec 8, 2018  | Antalya, Turkey         |
+| [Azure DevOps Days Istanbul 2018](/2018/azure-devops-days-istanbul-2018/)                    | Implementing Pipeline-As-Code                                           | Dec 8, 2018  | Istanbul, Turkey        |
+| [GDG DevFest Kutahya](/2018/google-developer-group-devfest-kutahya-2018/)                    | Easy-Peasy AI : Azure Cognitive Services                                | Dec 3, 2018  | Kutahya, Turkey         |
+| [European Sharepoint Conference 2018](/media/2018/espc-2018.jpg)                             | CosmosDB: Jack Of All Trades, Master Of Many                            | Nov 3, 2018  | Copenhagen, Denmark     |
+| [Google DevFest Izmir 2018](/media/2018/gdg-devfest-izmir-2018.jpg)                          | Artificial Intelligence Boost for Mobile Apps: Azure Cognitive Services | Nov 3, 2018  | Izmir, Turkey           |
+| [Google DevFest Antalya 2018](/2018/google-developer-group-devfest-antalya-2018/)            | Easy-Peasy AI : Azure Cognitive Services                                | Oct 13, 2018 | Antalya, Turkey         |
+| [Xamarin Meetup Group](/2018/function-orchestration-meetup/)                                 | Function Orchestration in the World of Serverless                       | Sep 19, 2018 | Istanbul, Turkey        |
+| [Microsoft Future Summit](/2018/microsoft-future-summit/)                                    | Blockchain and AI                                                       | Nov 3, 2018  | Cape Town, South Africa |
+| [Serverless Meetup Istanbul](/2018/serverless-meetup-istanbul/)                              | Azure Functions: Run Serverless Workloads on Azure or On-Premises       | Nov 3, 2018  | Istanbul, Turkey        |
+| [Serverless Meetup Ankara](/2018/serverless-meetup-ankara/)                                  | Azure Functions: Run Serverless Workloads on Azure or On-Premises       | Feb 21, 2018 | Ankara, Turkey          |
+| [Yasar University Today’s Technologies 2018](/2018/serverless-and-azure-functions-in-izmir/) | Serverless and Azure Functions Intro                                    | Feb 18, 2018 | Izmir, Turkey           |
+
 <br/>
 
 Still building up this list...
