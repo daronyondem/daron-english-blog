@@ -169,6 +169,27 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Serverless Meetup Ankara](/2018/serverless-meetup-ankara/)                                  | Azure Functions: Run Serverless Workloads on Azure or On-Premises       | Feb 21, 2018 | Ankara, Turkey          |
 | [Yasar University Today’s Technologies 2018](/2018/serverless-and-azure-functions-in-izmir/) | Serverless and Azure Functions Intro                                    | Feb 18, 2018 | Izmir, Turkey           |
 
+## 2017
+
+| Name                                                                                                                                                                 | Topic                                       | Date         | Place             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------|-------------------|
+| [Balikesir University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-11-22.md)                                                             | Cloud 101                                   | Nov 21, 2017 | Balikesir, Turkey |
+| [Overtime with 4 RDs](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-06-21.md)                                                              | Serverless with Azure Functions             | May 20, 2017 | Istanbul, Turkey  |
+| [Global IoT DevFest by Intel](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-06-03.md)                                                      | The Role of Smart Digital Signage in Retail | May 3, 2017  | Online            |
+| [Fatih Sultan Mehmet University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-11-22.md)                                                   | Introduction to Azure                       | Apr 2, 2017  | Istanbul, Turkey  |
+| [11th National Computer Education and Instructional Technologies Student Congress](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-04-30.md) | Cloud 101                                   | Apr 29, 2017 | Istanbul, Turkey  |
+| [Celal Bayar University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-04-23.md)                                                           | Cloud and Moble Hackathon                   | Apr 22, 2017 | Manisa, Turkey    |
+| [Samsun 19 Mayıs University Career Days](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-04-22.md)                                           | Journeying Beyond Outcomes                  | Apr 21, 2017 | Samsun, Turkey    |
+| [Sabancı Vocational and Technical Anatolian High School](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-04-06.md)                           | Journeying Beyond Outcomes                  | Apr 5, 2017  | Istanbul, Turkey  |
+| [Microsoft Turkey Visual Studio Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-30.md)                                            | What's new in Docker and Visual Studio?     | Mar 29, 2017 | Istanbul, Turkey  |
+| [IEEE Turkey CSCON 2017](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-26.md)                                                           | Azure 101                                   | Mar 25, 2017 | Izmir, Turkey     |
+| [Istanbul Commerce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-25.md)                                                     | Cloud 101                                   | Mar 24, 2017 | Istanbul, Turkey  |
+| [Teknolot Conf 2017](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-20.md)                                                               | Serverless and Azure Functions              | Mar 19, 2017 | Istanbul, Turkey  |
+| [Karadeniz Technic University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-16.md)                                                     | Cloud 101                                   | Mar 15, 2017 | Trabzon, Turkey   |
+| [Arel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-08.md)                                                                  | Cloud 101                                   | Mar 7, 2017  | Istanbul, Turkey  |
+| [Kocaeli University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-03-07.md)                                                               | Journeying Beyond Outcomes                  | Mar 6, 2017  | Kocaeli, Turkey   |
+| [Yasar University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2017-02-19.md)                                                                 | Journeying Beyond Outcomes                  | Feb 18, 2017 | Istanbul, Turkey  |
+
 <br/>
 
 Still building up this list...
