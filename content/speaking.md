@@ -12,7 +12,7 @@ Here is where I'm planning to be next;
 | Name                                                     | Topic                       | Date         | Place            |
 |----------------------------------------------------------|-----------------------------|--------------|------------------|
 | Istanbul International Community School Career Fair      | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
-| Erciyes University IEEE Computer Society                 | Meet my AI Sidekick : GPT-4 | Mar 22, 2024 | Istanbul, Turkey |
+| Erciyes University IEEE Computer Society                 | Meet my AI Sidekick : GPT-4 | Mar 22, 2024 | Kayseri, Turkey  |
 | Uskudar University Tech Summit 2024                      | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
 | Sivas University National Informatics Festivals          | TBD                         | Apr 29, 2024 | Sivas, Turkey    |
 | Aksaray University                                       | TBA                         | May 2, 2024  | Aksaray, Turkey  |
