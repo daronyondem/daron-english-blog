@@ -1,5 +1,5 @@
 ---
-date: 2024-03-07
+date: 2024-03-10
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -11,8 +11,6 @@ Here is where I'm planning to be next;
 
 | Name                                                     | Topic                       | Date         | Place            |
 |----------------------------------------------------------|-----------------------------|--------------|------------------|
-| Erzurum Technical University                             | Meet my AI Sidekick : GPT-4 | Mar 8, 2024  | Erzurum, Turkey  |
-| BILMOK 2024                                              | Meet my AI Sidekick : GPT-4 | Mar 10, 2024 | Istanbul, Turkey |
 | Istanbul International Community School Career Fair      | The Magic Behind the Screen | Mar 13, 2024 | Istanbul, Turkey |
 | Erciyes University IEEE Computer Society                 | Meet my AI Sidekick : GPT-4 | Mar 22, 2024 | Istanbul, Turkey |
 | Uskudar University Tech Summit 2024                      | Meet my AI Sidekick : GPT-4 | Apr 27, 2024 | Istanbul, Turkey |
@@ -31,6 +29,8 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                          | Topic                                        | Date         | Place            |
 |-------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                         | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
+| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)            | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey  |
 | [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                       | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
 | [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg) | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
 | [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)            | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
