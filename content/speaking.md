@@ -42,7 +42,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [GDG DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                | Meet my AI Sidekick : GPT-4                                   | Dec 26, 2023 | Online            |
 | [GDG DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                    | Meet my AI Sidekick : GPT-4                                   | Dec 23, 2023 | Eskisehir, Turkey |
 | [GDG DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 16, 2023 | Konya, Turkey     |
-| [Getek'23](/media/2023/getek-2023.png)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
+| [Getek'23](/media/2023/getek-2023.jpg)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
 | [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick : GPT-4                                   | Dec 13, 2023 | Mus, Turkey       |
 | [GDG DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 9, 2023  | Bursa, Turkey     |
 | [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
