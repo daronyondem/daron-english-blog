@@ -64,7 +64,7 @@ const embeds = changes.map(change => ({
     text: change.place
   },
   title: change.name,
-  ...(change.url && { url })
+  ...(change.url && { url: change.url })
 }));
 
 if (embeds.length > 0) {
