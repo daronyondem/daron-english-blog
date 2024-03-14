@@ -1,5 +1,5 @@
 ---
-date: 2024-03-12
+date: 2024-03-14
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -9,19 +9,18 @@ It all started when they asked me If I would like to speak about what I wrote. S
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                           | Topic                                        | Date         | Place            |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| Istanbul International Community School Career Fair                                                            | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
+| Name                                                                                                         | Topic                                        | Date         | Place            |
+|--------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
 | [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21634/) | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
-| Erciyes University IEEE Computer Society                                                                       | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
+| Erciyes University IEEE Computer Society                                                                     | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
 | [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21636/) | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
-| Uskudar University Tech Summit 2024                                                                            | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
-| Sivas University National Informatics Festivals                                                                | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
-| Aksaray University                                                                                             | TBA                                          | May 2, 2024  | Aksaray, Turkey  |
-| Isparta University IZTECH                                                                                      | TBA                                          | May 3, 2024  | Isparta, Turkey  |
-| Trakya University Information and Innovation Summit 2024                                                       | TBA                                          | May 14, 2024 | Edirne, Turkey   |
-| Uskudar University Industry and Leadership Days 8                                                              | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                                                                                        | TBA                                          | May 28, 2024 | Ankara, Turkey   |
+| Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
+| Sivas University National Informatics Festivals                                                              | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
+| Aksaray University                                                                                           | TBA                                          | May 2, 2024  | Aksaray, Turkey  |
+| Isparta University IZTECH                                                                                    | TBA                                          | May 3, 2024  | Isparta, Turkey  |
+| Trakya University Information and Innovation Summit 2024                                                     | TBA                                          | May 14, 2024 | Edirne, Turkey   |
+| Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
+| Gazi University AI'2SEC                                                                                      | TBA                                          | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
 
@@ -29,13 +28,14 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2024
 
-| Name                                                                          | Topic                                        | Date         | Place            |
-|-------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                         | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
-| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)            | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey  |
-| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                       | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
-| [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg) | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
-| [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)            | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
+| Name                                                                                               | Topic                                        | Date         | Place            |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
+| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
+| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey  |
+| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                                            | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
+| [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg)                      | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
+| [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
 
 ## 2023
 
