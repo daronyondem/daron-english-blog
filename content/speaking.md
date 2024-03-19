@@ -326,6 +326,31 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [TechEd Middle East 2010](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-03-04.md)                                  | Multitouch Development                      | Mar 4, 2010  | Dubai, UAE            |
 | [Sutcu Imam University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-02-27.md)                                    | Intro to .NET Development                   | Feb 27, 2010 | Kahramanmaraş, Turkey |
 
+## 2009
+
+| Name                                                                                                                      | Topic                             | Date         | Place                   |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------|-------------------------|
+| [INETA NEXT Kayseri Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-21.md)         | Intro to Silverlight and WPF      | Dec 21, 2009 | Kayseri, Turkey         |
+| [INETA NEXT Istanbul Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-14.md)        | Intro to Silverlight and WPF      | Dec 14, 2009 | Istanbul, Turkey        |
+| [Balıkesir University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-12.md)                  | Intro to Silverlight and WPF      | Dec 12, 2009 | Balikesir, Turkey       |
+| [INETA NEXT Diyarbakır Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-08.md)      | Intro to Silverlight and WPF      | Dec 8, 2009  | Diyarbakır, Turkey      |
+| [Eastern Mediterranean University!](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-11-07.md)     | Multitouch Development            | Nov 7, 2009  | Famagusta, North Cyprus |
+| [Izmir Windows 7 Academic Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-10-28.md)       | Multitouch Development            | Oct 28, 2009 | Izmir, Turkey           |
+| [Microsoft Summer School Istanbul 2009](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-08-12.md) | Intro to Silverlight and WPF      | Aug 12, 2009 | Istanbul, Turkey        |
+| [Microsoft Summer School Ankara 2009](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-08-01.md)   | Intro to Silverlight and WPF      | Aug 1, 2009  | Ankara, Turkey          |
+| [7 hours with Windows 7](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-07-13.md)                | Multitouch Development            | Jul 13, 2009 | Istanbul, Turkey        |
+| [Mugla University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-04-28.md)                      | ASP.NET AJAX                      | Apr 28, 2009 | Mugla, Turkey           |
+| [Imagine Cup Turkey Final.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-04-18.md)             | WPF and MultiTouch                | Apr 18, 2009 | Istanbul, Turkey        |
+| [Akdeniz University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-04-14.md)                    | Intro to Silverlight and WPF      | Apr 14, 2009 | Antalya, Turkey         |
+| [NedirTV.com Event](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-14.md)                     | MultiPoint Development            | Mar 14, 2009 | Istanbul, Turkey        |
+| [INETA Eskişehir Hit Conference.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-10.md)       | Game Development with Silverlight | Mar 10, 2009 | Eskişehir, Turkey       |
+| [METU Game Development Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-02.md)      | Game Development with Silverlight | Mar 2, 2009  | Ankara, Turkey          |
+| [Erzurum Ataturk University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-02-28.md)            | Intro to Silverlight and WPF      | Feb 28, 2009 | Erzurum, Turkey         |
+| [NedirTV.com Event](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-02-23.md)                     | Intro to Silverlight and WPF      | Feb 23, 2009 | Ankara, Turkey          |
+| [Kocaeli University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-02-21.md)                    | Intro to Silverlight and WPF      | Feb 21, 2009 | Kocaeli, Turkey         |
+| [INETA Profession Hit Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-01-29.md)       | Intro to Silverlight              | Jan 29, 2009 | Istanbul, Turkey        |
+| [INETA Agean Hit Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-01-12.md)            | Intro to Silverlight and WPF      | Jan 12, 2009 | Izmir, Turkey           |
+| [Istanbul Commerce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-01-07.md)          | Intro to Silverlight and WPF      | Jan 7, 2009  | Istanbul, Turkey        |
 
 <br/>
 
