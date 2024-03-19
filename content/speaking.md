@@ -389,6 +389,18 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Uludag University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-25.md)                                          | ASP.NET 3.5 AJAX                              | Dec 25, 2008 | Bursa, Turkey              |
 | [Microsoft Student Partner Kick Off](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-28.md)                         | MultiPoint SDK Development                    | Dec 28, 2008 | Ankara, Turkey             |
 
+## 2007
+
+| Name                                                                                                                 | Topic                               | Date         | Place                      |
+|----------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------|----------------------------|
+| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-30.md) | Introduction to Expression Studio   | Dec 30, 2007 | Famagusta, Northern Cyprus |
+| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-29.md) | Introduction to Silverlight and WPF | Dec 29, 2007 | Famagusta, Northern Cyprus |
+| [Galatasaray University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-15.md)           | Introduction to Silverlight         | Dec 15, 2007 | Istanbul, Turkey           |
+| [Istanbul Technical University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-13.md)    | Introduction to Silverlight         | Dec 13, 2007 | Istanbul, Turkey           |
+| [Istanbul University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-12.md)              | Introduction to Silverlight         | Dec 12, 2007 | Istanbul, Turkey           |
+| [Istanbul Development Platform](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-07-31.md)    | ASP.NET AJAX                        | Jul 31, 2007 | Istanbul, Turkey           |
+
+
 <br/>
 
 Still building up this list...
