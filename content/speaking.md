@@ -311,6 +311,22 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Jordan Azure Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-31.md)                    | Azure App Development               | Jan 31, 2011 | Amman, Jordan        |
 | [Microsoft WebCamps Ankara](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-12.md)            | Rich Internet Apps with Silverlight | Jan 12, 2011 | Ankara, Turkey       |
 
+## 2010
+
+| Name                                                                                                                                         | Topic                                       | Date         | Place                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------|-----------------------|
+| [Microsoft Open Door Beirut 2010](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-10-08.md)                          | Silverlight and Windows Phone 7             | Oct 8, 2010  | Beirut, Lebanon       |
+| [Microsoft Jordan Innovation Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-05-20.md)                         | WPF and Multitouch                          | May 20, 2010 | Amman, Jordan         |
+| [Izmir Visual Studio 2010 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-05-08.md)                          | What's new in .NET 4?                       | May 8, 2010  | İzmir, Turkey         |
+| [Suleyman Demirel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-28.md)                              | Silverlight 4 and Windows Phone Development | Apr 28, 2010 | Isparta, Turkey       |
+| [Ankara University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-21.md)                                        | Rich Internet Apps with Silverlight 4       | Apr 21, 2010 | Ankara, Turkey        |
+| [Karadeniz Technical University Visual Studio 2010 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-19.md) | What's new in .NET 4?                       | Apr 19, 2010 | Trabzon, Turkey       |
+| [Akdeniz University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-07.md)                                       | Intro to Silverlight and WPF                | Apr 7, 2010  | Antalya, Turkey       |
+| [MSDays 2010 Sofia](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-01.md)                                        | Multitouch Development                      | Apr 1, 2010  | Sofia, Bulgaria       |
+| [TechEd Middle East 2010](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-03-04.md)                                  | Multitouch Development                      | Mar 4, 2010  | Dubai, UAE            |
+| [Sutcu Imam University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-02-27.md)                                    | Intro to .NET Development                   | Feb 27, 2010 | Kahramanmaraş, Turkey |
+
+
 <br/>
 
 Still building up this list...
