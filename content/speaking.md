@@ -352,6 +352,43 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [INETA Agean Hit Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-01-12.md)            | Intro to Silverlight and WPF      | Jan 12, 2009 | Izmir, Turkey           |
 | [Istanbul Commerce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-01-07.md)          | Intro to Silverlight and WPF      | Jan 7, 2009  | Istanbul, Turkey        |
 
+## 2008
+
+| Name                                                                                                                                           | Topic                                         | Date         | Place                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------|----------------------------|
+| [CETURK Microsoft Vision Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-01-13.md)                         | Intro to Silverlight and WPF                  | Jan 13, 2008 | Istanbul, Turkey           |
+| [Young Entrepreneurs Club](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-01-20.md)                                   | Intro to Silverlight and WPF                  | Jan 20, 2008 | Istanbul, Turkey           |
+| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-03-09.md)                           | What's new in Visual Studio 2008 and .NET 3.5 | Mar 9, 2008  | Famagusta, Northern Cyprus |
+| [Malatya Inonu University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-03-20.md)                                   | Intro to Silverlight and WPF                  | Mar 20, 2008 | Malatya, Turkey            |
+| [Suleyman Demirel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-03-26.md)                                | Intro to Silverlight and WPF                  | Mar 26, 2008 | Isparta, Turkey            |
+| [Yeditepe University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-04-04.md)                                        | Intro to Silverlight and WPF                  | Apr 4, 2008  | Istanbul, Turkey           |
+| [International Cyprus University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-04-10.md)                            | Intro to Silverlight and WPF                  | Apr 10, 2008 | Nicosia, Northern Cyprus   |
+| [Gazi University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-04-16.md)                                            | Intro to Silverlight and WPF                  | Apr 16, 2008 | Ankara, Turkey             |
+| [Canakkale 18 March University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-05-12.md)                              | Intro to Silverlight and WPF                  | May 12, 2008 | Canakkale, Turkey          |
+| [Selcuk University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-05-14.md)                                          | Intro to Silverlight and WPF                  | May 14, 2008 | Konya, Turkey              |
+| [Edirne M.P. Anatolian Trade Vocational High School](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-06-04.md)         | Intro to Silverlight and WPF                  | Jun 4, 2008  | Edirne, Turkey             |
+| [Afyon Kocatepe University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-06-21.md)                                  | Intro to Silverlight and WPF                  | Jun 21, 2008 | Afyon, Turkey              |
+| [Microsoft Dubai Silverlight 2.0 Training](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-06-27.md)                   | Silverlight 2.0                               | Jun 27, 2008 | Dubai, UAE                 |
+| [RIA Talks](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-06-28.md)                                                  | Intro to Silverlight and WPF                  | Jun 28, 2008 | Istanbul, Turkey           |
+| [Habitat Turkey](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-07-03.md)                                             | Introduction to Expression Web                | Jul 3, 2008  | Istanbul, Turkey           |
+| [Microsoft Summer School Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-08-06.md)                           | Intro to Silverlight 2.0                      | Aug 6, 2008  | Istanbul, Turkey           |
+| [Microsoft Summer School Ankara](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-08-14.md)                             | Intro to Silverlight 2.0                      | Aug 14, 2008 | Ankara, Turkey             |
+| [Microsoft Summer School Izmir](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-08-20.md)                              | Intro to Silverlight 2.0                      | Aug 20, 2008 | Izmir, Turkey              |
+| [INETA CETURK Conference.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-09-21.md)                                   | Introduction to WPF                           | Sep 21, 2008 | Istanbul, Turkey           |
+| [INETA Capital Hit Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-10-21.md)                               | Intro to WPF                                  | Oct 21, 2008 | Ankara, Turkey             |
+| [Afyon Kocatepe University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-09.md)                                  | Intro to Silverlight and WPF                  | Nov 9, 2008  | Afyon, Turkey              |
+| [Uludag University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-14.md)                                          | Intro to Silverlight and WPF                  | Nov 14, 2008 | Bursa, Turkey              |
+| [Microsoft Game Tour](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-15.md)                                        | Game Development with Silverlight 2.0         | Nov 15, 2008 | Istanbul, Turkey           |
+| [Yildiz Technical University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-26.md)                                | Intro to Silverlight and WPF                  | Nov 26, 2008 | Istanbul, Turkey           |
+| [Karadeniz Technical University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-28.md)                             | Intro to Silverlight and WPF                  | Nov 28, 2008 | Trabzon, Turkey            |
+| [Suleyman Demirel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-11-30.md)                                | Game Development with Silveright 2.0          | Nov 30, 2008 | Isparta, Turkey            |
+| [INETA Isparta Boot Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-02.md)                                    | Building Data Apps with Silverlight 2.0       | Dec 2, 2008  | Isparta, Turkey            |
+| [Microsoft Turkey Software Developers Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-04.md)                | Intro to Silverlight 2.0                      | Dec 4, 2008  | Istanbul, Turkey           |
+| [Abdurrahman-Nermin Bilimli Anatolian Technical High School](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-17.md) | Intro to Silverlight and WPF                  | Dec 17, 2008 | Istanbul, Turkey           |
+| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-24.md)                           | Game Development with Silveright 2.0          | Dec 24, 2008 | Famagusta, Northern Cyprus |
+| [Uludag University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-25.md)                                          | ASP.NET 3.5 AJAX                              | Dec 25, 2008 | Bursa, Turkey              |
+| [Microsoft Student Partner Kick Off](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-28.md)                         | MultiPoint SDK Development                    | Dec 28, 2008 | Ankara, Turkey             |
+
 <br/>
 
 Still building up this list...
