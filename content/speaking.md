@@ -399,9 +399,3 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Istanbul Technical University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-13.md)    | Introduction to Silverlight         | Dec 13, 2007 | Istanbul, Turkey           |
 | [Istanbul University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-12-12.md)              | Introduction to Silverlight         | Dec 12, 2007 | Istanbul, Turkey           |
 | [Istanbul Development Platform](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2007-07-31.md)    | ASP.NET AJAX                        | Jul 31, 2007 | Istanbul, Turkey           |
-
-
-<br/>
-
-Still building up this list...
-
