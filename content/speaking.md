@@ -265,6 +265,17 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Selcuk University Entrepreneurship and Economy Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-05-09.md) | Journeying Beyond Outcomes | May 9, 2014  | Konya, Turkey     |
 | [Microsoft MEA MVP Open Day 2014](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-03-23.md)                       | Personal Branding          | Mar 23, 2014 | Istanbul, Turkey  |
 
+## 2013
+
+| Name                                                                                                                                   | Topic                 | Date         | Place            |
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------|------------------|
+| [Microsoft Summer School 2013](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-09-07.md)                       | Azure 101             | Sep 7, 2013  | Istanbul, Turkey |
+| [Android Developer Days](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-06-15.md)                             | Azure Mobile Services | Jun 15, 2013 | Ankara, Turkey   |
+| [WP Community Day](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-06-12.md)                                   | Azure Mobile Services | Jun 12, 2013 | Istanbul, Turkey |
+| [Sakarya University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-05-01.md)                                 | Azure Mobile Services | May 1, 2013  | Sakarya, Turkey  |
+| [Microsoft Azure Bootcamp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-04-28.md)                  | Azure Mobile Services | Apr 28, 2013 | Istanbul, Turkey |
+| [Mobilist Mobile Application Development Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-04-22.md) | Azure Mobile Services | Apr 22, 2013 | Istanbul, Turkey |
+
 <br/>
 
 Still building up this list...
