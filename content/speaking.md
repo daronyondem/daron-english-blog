@@ -221,6 +221,39 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Nişantaşı University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-15.md)                                | Azure 101                                 | Jan 14, 2016 | Istanbul, Turkey  |
 | [Middle East Technical University (ODTÜ)](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-07.md)             | Big Data and IoT                          | Jan 6, 2016  | Ankara, Turkey    |
 
+## 2015
+
+| Name                                                                                                                                | Topic                      | Date         | Place             |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------|-------------------|
+| [Karadeniz Technical University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-12-20.md)                  | Journeying Beyond Outcomes | Dec 20, 2015 | Trabzon, Turkey   |
+| [Ege University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-12-17.md)                                  | Web Services               | Dec 17, 2015 | Izmir, Turkey     |
+| [Boğaziçi University ITTalks](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-12-16.md)                     | Good Code, Bad Code        | Dec 16, 2015 | Istanbul, Turkey  |
+| [Hour of Code](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-12-11.md)                                    | Hour Of Code Event         | Dec 11, 2015 | Istanbul, Turkey  |
+| [Adana Software and Technology Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-12-03.md)            | Cloud 101                  | Dec 3, 2015  | Adana, Turkey     |
+| [Themed Talks at MakerLab](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-11-28.md)                        | The Maker Movement         | Nov 28, 2015 | Istanbul, Turkey  |
+| [Garanti Hackathon Sonrası](/media/2015/2015-garanti-hackathon-juri-2.png)                                                          | Hackathon Juri             | Nov 23, 2015 | Istanbul, Turkey  |
+| [Career in Informatics](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-11-18.md)                           | Career Panel               | Nov 18, 2015 | Konya, Turkey     |
+| [Bogazici University COMPEC Garage Hackathon](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-11-16.md)     | Hackathon  Jury            | Nov 16, 2015 | Istanbul, Turkey  |
+| [Azure Data Camp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-10-28.md)                        | Azure Data Services        | Oct 28, 2015 | Istanbul, Turkey  |
+| [Mediterranean Informatics Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-10-16.md)                | Cloud 101                  | Oct 16, 2015 | Antalya, Turkey   |
+| [Kultur University ESC Day](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-10-13.md)                       | Cloud 101                  | Oct 13, 2015 | Istanbul, Turkey  |
+| [Microsoft Open Academy Summer School 2015](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-08-17.md)       | Azure 101                  | Aug 17, 2015 | Istanbul, Turkey  |
+| [NGO Day Azure Sunumum](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-06-06.md)                           | Azure for NGOs             | Jun 6, 2015  | Istanbul, Turkey  |
+| [Izmir Dokuz Eylul University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-05-08.md)                    | Cloud 101                  | May 8, 2015  | Izmir, Turkey     |
+| [Duzce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-05-06.md)                                | Journeying Beyond Outcomes | May 6, 2015  | Düzce, Turkey     |
+| [Hasan Kalyoncu University KITTECH](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-25.md)               | Cloud 101                  | Apr 25, 2015 | Gaziantep, Turkey |
+| [Trakya University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-21.md)                               | Cloud 101                  | Apr 21, 2015 | Edirne, Turkey    |
+| [Halic University IT Days](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-16.md)                        | Journeying Beyond Outcomes | Apr 16, 2015 | Istanbul, Turkey  |
+| [EXIT 15 Hackathon](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-14.md)                               | Final Jury                 | Apr 14, 2015 | Istanbul, Turkey  |
+| [Elazig Firat University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-02.md)                         | Cloud 101                  | Apr 2, 2015  | Elazig, Turkey    |
+| [Canakkale 18 Mart University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-03-30.md)                    | Cloud 101                  | Mar 30, 2015 | Canakkale, Turkey |
+| [Yildiz Technical University ILTEK 10th.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-03-25.md)         | Cloud 101                  | Mar 25, 2015 | Istanbul, Turkey  |
+| [Sivas University IT for Management Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-03-21.md)   | Journeying Beyond Outcomes | Mar 21, 2015 | Sivas, Turkey     |
+| [Kultur University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-03-12.md)                               | Cloud 101                  | Mar 12, 2015 | Istanbul, Turkey  |
+| [Istanbul Azure Meetup](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-03-07.md)                           | Intro to NoSQL on Azure    | Mar 7, 2015  | Istanbul, Turkey  |
+| [Microsoft Student Partner Programı 2015 KickOff](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-02-24.md) | Keynote                    | Feb 24, 2015 | Istanbul, Turkey  |
+| [Istanbul Azure Meetup](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-01-05.md)                           | Intro to Azure and Docker  | Jan 5, 2015  | Istanbul, Turkey  |
+
 <br/>
 
 Still building up this list...
