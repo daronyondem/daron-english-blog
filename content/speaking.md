@@ -296,20 +296,20 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2011
 
-| Name                                                                                                                     | Topic                               | Date         | Place                |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------|----------------------|
-| [Microsoft WebCamp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-19.md)           | Azure 101                           | Dec 19, 2011 | Istanbul, Turkey     |
-| [INETA Izmir Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-13.md)               | Azure 101                           | Dec 13, 2011 | Izmir, Turkey        |
-| [Microsoft Student Partner Azure Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-09.md) | Azure 101                           | Dec 9, 2011  | Istanbul, Turkey     |
-| [Cyprus Windows Azure BootCamp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-04.md)        | Azure App Development               | Dec 4, 2011  | Famagusta, Cyprus    |
-| [Erciyes University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-28.md)                   | WP7 and Azure                       | Oct 28, 2011 | Kayseri, Turkey      |
-| [TechEd Africa 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-20.md)                   | Silverlight and RIA Services        | Oct 20, 2011 | Durban, South Africa |
-| [Mobile Startup Week-End](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-24.md)              | Windows Phone 7 Development         | Apr 24, 2011 | Irbid, Jordan        |
-| [MSDays 2011 Sofia](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-04.md)                    | Windows Phone 7 Development         | Apr 4, 2011  | Sofia, Bulgaria      |
-| [Microsoft IT Summit Turkey 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-03-11.md)      | Rich Internet Apps with Silverlight | Mar 11, 2011 | Istanbul, Turkey     |
-| [Microsoft WebCamps Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-02-02.md)          | Azure 101                           | Feb 2, 2011  | Istanbul, Turkey     |
-| [Jordan Azure Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-31.md)                    | Azure App Development               | Jan 31, 2011 | Amman, Jordan        |
-| [Microsoft WebCamps Ankara](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-12.md)            | Rich Internet Apps with Silverlight | Jan 12, 2011 | Ankara, Turkey       |
+| Name                                                                                                                     | Topic                               | Date         | Place                   |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------|-------------------------|
+| [Microsoft WebCamp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-19.md)           | Azure 101                           | Dec 19, 2011 | Istanbul, Turkey        |
+| [INETA Izmir Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-13.md)               | Azure 101                           | Dec 13, 2011 | Izmir, Turkey           |
+| [Microsoft Student Partner Azure Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-09.md) | Azure 101                           | Dec 9, 2011  | Istanbul, Turkey        |
+| [Cyprus Windows Azure BootCamp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-04.md)        | Azure App Development               | Dec 4, 2011  | Famagusta, North Cyprus |
+| [Erciyes University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-28.md)                   | WP7 and Azure                       | Oct 28, 2011 | Kayseri, Turkey         |
+| [TechEd Africa 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-20.md)                   | Silverlight and RIA Services        | Oct 20, 2011 | Durban, South Africa    |
+| [Mobile Startup Week-End](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-24.md)              | Windows Phone 7 Development         | Apr 24, 2011 | Irbid, Jordan           |
+| [MSDays 2011 Sofia](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-04.md)                    | Windows Phone 7 Development         | Apr 4, 2011  | Sofia, Bulgaria         |
+| [Microsoft IT Summit Turkey 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-03-11.md)      | Rich Internet Apps with Silverlight | Mar 11, 2011 | Istanbul, Turkey        |
+| [Microsoft WebCamps Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-02-02.md)          | Azure 101                           | Feb 2, 2011  | Istanbul, Turkey        |
+| [Jordan Azure Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-31.md)                    | Azure App Development               | Jan 31, 2011 | Amman, Jordan           |
+| [Microsoft WebCamps Ankara](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-01-12.md)            | Rich Internet Apps with Silverlight | Jan 12, 2011 | Ankara, Turkey          |
 
 ## 2010
 
