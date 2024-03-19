@@ -276,6 +276,24 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Microsoft Azure Bootcamp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-04-28.md)                  | Azure Mobile Services | Apr 28, 2013 | Istanbul, Turkey |
 | [Mobilist Mobile Application Development Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2013-04-22.md) | Azure Mobile Services | Apr 22, 2013 | Istanbul, Turkey |
 
+## 2012
+
+| Name                                                                                                                        | Topic                                          | Date         | Place               |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------|---------------------|
+| [Turkey Nokia Lumia Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-11-22.md)               | Getting Started with Windows Phone Development | Nov 22, 2012 | Istanbul, Turkey    |
+| [MEA Windows Phone Camp in Istanbul!](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-05-21.md)     | Introduction to Windows Phone 7.5              | May 21, 2012 | Istanbul, Turkey    |
+| [Azure Day for Microsoft Partners](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-04-08.md)        | Azure 101                                      | Apr 8, 2012  | Istanbul, Turkey    |
+| [Microsoft OpenDoor Bahrain](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-03-31.md)              | Azure 101                                      | Mar 31, 2012 | Manama, Bahrain     |
+| [INETA Kayseri Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-03-19.md)                | Azure 101                                      | Mar 19, 2012 | Kayseri, Turkey     |
+| [Qatar QITCOM Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-03-08.md)                 | Surface and Kinect Development                 | Mar 8, 2012  | Doha, Qatar         |
+| [INETA Istanbul 2012 Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-02-20.md)          | Azure Migration Pathways                       | Feb 20, 2012 | Istanbul, Turkey    |
+| [Microsoft OpenDoor Kuwait](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-02-17.md)               | Azure 101                                      | Feb 17, 2012 | Kuwait City, Kuwait |
+| [Microsoft Student Partner Kick-Off 2012](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-02-13.md) | Azure Migration Pathways                       | Feb 13, 2012 | Istanbul, Turkey    |
+| [Microsoft OpenDoor Qatar 2012](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-02-12.md)           | Windows Phone 7.5 Development                  | Feb 12, 2012 | Doha, Qatar         |
+| [INETA Ankara Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-02-06.md)                 | Azure 101                                      | Feb 6, 2012  | Ankara, Turkey      |
+| [Microsoft Ankara WebCamp 2012](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-01-27.md)           | Azure Migration Pathways                       | Jan 27, 2012 | Ankara, Turkey      |
+| [Yalova University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2012-01-04.md)                       | What's new in HTML5?                           | Jan 4, 2012  | Yalova, Turkey      |
+
 <br/>
 
 Still building up this list...
