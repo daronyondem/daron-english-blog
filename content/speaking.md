@@ -254,6 +254,17 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Microsoft Student Partner Programı 2015 KickOff](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-02-24.md) | Keynote                    | Feb 24, 2015 | Istanbul, Turkey  |
 | [Istanbul Azure Meetup](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-01-05.md)                           | Intro to Azure and Docker  | Jan 5, 2015  | Istanbul, Turkey  |
 
+## 2014
+
+| Name                                                                                                                                      | Topic                      | Date         | Place             |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------|-------------------|
+| [Microsoft Turkey Cloud DevCamp Istanbul](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-12-17.md)               | Azure Compute Services     | Dec 17, 2014 | Istanbul, Turkey  |
+| [Eskisehir Osmangazi University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-12-15.md)                        | Azure 101                  | Dec 15, 2014 | Eskisehir, Turkey |
+| [Konya Karatay University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-12-12.md)                              | Journeying Beyond Outcomes | Dec 12, 2014 | Konya, Turkey     |
+| [IEEE 2014 Annual Meeting at Kültür University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-10-19.md)         | CLoud 101                  | Oct 19, 2014 | Istanbul, Turkey  |
+| [Selcuk University Entrepreneurship and Economy Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-05-09.md) | Journeying Beyond Outcomes | May 9, 2014  | Konya, Turkey     |
+| [Microsoft MEA MVP Open Day 2014](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2014-03-23.md)                       | Personal Branding          | Mar 23, 2014 | Istanbul, Turkey  |
+
 <br/>
 
 Still building up this list...
