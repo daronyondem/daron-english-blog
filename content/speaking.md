@@ -5,7 +5,71 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all started when they asked me If I would like to speak about what I wrote. Since then, I love speaking, and I was lucky enough to be invited to more than 20 countries to speak at numerous conferences, meetups, events. I spoke about personal branding, social media strategy, productivity, career planning, and .NET, user experience, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **284 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+
+<!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
+<!-- 
+Afyon Kocatepe University
+Akdeniz University
+Aksaray University
+Ankara University
+Arel University
+Balikesir University
+Bandirma Onyedi Eylul University
+Bartin University
+Beykent University
+Bogazici University
+Canakkale Onsekiz Mart University
+Celal Bayar University
+Cukurova University
+Duzce University
+Eastern Mediterranean University
+Ege University
+Erciyes University
+Erzurum Ataturk University
+Erzurum Technical University
+Fatih Sultan Mehmet University
+Firat University
+Galatasaray University
+Gazi University
+Haceteppe University
+Halic University
+Hasan Kalyoncu University
+Isik University
+Isparta Suleyman Demirel University
+Istanbul Aydin University
+Istanbul Commerce University
+Istanbul Sehir University
+Istanbul Technical University
+Istanbul University
+Izmir Dokuz Eylul University
+Izmir Institue of Technology (IYTE)
+Karabuk University
+Karadeniz Technical University
+Kocaeli University
+Konya Karatay University
+Konya Selcuk University
+Kultur University
+Malatya Inonu University
+Marmara University
+Middle East Technical University (ODTU)
+Mugla University
+Mus Alparslan University
+Nisantasi University
+Osmangazi University
+Sakarya University
+Samsun 19 Mayis University
+Sivas University
+Sutcu Imam University
+Toros University
+Trakya University
+Uludag University
+Uskudar University
+Yalova University
+Yasar University
+Yeditepe University
+Yildiz Technical University
+-->
 
 Here is where I'm planning to be next;
 
