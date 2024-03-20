@@ -1,11 +1,11 @@
 ---
-date: 2024-03-19
+date: 2024-03-20
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **284 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **285 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -75,7 +75,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                         | Topic                                        | Date         | Place            |
 |--------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21634/) | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
 | Erciyes University IEEE Computer Society                                                                     | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
 | [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21636/) | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
 | Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
@@ -94,6 +93,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                               | Topic                                        | Date         | Place            |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| [Microsoft Reactor-Spotlight on App Innovation](https://youtu.be/Auxl3Dx9mbs)                      | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
 | [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
 | [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
 | [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey  |
