@@ -1,11 +1,11 @@
 ---
-date: 2024-03-20
+date: 2024-03-25
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **285 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **287 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -75,7 +75,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                         | Topic                                        | Date         | Place            |
 |--------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| Erciyes University IEEE Computer Society                                                                     | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
 | [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21636/) | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
 | Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
 | Sivas University National Informatics Festivals                                                              | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
@@ -93,6 +92,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                               | Topic                                        | Date         | Place            |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| [Erciyes University IEEE Computer Society](/media/2024/2024-03-22-Erciyes-Uni.jpg)                 | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
 | [Microsoft Reactor-Spotlight on App Innovation](https://youtu.be/Auxl3Dx9mbs)                      | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
 | [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
 | [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
@@ -153,6 +153,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Azure Community Conference 2021](https://www.youtube.com/watch?v=uZYQhDyKLsc&t=9s) | The ML Hero's Secret Weapon: AutoML                                   | Oct 30, 2021 | Online         |
 | [Microsoft Rapid Innovation Hackfest](/media/2021/rapid-innovation-hackfest.jpg)    | Enable AI-powered cloud search to Existing Websites                   | Oct 6, 2021  | Online         |
 | [Data Platform Virtual Summit 2021](/media/2021/dps-2021.jpg)                       | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online         |
+
 | [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                   | AI-Infused Search                                                     | Jun 17, 2021 | Online         |
 | [ESPC21](/media/2021/espc21.jpg)                                                    | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online         |
 | [CloudTalk MatchMaking Summit 2021](/media/2021/cloudtalk.jpg)                      | Intro to ML Ops in Azure                                              | May 26, 2021 | Online         |
@@ -368,6 +369,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Cyprus Windows Azure BootCamp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-12-04.md)        | Azure App Development               | Dec 4, 2011  | Famagusta, North Cyprus |
 | [Erciyes University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-28.md)                   | WP7 and Azure                       | Oct 28, 2011 | Kayseri, Turkey         |
 | [TechEd Africa 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-10-20.md)                   | Silverlight and RIA Services        | Oct 20, 2011 | Durban, South Africa    |
+| [Microsoft Summer School 2011](/media/2011/2011-07-18-Izmir-Summer-School.jpg)                                           | Wpf and Azure                       | Jul 18, 2013 | Izmir, Turkey           |
 | [Mobile Startup Week-End](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-24.md)              | Windows Phone 7 Development         | Apr 24, 2011 | Irbid, Jordan           |
 | [MSDays 2011 Sofia](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-04-04.md)                    | Windows Phone 7 Development         | Apr 4, 2011  | Sofia, Bulgaria         |
 | [Microsoft IT Summit Turkey 2011](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2011-03-11.md)      | Rich Internet Apps with Silverlight | Mar 11, 2011 | Istanbul, Turkey        |
