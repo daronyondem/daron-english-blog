@@ -73,16 +73,19 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                         | Topic                                        | Date         | Place            |
-|--------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21636/) | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
-| Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
-| Sivas University National Informatics Festivals                                                              | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
-| Isparta University IZTECH                                                                                    | TBA                                          | May 3, 2024  | Isparta, Turkey  |
-| Aksaray University                                                                                           | Meet my AI Sidekick : GPT-4                  | May 9, 2024  | Aksaray, Turkey  |
-| Trakya University Information and Innovation Summit 2024                                                     | TBA                                          | May 14, 2024 | Edirne, Turkey   |
-| Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                                                                                      | TBA                                          | May 28, 2024 | Ankara, Turkey   |
+| Name                                                                                                         | Topic                                      | Date         | Place            |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------|------------------|
+| [Microsoft Reactor-Spotlight on App Innovation](https://developer.microsoft.com/en-us/reactor/events/21636/) | Building Intelligent Apps with AI and LLMs | Apr 3, 2024  | Online           |
+| Mugla University Internet Week 2024                                                                          | Meet my AI Sidekick : GPT-4                | Apr 21, 2024 | Mugla, Turkey    |
+| Middle East Techical University                                                                              | Meet my AI Sidekick : GPT-4                | Apr 25, 2024 | Ankara, Turkey   |
+| Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                | Apr 27, 2024 | Istanbul, Turkey |
+| Ege University 3rd Interdisciplinary Artificial Intelligence Congress                                        | Meet my AI Sidekick : GPT-4                | Apr 28, 2024 | Izmir, Turkey    |
+| Sivas University National Informatics Festivals                                                              | TBD                                        | Apr 29, 2024 | Sivas, Turkey    |
+| Isparta University IZTECH                                                                                    | TBA                                        | May 3, 2024  | Isparta, Turkey  |
+| Aksaray University                                                                                           | Meet my AI Sidekick : GPT-4                | May 9, 2024  | Aksaray, Turkey  |
+| Trakya University Information and Innovation Summit 2024                                                     | TBA                                        | May 14, 2024 | Edirne, Turkey   |
+| Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                 | May 22, 2024 | Istanbul, Turkey |
+| Gazi University AI'2SEC                                                                                      | TBA                                        | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
 
