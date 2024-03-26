@@ -156,7 +156,6 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Azure Community Conference 2021](https://www.youtube.com/watch?v=uZYQhDyKLsc&t=9s) | The ML Hero's Secret Weapon: AutoML                                   | Oct 30, 2021 | Online         |
 | [Microsoft Rapid Innovation Hackfest](/media/2021/rapid-innovation-hackfest.jpg)    | Enable AI-powered cloud search to Existing Websites                   | Oct 6, 2021  | Online         |
 | [Data Platform Virtual Summit 2021](/media/2021/dps-2021.jpg)                       | The ML Hero's Secret Weapon: AutoML                                   | Sep 13, 2021 | Online         |
-
 | [Global AI On Tour](https://youtu.be/K4pu6Spm73s)                                   | AI-Infused Search                                                     | Jun 17, 2021 | Online         |
 | [ESPC21](/media/2021/espc21.jpg)                                                    | No-Code Conversational AI and Bots                                    | Jun 2, 2021  | Online         |
 | [CloudTalk MatchMaking Summit 2021](/media/2021/cloudtalk.jpg)                      | Intro to ML Ops in Azure                                              | May 26, 2021 | Online         |
