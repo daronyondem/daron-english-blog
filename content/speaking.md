@@ -83,7 +83,7 @@ Here is where I'm planning to be next;
 | Sivas University National Informatics Festivals                                                              | TBD                                        | Apr 29, 2024 | Sivas, Turkey    |
 | Isparta University IZTECH                                                                                    | TBA                                        | May 3, 2024  | Isparta, Turkey  |
 | Aksaray University                                                                                           | Meet my AI Sidekick : GPT-4                | May 9, 2024  | Aksaray, Turkey  |
-| Trakya University Information and Innovation Summit 2024                                                     | TBA                                        | May 14, 2024 | Edirne, Turkey   |
+| Trakya University Information and Innovation Summit 2024                                                     | TBA                                        | May 15, 2024 | Edirne, Turkey   |
 | Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                 | May 22, 2024 | Istanbul, Turkey |
 | Gazi University AI'2SEC                                                                                      | TBA                                        | May 28, 2024 | Ankara, Turkey   |
 
