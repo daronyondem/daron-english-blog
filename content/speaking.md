@@ -1,5 +1,5 @@
 ---
-date: 2024-04-02
+date: 2024-04-03
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -82,7 +82,7 @@ Here is where I'm planning to be next;
 | Ege University 3rd Interdisciplinary Artificial Intelligence Congress                                        | Meet my AI Sidekick : GPT-4                  | Apr 28, 2024 | Izmir, Turkey    |
 | Sivas University National Informatics Festivals                                                              | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
 | Isparta University IZTECH                                                                                    | TBA                                          | May 3, 2024  | Isparta, Turkey  |
-| Microsoft Build AI Conference Turkey                                                                         | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
+| [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804)                   | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
 | Aksaray University                                                                                           | Meet my AI Sidekick : GPT-4                  | May 9, 2024  | Aksaray, Turkey  |
 | Trakya University Information and Innovation Summit 2024                                                     | Meet my AI Sidekick : GPT-4                  | May 15, 2024 | Edirne, Turkey   |
 | Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
