@@ -86,7 +86,7 @@ Here is where I'm planning to be next;
 | Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey  |
 | Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey   |
 | Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                                                                    | TBA                                          | May 28, 2024 | Ankara, Turkey   |
+| Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
 
