@@ -73,19 +73,19 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                         | Topic                                        | Date         | Place            |
-|--------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| Mugla University Internet Week 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 21, 2024 | Mugla, Turkey    |
-| Middle East Techical University                                                                              | Meet my AI Sidekick : GPT-4                  | Apr 25, 2024 | Ankara, Turkey   |
-| Uskudar University Tech Summit 2024                                                                          | Meet my AI Sidekick : GPT-4                  | Apr 27, 2024 | Istanbul, Turkey |
-| Ege University 3rd Interdisciplinary Artificial Intelligence Congress                                        | Meet my AI Sidekick : GPT-4                  | Apr 28, 2024 | Izmir, Turkey    |
-| Sivas University National Informatics Festivals                                                              | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
-| Isparta University IZTECH                                                                                    | TBA                                          | May 3, 2024  | Isparta, Turkey  |
-| [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804)                   | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
-| Aksaray University                                                                                           | Meet my AI Sidekick : GPT-4                  | May 9, 2024  | Aksaray, Turkey  |
-| Trakya University Information and Innovation Summit 2024                                                     | Meet my AI Sidekick : GPT-4                  | May 15, 2024 | Edirne, Turkey   |
-| Uskudar University Industry and Leadership Days 8                                                            | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                                                                                      | TBA                                          | May 28, 2024 | Ankara, Turkey   |
+| Name                                                                                       | Topic                                        | Date         | Place            |
+|--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
+| Mugla University Internet Week 2024                                                        | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey    |
+| Middle East Techical University                                                            | Meet my AI Sidekick                          | Apr 25, 2024 | Ankara, Turkey   |
+| Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey |
+| Ege University 3rd Interdisciplinary Artificial Intelligence Congress                      | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey    |
+| Sivas University National Informatics Festivals                                            | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
+| Isparta University IZTECH                                                                  | TBA                                          | May 3, 2024  | Isparta, Turkey  |
+| [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
+| Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey  |
+| Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey   |
+| Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
+| Gazi University AI'2SEC                                                                    | TBA                                          | May 28, 2024 | Ankara, Turkey   |
 
 <br/>
 
@@ -96,12 +96,12 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | Name                                                                                               | Topic                                        | Date         | Place            |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
 | [Microsoft Reactor-Spotlight on App Innovation](/media/2024-04-03_19-18-51.jpg)                    | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
-| [Erciyes University IEEE Computer Society](/media/2024/2024-03-22-Erciyes-Uni.jpg)                 | Meet my AI Sidekick : GPT-4                  | Mar 22, 2024 | Kayseri, Turkey  |
+| [Erciyes University IEEE Computer Society](/media/2024/2024-03-22-Erciyes-Uni.jpg)                 | Meet my AI Sidekick                          | Mar 22, 2024 | Kayseri, Turkey  |
 | [Microsoft Reactor-Spotlight on App Innovation](https://youtu.be/Auxl3Dx9mbs)                      | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
 | [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
-| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick : GPT-4                  | Mar 10, 2024 | Istanbul, Turkey |
-| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick : GPT-4                  | Mar 8, 2024  | Erzurum, Turkey  |
-| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                                            | Meet my AI Sidekick : GPT-4                  | Mar 1, 2024  | Mersin, Turkey   |
+| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick                          | Mar 10, 2024 | Istanbul, Turkey |
+| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick                          | Mar 8, 2024  | Erzurum, Turkey  |
+| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                                            | Meet my AI Sidekick                          | Mar 1, 2024  | Mersin, Turkey   |
 | [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg)                      | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
 | [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
 
@@ -110,14 +110,14 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                   | Topic                                                         | Date         | Place             |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
-| [GDG DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                | Meet my AI Sidekick : GPT-4                                   | Dec 26, 2023 | Online            |
-| [GDG DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                    | Meet my AI Sidekick : GPT-4                                   | Dec 23, 2023 | Eskisehir, Turkey |
-| [GDG DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 16, 2023 | Konya, Turkey     |
+| [GDG DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                | Meet my AI Sidekick                                           | Dec 26, 2023 | Online            |
+| [GDG DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                    | Meet my AI Sidekick                                           | Dec 23, 2023 | Eskisehir, Turkey |
+| [GDG DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 16, 2023 | Konya, Turkey     |
 | [Getek'23](/media/2023/getek-2023.jpg)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
-| [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick : GPT-4                                   | Dec 13, 2023 | Mus, Turkey       |
-| [GDG DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 9, 2023  | Bursa, Turkey     |
+| [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick                                           | Dec 13, 2023 | Mus, Turkey       |
+| [GDG DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 9, 2023  | Bursa, Turkey     |
 | [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
-| [GDG DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                            | Meet my AI Sidekick : GPT-4                                   | Dec 2, 2023  | Izmir, Turkey     |
+| [GDG DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 2, 2023  | Izmir, Turkey     |
 | [Emerge International Tech Conference](/media/2023/emerge-conf-2023.png)               | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
 | [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)          | Prompt Engineering                                            | Sep 06, 2023 | Online            |
 | [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                     | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
