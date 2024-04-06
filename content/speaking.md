@@ -1,5 +1,5 @@
 ---
-date: 2024-04-05
+date: 2024-04-06
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,6 +77,7 @@ Here is where I'm planning to be next;
 |--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
 | Mugla University Internet Week 2024                                                        | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey    |
 | Middle East Techical University                                                            | Meet my AI Sidekick                          | Apr 25, 2024 | Ankara, Turkey   |
+| Coderspace Software and Technology School                                                  | Keynote                                      | Apr 25, 2024 | Online           |
 | Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey |
 | Ege University 3rd Interdisciplinary Artificial Intelligence Congress                      | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey    |
 | Sivas University National Informatics Festivals                                            | TBD                                          | Apr 29, 2024 | Sivas, Turkey    |
