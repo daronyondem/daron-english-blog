@@ -81,7 +81,7 @@ Here is where I'm planning to be next;
 | Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey |
 | Ege University 3rd Interdisciplinary Artificial Intelligence Congress                      | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey    |
 | Sivas University National Informatics Festivals                                            | TBA                                          | Apr 29, 2024 | Sivas, Turkey    |
-| Karabuk University                                                                         | TBA                                          | Apr 30, 2024 | Karabuk, Turkey  |
+| Karabuk University                                                                         | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey  |
 | Isparta University IZTECH                                                                  | TBA                                          | May 3, 2024  | Isparta, Turkey  |
 | Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey |
 | [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
