@@ -73,24 +73,25 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                       | Topic                                        | Date         | Place            |
-|--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| Mugla University Internet Week 2024                                                        | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey    |
-| Middle East Techical University                                                            | Meet my AI Sidekick                          | Apr 25, 2024 | Ankara, Turkey   |
-| Coderspace Software and Technology School                                                  | Keynote                                      | Apr 25, 2024 | Online           |
-| Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey |
-| Ege University 3rd Interdisciplinary Artificial Intelligence Congress                      | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey    |
-| Sivas University National Informatics Festivals                                            | TBA                                          | Apr 29, 2024 | Sivas, Turkey    |
-| Karabuk University                                                                         | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey  |
-| Isparta University IZTECH                                                                  | TBA                                          | May 3, 2024  | Isparta, Turkey  |
-| Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey |
-| [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey |
-| Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey  |
-| Istanbul Health and Technology University                                                  | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey |
-| Duzce University                                                                           | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey    |
-| Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey   |
-| Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey |
-| Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey   |
+| Name                                                                                       | Topic                                        | Date         | Place                   |
+|--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| Eastern Mediterranean University AI Summit                                                 | Meet my AI Sidekick                          | Apr 20, 2024 | Famagusta, North Cyprus |
+| Mugla University Internet Week 2024                                                        | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey           |
+| Middle East Techical University                                                            | Meet my AI Sidekick                          | Apr 25, 2024 | Ankara, Turkey          |
+| Coderspace Software and Technology School                                                  | Keynote                                      | Apr 25, 2024 | Online                  |
+| Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey        |
+| Ege University 3rd Interdisciplinary Artificial Intelligence Congress                      | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey           |
+| Sivas University National Informatics Festivals                                            | TBA                                          | Apr 29, 2024 | Sivas, Turkey           |
+| Karabuk University                                                                         | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey         |
+| Isparta University IZTECH                                                                  | TBA                                          | May 3, 2024  | Isparta, Turkey         |
+| Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey        |
+| [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey        |
+| Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey         |
+| Istanbul Health and Technology University                                                  | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey        |
+| Duzce University                                                                           | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey           |
+| Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey          |
+| Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey        |
+| Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey          |
 
 <br/>
 
