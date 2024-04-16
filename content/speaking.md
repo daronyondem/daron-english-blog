@@ -1,5 +1,5 @@
 ---
-date: 2024-04-11
+date: 2024-04-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,6 +92,7 @@ Here is where I'm planning to be next;
 | Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey          |
 | Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey        |
 | Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey          |
+| TEDx@IEL                                                                                   | Journeying Beyond Outcomes                   | Jun 1, 2024  | Istanbul, Turkey        |
 
 <br/>
 
