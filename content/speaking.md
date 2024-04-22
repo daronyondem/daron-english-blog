@@ -75,8 +75,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                       | Topic                                        | Date         | Place                   |
 |--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
-| Eastern Mediterranean University AI Summit                                                 | Meet my AI Sidekick                          | Apr 20, 2024 | Famagusta, North Cyprus |
-| Mugla University Internet Week 2024                                                        | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey           |
 | Middle East Techical University                                                            | Meet my AI Sidekick                          | Apr 25, 2024 | Ankara, Turkey          |
 | Coderspace Software and Technology School                                                  | Keynote                                      | Apr 25, 2024 | Online                  |
 | Uskudar University Tech Summit 2024                                                        | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey        |
@@ -100,17 +98,19 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2024
 
-| Name                                                                                               | Topic                                        | Date         | Place            |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|------------------|
-| [Microsoft Reactor-Spotlight on App Innovation](/media/2024-04-03_19-18-51.jpg)                    | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online           |
-| [Erciyes University IEEE Computer Society](/media/2024/2024-03-22-Erciyes-Uni.jpg)                 | Meet my AI Sidekick                          | Mar 22, 2024 | Kayseri, Turkey  |
-| [Microsoft Reactor-Spotlight on App Innovation](https://youtu.be/Auxl3Dx9mbs)                      | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online           |
-| [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey |
-| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick                          | Mar 10, 2024 | Istanbul, Turkey |
-| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick                          | Mar 8, 2024  | Erzurum, Turkey  |
-| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                                            | Meet my AI Sidekick                          | Mar 1, 2024  | Mersin, Turkey   |
-| [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg)                      | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey |
-| [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online           |
+| Name                                                                                               | Topic                                        | Date         | Place                   |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| [Mugla University Internet Week 2024](/media/2024/2024-04-21-Mugla.jpg)                            | Meet my AI Sidekick                          | Apr 21, 2024 | Mugla, Turkey           |
+| [Eastern Mediterranean University AI Summit](/media/2024/2024-04-20-EMU.jpg)                       | Meet my AI Sidekick                          | Apr 20, 2024 | Famagusta, North Cyprus |
+| [Microsoft Reactor-Spotlight on App Innovation](/media/2024-04-03_19-18-51.jpg)                    | Building Intelligent Apps with AI and LLMs   | Apr 3, 2024  | Online                  |
+| [Erciyes University IEEE Computer Society](/media/2024/2024-03-22-Erciyes-Uni.jpg)                 | Meet my AI Sidekick                          | Mar 22, 2024 | Kayseri, Turkey         |
+| [Microsoft Reactor-Spotlight on App Innovation](https://youtu.be/Auxl3Dx9mbs)                      | Finding the Perfect Spot for Your Containers | Mar 19, 2024 | Online                  |
+| [Istanbul International Community School Career Fair](/media/2024/2024-03-13-IICS-Career-Fair.jpg) | The Magic Behind the Screen                  | Mar 13, 2024 | Istanbul, Turkey        |
+| [BILMOK 2024](/media/2024/2024-03-10-bilmok-2024.jpg)                                              | Meet my AI Sidekick                          | Mar 10, 2024 | Istanbul, Turkey        |
+| [Erzurum Technical University](/media/2024/2024-03-08-Erzurum.jpg)                                 | Meet my AI Sidekick                          | Mar 8, 2024  | Erzurum, Turkey         |
+| [Toros Tech Fair](/media/2024/toros-tech-fair-2024.png)                                            | Meet my AI Sidekick                          | Mar 1, 2024  | Mersin, Turkey          |
+| [Marmara University Data Fusion 1.0](/media/2024/data-fusion-marmara-uni.jpg)                      | Applied AI                                   | Feb 29, 2024 | Istanbul, Turkey        |
+| [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                 | AI Prototyping to Production with Promptflow | Jan 30, 2024 | Online                  |
 
 ## 2023
 <!-- 279 event -->
