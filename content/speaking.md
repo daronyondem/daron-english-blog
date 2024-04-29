@@ -84,7 +84,7 @@ Here is where I'm planning to be next;
 | Istanbul Health and Technology University                                                  | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey  |
 | Duzce University                                                                           | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey     |
 | Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey    |
-| Mugla University IEEE Kariyer-In Conference                                                | Prompt Engineering                           | May 18, 2024 | Edirne, Turkey    |
+| Mugla University IEEE Kariyer-In Conference                                                | Prompt Engineering                           | May 18, 2024 | Mugla, Turkey     |
 | Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey  |
 | Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey    |
 | TEDx@IEL                                                                                   | Journeying Beyond Outcomes                   | Jun 1, 2024  | Istanbul, Turkey  |
