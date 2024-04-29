@@ -81,6 +81,7 @@ Here is where I'm planning to be next;
 | Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey  |
 | [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey  |
 | Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey   |
+| IEEE Computer Society Congress 2024 (Atilim University)                                    | Meet my AI Sidekick                          | May 10, 2024 | Ankara, Turkey    |
 | Istanbul Health and Technology University                                                  | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey  |
 | Duzce University                                                                           | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey     |
 | Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey    |
