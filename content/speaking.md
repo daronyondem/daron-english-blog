@@ -1,11 +1,11 @@
 ---
-date: 2024-04-29
+date: 2024-05-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **294 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **60 universities** and engage audiences in more than **12 countries**, totaling **295 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -75,7 +75,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                       | Topic                                        | Date         | Place             |
 |--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------|
-| Karabuk University                                                                         | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey   |
 | Isparta University IZTECH                                                                  | TBA                                          | May 3, 2024  | Isparta, Turkey   |
 | Kastamonu University                                                                       | Meet my AI Sidekick                          | May 5, 2024  | Kastamonu, Turkey |
 | Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey  |
@@ -99,6 +98,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                        | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| [Karabuk University](/media/2024/2024-04-30-Karabuk-Universitesi-TEC.jpg)                                            | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey         |
 | [3rd Interdisciplinary Artificial Intelligence Congress (Ege University)](/media/2024/2024-04-28-Ege-University.jpg) | Meet my AI Sidekick                          | Apr 28, 2024 | Izmir, Turkey           |
 | [Uskudar University Tech Summit 2024](/media/2024/2024-04-27-Uskudar-University.jpg)                                 | Meet my AI Sidekick                          | Apr 27, 2024 | Istanbul, Turkey        |
 | [Coderspace Software and Technology School](/media/2024/2024-04-25-Codespace-Keynote.jpg)                            | Keynote                                      | Apr 25, 2024 | Online                  |
