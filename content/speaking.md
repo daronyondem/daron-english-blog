@@ -293,12 +293,12 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Istanbul Aydın University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-04-07.md)                           | Cloud 101                                 | Apr 6, 2016  | Istanbul, Turkey  |
 | [Sakarya University IEEE Talks](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-18.md)                       | Journeying Beyond Outcomes                | Mar 17, 2016 | Sakarya, Turkey   |
 | [Galatasaray University Reunion](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-17.md)                      | Journeying Beyond Outcomes                | Mar 16, 2016 | Istanbul, Turkey  |
-| [Osmangazi University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-14.md)                                | Journeying Beyond Outcomes                | Mar 13, 2016 | Eskişehir, Turkey |
+| [Osmangazi University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-14.md)                                | Journeying Beyond Outcomes                | Mar 13, 2016 | Eskisehir, Turkey |
 | [Ege University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-13.md)                                      | Journeying Beyond Outcomes                | Mar 12, 2016 | Izmir, Turkey     |
 | [Nişantaşı University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-11.md)                                | Azure IoT Suite                           | Mar 10, 2016 | Istanbul, Turkey  |
-| [BİLMÖK 2016](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-08.md)                                         | Journeying Beyond Outcomes                | Mar 7, 2016  | Şanlıurfa, Turkey |
+| [BİLMÖK 2016](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-08.md)                                         | Journeying Beyond Outcomes                | Mar 7, 2016  | Sanliurfa, Turkey |
 | [Izmir Institute of Technology (IYTE)](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-04.md)                | Cloud 101                                 | Mar 3, 2016  | Izmir, Turkey     |
-| [Karabük University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-02.md)                                  | Talking Microsoft and Linux               | Mar 1, 2016  | Karabük, Turkey   |
+| [Karabük University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-03-02.md)                                  | Talking Microsoft and Linux               | Mar 1, 2016  | Karabuk, Turkey   |
 | [Nişantaşı University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-15.md)                                | Azure 101                                 | Jan 14, 2016 | Istanbul, Turkey  |
 | [Middle East Technical University (ODTÜ)](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2016-01-07.md)             | Big Data and IoT                          | Jan 6, 2016  | Ankara, Turkey    |
 
@@ -321,7 +321,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Microsoft Open Academy Summer School 2015](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-08-17.md)       | Azure 101                  | Aug 17, 2015 | Istanbul, Turkey  |
 | [NGO Day Azure Sunumum](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-06-06.md)                           | Azure for NGOs             | Jun 6, 2015  | Istanbul, Turkey  |
 | [Izmir Dokuz Eylul University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-05-08.md)                    | Cloud 101                  | May 8, 2015  | Izmir, Turkey     |
-| [Duzce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-05-06.md)                                | Journeying Beyond Outcomes | May 6, 2015  | Düzce, Turkey     |
+| [Duzce University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-05-06.md)                                | Journeying Beyond Outcomes | May 6, 2015  | Duzce, Turkey     |
 | [Hasan Kalyoncu University KITTECH](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-25.md)               | Cloud 101                  | Apr 25, 2015 | Gaziantep, Turkey |
 | [Trakya University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-21.md)                               | Cloud 101                  | Apr 21, 2015 | Edirne, Turkey    |
 | [Halic University IT Days](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2015-04-16.md)                        | Journeying Beyond Outcomes | Apr 16, 2015 | Istanbul, Turkey  |
@@ -399,14 +399,14 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------|-----------------------|
 | [Microsoft Open Door Beirut 2010](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-10-08.md)                          | Silverlight and Windows Phone 7             | Oct 8, 2010  | Beirut, Lebanon       |
 | [Microsoft Jordan Innovation Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-05-20.md)                         | WPF and Multitouch                          | May 20, 2010 | Amman, Jordan         |
-| [Izmir Visual Studio 2010 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-05-08.md)                          | What's new in .NET 4?                       | May 8, 2010  | İzmir, Turkey         |
+| [Izmir Visual Studio 2010 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-05-08.md)                          | What's new in .NET 4?                       | May 8, 2010  | Izmir, Turkey         |
 | [Suleyman Demirel University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-28.md)                              | Silverlight 4 and Windows Phone Development | Apr 28, 2010 | Isparta, Turkey       |
 | [Ankara University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-21.md)                                        | Rich Internet Apps with Silverlight 4       | Apr 21, 2010 | Ankara, Turkey        |
 | [Karadeniz Technical University Visual Studio 2010 Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-19.md) | What's new in .NET 4?                       | Apr 19, 2010 | Trabzon, Turkey       |
 | [Akdeniz University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-07.md)                                       | Intro to Silverlight and WPF                | Apr 7, 2010  | Antalya, Turkey       |
 | [MSDays 2010 Sofia](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-04-01.md)                                        | Multitouch Development                      | Apr 1, 2010  | Sofia, Bulgaria       |
 | [TechEd Middle East 2010](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-03-04.md)                                  | Multitouch Development                      | Mar 4, 2010  | Dubai, UAE            |
-| [Sutcu Imam University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-02-27.md)                                    | Intro to .NET Development                   | Feb 27, 2010 | Kahramanmaraş, Turkey |
+| [Sutcu Imam University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2010-02-27.md)                                    | Intro to .NET Development                   | Feb 27, 2010 | Kahramanmaras, Turkey |
 
 ## 2009
 
@@ -415,7 +415,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [INETA NEXT Kayseri Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-21.md)         | Intro to Silverlight and WPF      | Dec 21, 2009 | Kayseri, Turkey         |
 | [INETA NEXT Istanbul Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-14.md)        | Intro to Silverlight and WPF      | Dec 14, 2009 | Istanbul, Turkey        |
 | [Balıkesir University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-12.md)                  | Intro to Silverlight and WPF      | Dec 12, 2009 | Balikesir, Turkey       |
-| [INETA NEXT Diyarbakır Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-08.md)      | Intro to Silverlight and WPF      | Dec 8, 2009  | Diyarbakır, Turkey      |
+| [INETA NEXT Diyarbakır Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-12-08.md)      | Intro to Silverlight and WPF      | Dec 8, 2009  | Diyarbakir, Turkey      |
 | [Eastern Mediterranean University!](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-11-07.md)     | Multitouch Development            | Nov 7, 2009  | Famagusta, North Cyprus |
 | [Izmir Windows 7 Academic Launch](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-10-28.md)       | Multitouch Development            | Oct 28, 2009 | Izmir, Turkey           |
 | [Microsoft Summer School Istanbul 2009](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-08-12.md) | Intro to Silverlight and WPF      | Aug 12, 2009 | Istanbul, Turkey        |
@@ -425,7 +425,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Imagine Cup Turkey Final.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-04-18.md)             | WPF and MultiTouch                | Apr 18, 2009 | Istanbul, Turkey        |
 | [Akdeniz University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-04-14.md)                    | Intro to Silverlight and WPF      | Apr 14, 2009 | Antalya, Turkey         |
 | [NedirTV.com Event](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-14.md)                     | MultiPoint Development            | Mar 14, 2009 | Istanbul, Turkey        |
-| [INETA Eskişehir Hit Conference.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-10.md)       | Game Development with Silverlight | Mar 10, 2009 | Eskişehir, Turkey       |
+| [INETA Eskişehir Hit Conference.](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-10.md)       | Game Development with Silverlight | Mar 10, 2009 | Eskisehir, Turkey       |
 | [METU Game Development Conference](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-03-02.md)      | Game Development with Silverlight | Mar 2, 2009  | Ankara, Turkey          |
 | [Erzurum Ataturk University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-02-28.md)            | Intro to Silverlight and WPF      | Feb 28, 2009 | Erzurum, Turkey         |
 | [NedirTV.com Event](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2009-02-23.md)                     | Intro to Silverlight and WPF      | Feb 23, 2009 | Ankara, Turkey          |
@@ -440,7 +440,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 |------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------|----------------------------|
 | [Microsoft Student Partner Kick Off](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-28.md)                         | MultiPoint SDK Development                    | Dec 28, 2008 | Ankara, Turkey             |
 | [Uludag University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-25.md)                                          | ASP.NET 3.5 AJAX                              | Dec 25, 2008 | Bursa, Turkey              |
-| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-24.md)                           | Game Development with Silveright 2.0          | Dec 24, 2008 | Famagusta, Northern Cyprus |
+| [Eastern Mediterranean University](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-24.md)                           | Game Development with Silveright 2.0          | Dec 24, 2008 | Famagusta, North Cyprus    |
 | [Abdurrahman-Nermin Bilimli Anatolian Technical High School](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-17.md) | Intro to Silverlight and WPF                  | Dec 17, 2008 | Istanbul, Turkey           |
 | [Microsoft Turkey Software Developers Summit](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-04.md)                | Intro to Silverlight 2.0                      | Dec 4, 2008  | Istanbul, Turkey           |
 | [INETA Isparta Boot Camp](https://github.com/daronyondem/daron-turkce-blog/blob/master/posts/2008-12-02.md)                                    | Building Data Apps with Silverlight 2.0       | Dec 2, 2008  | Isparta, Turkey            |
