@@ -1,11 +1,11 @@
 ---
-date: 2024-05-06
+date: 2024-05-07
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **61 universities** and engage audiences in more than **12 countries**, totaling **297 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **61 universities** and engage audiences in more than **12 countries**, totaling **298 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -76,7 +76,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                       | Topic                                        | Date         | Place             |
 |--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------|
-| Cozumpark Azure Conference 2024                                                            | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey  |
 | [Microsoft Build AI Conference Turkey](https://msevents.microsoft.com/event?id=1075032804) | Prompt Engineering to Production with LLMOps | May 8, 2024  | Istanbul, Turkey  |
 | Aksaray University                                                                         | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey   |
 | IEEE Computer Society Congress 2024 (Atilim University)                                    | Meet my AI Sidekick                          | May 10, 2024 | Ankara, Turkey    |
@@ -98,6 +97,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                        | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| [Cozumpark Azure Conference 2024](/media/2024/2024-05-07_Cozumpark-Azure-Conf.jpg)                                   | Meet my AI Sidekick                          | May 7, 2024  | Istanbul, Turkey        |
 | [Kastamonu University](/media/2024/2024-05-05-Kastamonu.jpg)                                                         | Meet my AI Sidekick                          | May 5, 2024  | Kastamonu, Turkey       |
 | [Isparta University SuDGoTech](/media/2024/2024-05-03-Isparta.jpg)                                                   | Meet my AI Sidekick                          | May 3, 2024  | Isparta, Turkey         |
 | [Karabuk University](/media/2024/2024-04-30-Karabuk-Universitesi-TEC.jpg)                                            | Meet my AI Sidekick                          | Apr 30, 2024 | Karabuk, Turkey         |
