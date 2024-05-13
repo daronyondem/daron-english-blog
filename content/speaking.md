@@ -76,15 +76,16 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                       | Topic                                        | Date         | Place             |
-|--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------|
-| Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey    |
-| Mehmet Akif Ersoy University                                                               | Meet my AI Sidekick                          | May 15, 2024 | Online            |
-| Mugla University IEEE Kariyer-In Conference                                                | Prompt Engineering                           | May 18, 2024 | Mugla, Turkey     |
-| Yasar University                                                                           | Meet my AI Sidekick                          | May 18, 2024 | Izmir, Turkey     |
-| Uskudar University Industry and Leadership Days 8                                          | Journeying Beyond Outcomes                   | May 22, 2024 | Istanbul, Turkey  |
-| Gazi University AI'2SEC                                                                    | Meet my AI Sidekick                          | May 28, 2024 | Ankara, Turkey    |
-| TEDx@IEL                                                                                   | Journeying Beyond Outcomes                   | Jun 1, 2024  | Istanbul, Turkey  |
+| Name                                                     | Topic                      | Date         | Place            |
+|----------------------------------------------------------|----------------------------|--------------|------------------|
+| Trakya University Information and Innovation Summit 2024 | Meet my AI Sidekick        | May 15, 2024 | Edirne, Turkey   |
+| Mehmet Akif Ersoy University                             | Meet my AI Sidekick        | May 15, 2024 | Online           |
+| Mugla University IEEE Kariyer-In Conference              | Prompt Engineering         | May 18, 2024 | Mugla, Turkey    |
+| Yasar University                                         | Meet my AI Sidekick        | May 18, 2024 | Izmir, Turkey    |
+| Uskudar University Industry and Leadership Days 8        | Journeying Beyond Outcomes | May 22, 2024 | Istanbul, Turkey |
+| Elazig Firat University                                  | Meet my AI Sidekick        | May 26, 2024 | Elazig, Turkey   |
+| Gazi University AI'2SEC                                  | Meet my AI Sidekick        | May 28, 2024 | Ankara, Turkey   |
+| TEDx@IEL                                                 | Journeying Beyond Outcomes | Jun 1, 2024  | Istanbul, Turkey |
 
 <br/>
 
