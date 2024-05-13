@@ -79,7 +79,7 @@ Here is where I'm planning to be next;
 | Name                                                     | Topic                      | Date         | Place            |
 |----------------------------------------------------------|----------------------------|--------------|------------------|
 | Trakya University Information and Innovation Summit 2024 | Meet my AI Sidekick        | May 15, 2024 | Edirne, Turkey   |
-| Mehmet Akif Ersoy University                             | Meet my AI Sidekick        | May 15, 2024 | Online           |
+| Mehmet Akif Ersoy University                             | Meet my AI Sidekick        | May 16, 2024 | Online           |
 | Mugla University IEEE Kariyer-In Conference              | Prompt Engineering         | May 18, 2024 | Mugla, Turkey    |
 | Yasar University                                         | Meet my AI Sidekick        | May 18, 2024 | Izmir, Turkey    |
 | Uskudar University Industry and Leadership Days 8        | Journeying Beyond Outcomes | May 22, 2024 | Istanbul, Turkey |
