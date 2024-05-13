@@ -1,5 +1,5 @@
 ---
-date: 2024-05-11
+date: 2024-05-13
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -78,7 +78,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                       | Topic                                        | Date         | Place             |
 |--------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------|
-| Duzce University                                                                           | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey     |
 | Trakya University Information and Innovation Summit 2024                                   | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey    |
 | Mehmet Akif Ersoy University                                                               | Meet my AI Sidekick                          | May 15, 2024 | Online            |
 | Mugla University IEEE Kariyer-In Conference                                                | Prompt Engineering                           | May 18, 2024 | Mugla, Turkey     |
@@ -95,6 +94,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                        | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| [Duzce University](/media/2024/2024-05-12_Duzce-University.jpg)                                                      | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey           |
 | [Istanbul Health and Technology University](/media/2024/2024-05-11-Istun-University.jpg)                             | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey        |
 | [IEEE Computer Society Congress 2024 (Atilim University)](/media/2024/2024-05-10_IEEE_CS_Atilim_Uni.jpg)             | Meet my AI Sidekick                          | May 10, 2024 | Ankara, Turkey          |
 | [Aksaray University](/media/2024/2024-05-09-Aksaray.jpg)                                                             | Meet my AI Sidekick                          | May 9, 2024  | Aksaray, Turkey         |
