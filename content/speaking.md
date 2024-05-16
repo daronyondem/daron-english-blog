@@ -5,7 +5,7 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **63 universities** and engage audiences in more than **12 countries**, totaling **304 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **306 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -55,6 +55,7 @@ Konya Selcuk University
 Kultur University
 Malatya Inonu University
 Marmara University
+Mehmet Akif Ersoy University 
 Middle East Technical University (ODTU)
 Mugla University
 Mus Alparslan University
@@ -78,8 +79,6 @@ Here is where I'm planning to be next;
 
 | Name                                                     | Topic                                         | Date         | Place            |
 |----------------------------------------------------------|-----------------------------------------------|--------------|------------------|
-| Proxify Developer Series                                 | AI Enchanced Developer Productivity           | May 16, 2024 | Online           |
-| Mehmet Akif Ersoy University                             | Meet my AI Sidekick                           | May 16, 2024 | Online           |
 | Mugla University IEEE Kariyer-In Conference              | Prompt Engineering                            | May 18, 2024 | Mugla, Turkey    |
 | Yasar University                                         | Meet my AI Sidekick                           | May 18, 2024 | Izmir, Turkey    |
 | Uskudar University Industry and Leadership Days 8        | Journeying Beyond Outcomes                    | May 22, 2024 | Istanbul, Turkey |
@@ -96,6 +95,8 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                        | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|-------------------------|
+| [Mehmet Akif Ersoy University](/media/2024/2024-05-16_Mehmet-Akif-Ersoy.jpg)                                         | Meet my AI Sidekick                          | May 16, 2024 | Online                  |
+| [Proxify Developer Series](/media/2024/2024-05-16-Proxify.jpg)                                                       | AI Enchanced Developer Productivity          | May 16, 2024 | Online                  |
 | [Trakya University Information and Innovation Summit 2024](/media/2024/2024-05-15_Edirne.jpg)                        | Meet my AI Sidekick                          | May 15, 2024 | Edirne, Turkey          |
 | [Duzce University](/media/2024/2024-05-12_Duzce-University.jpg)                                                      | Meet my AI Sidekick                          | May 13, 2024 | Duzce, Turkey           |
 | [Istanbul Health and Technology University](/media/2024/2024-05-11-Istun-University.jpg)                             | Meet my AI Sidekick                          | May 11, 2024 | Istanbul, Turkey        |
