@@ -1,5 +1,5 @@
 ---
-date: 2024-05-20
+date: 2024-05-21
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -83,7 +83,6 @@ Here is where I'm planning to be next;
 | Sanko Holding Annual Top Management Summit               | The Use of AI in Global Software Applications | May 24, 2024 | Antalya, Turkey  |
 | Elazig Firat University                                  | Meet my AI Sidekick                           | May 26, 2024 | Elazig, Turkey   |
 | Gazi University AI'2SEC                                  | Meet my AI Sidekick                           | May 28, 2024 | Ankara, Turkey   |
-| TEDx@IEL                                                 | Journeying Beyond Outcomes                    | Jun 1, 2024  | Istanbul, Turkey |
 
 <br/>
 
