@@ -1,11 +1,11 @@
 ---
-date: 2024-05-21
+date: 2024-05-22
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **309 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **310 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -79,7 +79,6 @@ Here is where I'm planning to be next;
 
 | Name                                                     | Topic                                         | Date         | Place            |
 |----------------------------------------------------------|-----------------------------------------------|--------------|------------------|
-| Uskudar University Industry and Leadership Days 8        | Journeying Beyond Outcomes                    | May 22, 2024 | Istanbul, Turkey |
 | Sanko Holding Annual Top Management Summit               | The Use of AI in Global Software Applications | May 24, 2024 | Antalya, Turkey  |
 | Elazig Firat University                                  | Meet my AI Sidekick                           | May 26, 2024 | Elazig, Turkey   |
 | Gazi University AI'2SEC                                  | Meet my AI Sidekick                           | May 28, 2024 | Ankara, Turkey   |
@@ -92,6 +91,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Uskudar University Industry and Leadership Days 8](/media/2024/2024-05-22_Uskudar-Uni-ENGL.jpg)                     | Journeying Beyond Outcomes                                | May 22, 2024 | Istanbul, Turkey        |
 | [Sparks of Turkey Community](/media/2024/2024-05-20_Turkiyenin-Kivilcimlari.jpg)                                     | Innovation, Entrepreneurship, and Artificial Intelligence | May 20, 2024 | Online                  |
 | [Yasar University](/media/2024/2024-05-18-Yasar-Uni-Izmir.jpg)                                                       | Meet my AI Sidekick                                       | May 18, 2024 | Izmir, Turkey           |
 | [Mugla University IEEE Kariyer-In Conference](/media/2024/2024-05-18-Mugla.jpg)                                      | Prompt Engineering                                        | May 18, 2024 | Mugla, Turkey           |
