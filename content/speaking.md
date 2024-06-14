@@ -1,11 +1,11 @@
 ---
-date: 2024-06-05
+date: 2024-06-14
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **313 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **314 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -77,9 +77,7 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                     | Topic                                         | Date         | Place            |
-|----------------------------------------------------------|-----------------------------------------------|--------------|------------------|
-| Proxify Developer Series                                 | Prompt Engineering                            | Jun 13, 2024 | Online           |
+TBA
 
 <br/>
 
@@ -89,6 +87,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Proxify Developer Series](/media/2024/2024-06-14_proxify-prompt-engineering.jpg)                                    | Prompt Engineering                                        | Jun 13, 2024 | Online                  |
 | [Gazi University AI'2SEC](/media/2024/2024-05-27-Gazi-University.jpg)                                                | Meet my AI Sidekick                                       | May 28, 2024 | Ankara, Turkey          |
 | [FiraTech 2024](/media/2024/2024-05-26-Firat-University.jpg)                                                         | Meet my AI Sidekick                                       | May 26, 2024 | Elazig, Turkey          |
 | [Sanko Holding Annual Top Management Summit](/media/2024/2024-05-24-Sanko-Holding.jpg)                               | The Use of AI in Global Software Applications             | May 24, 2024 | Antalya, Turkey         |
