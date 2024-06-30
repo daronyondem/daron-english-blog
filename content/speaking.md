@@ -1,5 +1,5 @@
 ---
-date: 2024-06-27
+date: 2024-06-30
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,9 +77,9 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                       | Topic              | Date         | Place            |
-|----------------------------|--------------------|--------------|------------------|
-| IEEE Turkey Xtreme Camp'24 | Prompt Engineering | Jul 23, 2024 | Istanbul, Turkey |
+| Name                                                              | Topic              | Date         | Place            |
+|-------------------------------------------------------------------|--------------------|--------------|------------------|
+| [IEEE Turkey Xtreme Camp'24](https://isikieee.com.tr/xtreme.html) | Prompt Engineering | Jul 23, 2024 | Istanbul, Turkey |
 
 <br/>
 
