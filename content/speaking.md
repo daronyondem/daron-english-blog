@@ -1,5 +1,5 @@
 ---
-date: 2024-06-30
+date: 2024-07-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -79,6 +79,7 @@ Here is where I'm planning to be next;
 
 | Name                                                              | Topic              | Date         | Place            |
 |-------------------------------------------------------------------|--------------------|--------------|------------------|
+| [BADI Events](https://bit.ly/3W84Cq0)                             | Prompt Engineering | Jul 18, 2024 | Online           |
 | [IEEE Turkey Xtreme Camp'24](https://isikieee.com.tr/xtreme.html) | Prompt Engineering | Jul 23, 2024 | Istanbul, Turkey |
 
 <br/>
