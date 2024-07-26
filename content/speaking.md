@@ -1,5 +1,5 @@
 ---
-date: 2024-07-24
+date: 2024-07-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,7 +77,9 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-TBA
+| Name                                                                                                                | Topic   | Date         | Place  |
+|---------------------------------------------------------------------------------------------------------------------|---------|--------------|--------|
+| [Coderspace Data Science and AI Summer School](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | Keynote | Aug 15, 2024 | Online |
 
 <br/>
 
