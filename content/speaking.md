@@ -1,5 +1,5 @@
 ---
-date: 2024-07-28
+date: 2024-07-31
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -80,6 +80,7 @@ Here is where I'm planning to be next;
 | Name                                                                                                                | Topic   | Date         | Place            |
 |---------------------------------------------------------------------------------------------------------------------|---------|--------------|------------------|
 | [Coderspace Data Science and AI Summer School](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | Keynote | Aug 15, 2024 | Online           |
+| [PMI Turkey Summit](https://www.pmi.org.tr/zirvelerimiz/)                                                           | TBA     | Oct 4, 2024  | Istanbul, Turkey |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/)                  | TBA     | Nov 15, 2024 | Istanbul, Turkey |
 
 <br/>
