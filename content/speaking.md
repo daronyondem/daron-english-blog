@@ -1,5 +1,5 @@
 ---
-date: 2024-07-31
+date: 2024-08-14
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -84,6 +84,7 @@ Here is where I'm planning to be next;
 | [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                                      | TBA     | Oct 12, 2024 | Balikesir, Turkey |
 | Karel IT Strategy Day 2024                                                                                          | TBA     | Nov 6, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/)                  | TBA     | Nov 15, 2024 | Istanbul, Turkey  |
+| GDG DevFest Izmir                                                                                                   | TBA     | Dec 7, 2024  | Izmir, Turkey     |
 
 <br/>
 
