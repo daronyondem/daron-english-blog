@@ -1,5 +1,5 @@
 ---
-date: 2024-08-14
+date: 2024-08-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,14 +77,13 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                | Topic                                              | Date         | Place             |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
-| [Coderspace Data Science and AI Summer School](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | Keynote                                            | Aug 15, 2024 | Online            |
-| [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                                               | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
-| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                                      | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
-| Karel IT Strategy Day 2024                                                                                          | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
-| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/)                  | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
-| GDG DevFest Izmir                                                                                                   | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
+| Name                                                                                               | Topic                                              | Date         | Place             |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
+| [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                              | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
+| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
+| Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
+| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
+| GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 
 <br/>
 
@@ -94,6 +93,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Coderspace Data Science and AI Summer School](/media/2024/2024-08-15_Coderspace.jpg)                                | Keynote                                                   | Aug 15, 2024 | Online                  |
 | [IEEE Turkey Xtreme Camp'24](/media/2024/2024-07-23-IEEE-Xtreme.jpg)                                                 | Prompt Engineering                                        | Jul 23, 2024 | Istanbul, Turkey        |
 | [BADI Events](/media/2024/2024-07-18_badi-events.jpg)                                                                | Prompt Engineering                                        | Jul 18, 2024 | Online                  |
 | [Proxify Developer Series](/media/2024/2024-06-14_proxify-prompt-engineering.jpg)                                    | Prompt Engineering                                        | Jun 13, 2024 | Online                  |
