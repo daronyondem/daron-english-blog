@@ -80,7 +80,7 @@ Here is where I'm planning to be next;
 | Name                                                                                               | Topic                                              | Date         | Place             |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
 | METU Development Foundation Private Schools                                                        | Artificial Intelligence in Education               | Aug 23, 2024 | Ankara, Turkey    |
-| [Emerge International Tech Conference](https://emergeconf.io/)                                     | TBA                                                | Sep 25, 2024 | Yerevan, Armenia  |
+| [Emerge International Tech Conference](https://emergeconf.io/)                                     | Human vs AI Panel, Prompt Engineering Workshop     | Sep 25, 2024 | Yerevan, Armenia  |
 | [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                              | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
 | [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
 | Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
