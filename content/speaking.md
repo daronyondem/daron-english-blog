@@ -1,11 +1,11 @@
 ---
-date: 2024-08-28
+date: 2024-08-29
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **318 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **12 countries**, totaling **319 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria -->
 <!-- 
@@ -79,10 +79,10 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                                            | Topic                                              | Date         | Place             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
-| [Hacettepe University ACM](https://www.linkedin.com/posts/acm-hacettepe_acmhacettepe-yazaftlaftm-saemyleagni-activity-7232797570970906624-9PHf) | Prompt Engineering                                 | Aug 28, 2024 | Online            |
 | [Emerge International Tech Conference](https://emergeconf.io/)                                                                                  | Human vs AI Panel, Prompt Engineering Workshop     | Sep 25, 2024 | Yerevan, Armenia  |
 | [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                                                                           | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
 | [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                                                                  | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
+| Hacettepe University ACSDays                                                                                                                    | Prompt Engineering                                 | Oct 25, 2024 | Ankara, Turkey    |
 | Karel IT Strategy Day 2024                                                                                                                      | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/)                                              | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
 | GDG DevFest Bursa                                                                                                                               | TBA                                                | Nov 30, 2024 | Bursa, Turkey     |
@@ -97,6 +97,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Hacettepe University ACM](/media/2024/2024-08-28-Hacettepe-ACM.jpg)                                                 | Prompt Engineering                                        | Aug 28, 2024 | Online                  |
 | [METU Development Foundation Private Schools](/media/2024/2024-08-23-ODTU.jpg)                                       | Artificial Intelligence in Education                      | Aug 23, 2024 | Ankara, Turkey          |
 | [Coderspace Data Science and AI Summer School](/media/2024/2024-08-15_Coderspace.jpg)                                | Keynote                                                   | Aug 15, 2024 | Online                  |
 | [IEEE Turkey Xtreme Camp'24](/media/2024/2024-07-23-IEEE-Xtreme.jpg)                                                 | Prompt Engineering                                        | Jul 23, 2024 | Istanbul, Turkey        |
