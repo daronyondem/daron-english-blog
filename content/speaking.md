@@ -1,5 +1,5 @@
 ---
-date: 2024-08-29
+date: 2024-08-31
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,17 +77,18 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                                            | Topic                                              | Date         | Place             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
-| [Emerge International Tech Conference](https://emergeconf.io/)                                                                                  | Human vs AI Panel, Prompt Engineering Workshop     | Sep 25, 2024 | Yerevan, Armenia  |
-| [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                                                                           | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
-| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                                                                  | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
-| Hacettepe University ACSDays                                                                                                                    | Prompt Engineering                                 | Oct 25, 2024 | Ankara, Turkey    |
-| Karel IT Strategy Day 2024                                                                                                                      | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
-| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/)                                              | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
-| GDG DevFest Bursa                                                                                                                               | TBA                                                | Nov 30, 2024 | Bursa, Turkey     |
-| GDG DevFest Izmir                                                                                                                               | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
-| Marmara University AI Summit                                                                                                                    | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
+| Name                                                                                               | Topic                                              | Date         | Place             |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------|--------------|-------------------|
+| [Emerge International Tech Conference](https://emergeconf.io/)                                     | Human vs AI Panel, Prompt Engineering Workshop     | Sep 25, 2024 | Yerevan, Armenia  |
+| [PMI Turkey Summit](https://pmi.org.tr/pmsummit2024/)                                              | Combining Human and AI Talents for Your Next Team! | Oct 4, 2024  | Istanbul, Turkey  |
+| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | TBA                                                | Oct 12, 2024 | Balikesir, Turkey |
+| [TedX Duzce University](https://www.ted.com/tedx/events/58779)                                     | TBA                                                | Oct 17, 2024 | Duzce, Turkey     |
+| Hacettepe University ACSDays                                                                       | Prompt Engineering                                 | Oct 25, 2024 | Ankara, Turkey    |
+| Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
+| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
+| GDG DevFest Bursa                                                                                  | TBA                                                | Nov 30, 2024 | Bursa, Turkey     |
+| GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
+| Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
 
 <br/>
 
