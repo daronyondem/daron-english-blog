@@ -1,5 +1,5 @@
 ---
-date: 2024-09-09
+date: 2024-09-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -87,6 +87,7 @@ Here is where I'm planning to be next;
 | Bogazici University Computer Club Data Camp                                                        | TBA                                                | Nov 3, 2021  | Istanbul, Turkey  |
 | Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
+| GDG DevFest Burdur                                                                                 | TBA                                                | Nov 30, 2024 | Burdur, Turkey    |
 | GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
 | GDG DevFest Trabzon                                                                                | TBA                                                | Dec 14, 2024 | Trabzon, Turkey   |
