@@ -87,6 +87,7 @@ Here is where I'm planning to be next;
 | Bogazici University Computer Club Data Camp                                                        | TBA                                                | Nov 3, 2021  | Istanbul, Turkey  |
 | Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
+| Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                | Nov 16, 2024 | Bursa, Turkey     |
 | GDG DevFest Burdur                                                                                 | TBA                                                | Nov 30, 2024 | Burdur, Turkey    |
 | GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
