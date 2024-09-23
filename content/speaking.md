@@ -1,5 +1,5 @@
 ---
-date: 2024-09-20
+date: 2024-09-23
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -89,6 +89,7 @@ Here is where I'm planning to be next;
 | GDG DevFest Istanbul                                                                               | TBA                                                | Nov 9, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
 | Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                | Nov 16, 2024 | Bursa, Turkey     |
+| Yildiz Technical University Innovation Summit                                                      | TBA                                                | Nov 29, 2024 | Istanbul, Turkey  |
 | GDG DevFest Burdur                                                                                 | TBA                                                | Nov 30, 2024 | Burdur, Turkey    |
 | GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
