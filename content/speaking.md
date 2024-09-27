@@ -1,5 +1,5 @@
 ---
-date: 2024-09-23
+date: 2024-09-27
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -87,14 +87,14 @@ Here is where I'm planning to be next;
 | Bogazici University Computer Club Data Camp                                                        | TBA                                                | Nov 3, 2021  | Istanbul, Turkey  |
 | Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
 | Dokuz Eylül University Entrepreneurship in Every Step Conference                                   | TBA                                                | Nov 7, 2021  | Istanbul, Turkey  |
-| GDG DevFest Istanbul                                                                               | TBA                                                | Nov 9, 2021  | Istanbul, Turkey  |
+| Google DevFest Istanbul                                                                            | TBA                                                | Nov 9, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
 | Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                | Nov 16, 2024 | Bursa, Turkey     |
 | Yildiz Technical University Innovation Summit                                                      | TBA                                                | Nov 29, 2024 | Istanbul, Turkey  |
-| GDG DevFest Burdur                                                                                 | TBA                                                | Nov 30, 2024 | Burdur, Turkey    |
-| GDG DevFest Izmir                                                                                  | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
+| Google DevFest Burdur                                                                              | TBA                                                | Nov 30, 2024 | Burdur, Turkey    |
+| Google DevFest Izmir                                                                               | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
-| GDG DevFest Trabzon                                                                                | TBA                                                | Dec 14, 2024 | Trabzon, Turkey   |
+| Google DevFest Trabzon                                                                             | TBA                                                | Dec 14, 2024 | Trabzon, Turkey   |
 
 <br/>
 
@@ -150,14 +150,14 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                   | Topic                                                         | Date         | Place             |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
-| [GDG DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                | Meet my AI Sidekick                                           | Dec 26, 2023 | Online            |
-| [GDG DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                    | Meet my AI Sidekick                                           | Dec 23, 2023 | Eskisehir, Turkey |
-| [GDG DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 16, 2023 | Konya, Turkey     |
+| [Google DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                             | Meet my AI Sidekick                                           | Dec 26, 2023 | Online            |
+| [Google DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                 | Meet my AI Sidekick                                           | Dec 23, 2023 | Eskisehir, Turkey |
+| [Google DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 16, 2023 | Konya, Turkey     |
 | [Getek'23](/media/2023/getek-2023.jpg)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
 | [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick                                           | Dec 13, 2023 | Mus, Turkey       |
-| [GDG DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 9, 2023  | Bursa, Turkey     |
+| [Google DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 9, 2023  | Bursa, Turkey     |
 | [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
-| [GDG DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                            | Meet my AI Sidekick                                           | Dec 2, 2023  | Izmir, Turkey     |
+| [Google DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 2, 2023  | Izmir, Turkey     |
 | [Emerge International Tech Conference](/media/2023/emerge-conf-2023.png)               | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
 | [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)          | Prompt Engineering                                            | Sep 06, 2023 | Online            |
 | [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                     | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
@@ -171,10 +171,10 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                              | Topic                                                       | Date         | Place            |
 |-----------------------------------------------------------------------------------|-------------------------------------------------------------|--------------|------------------|
-| [GDG Izmir](/media/2022/gdg-izmir-devfest-2022.jpg)                               | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey    |
-| [GDG Denizli](/media/2022/gdg-denizli-devfest-2022.jpg)                           | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey  |
-| [GDG Konya](/media/2022/gdg-devfest-konya-2022.jpg)                               | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey    |
-| [GDG Burdur](/media/2022/gdg-burdur-2022-devfest.jpg))                            | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey   |
+| [Google DevFest Izmir](/media/2022/gdg-izmir-devfest-2022.jpg)                    | Building a Human Capital Through Engineering Leadership     | Dec 17, 2022 | Izmir, Turkey    |
+| [Google DevFest Denizli](/media/2022/gdg-denizli-devfest-2022.jpg)                | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 10, 2022 | Denizli, Turkey  |
+| [Google DevFest Konya](/media/2022/gdg-devfest-konya-2022.jpg)                    | Skyrocketing Developer Velocity: A talk about Github and AI | Dec 3, 2022  | Konya, Turkey    |
+| [Google DevFest Burdur](/media/2022/gdg-burdur-2022-devfest.jpg))                 | Skyrocketing Developer Velocity: A talk about Github and AI | Nov 27, 2022 | Burdur, Turkey   |
 | [xpand conference 2022](/media/2022/xpand-2022.jpg)                               | Function Orchestration in the World of Serverless           | Oct 22, 2022 | Amman, Jordan    |
 | [7. Tourism Technologies Day](/media/2022/tbdantalya-2022.jpg)                    | Rapid Application Innovation Through AI                     | Oct 20, 2022 | Antalya, Turkey  |
 | [Data Platform Virtual Summit 2022](https://youtu.be/th4mRf1Dw3c)                 | Discover Serverless Data for Serverless Apps.               | Sep 20, 2022 | Online           |
@@ -204,7 +204,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Microsoft Build 2021](/media/2021/rapid-innovation-build.jpg)                      | Rapid Innovation Framework in Middle East & Africa: Demo Extravaganza | May 26, 2021 | Online         |
 | [Global AI Night Istanbul 2021](https://www.youtube.com/watch?v=xMswkgNcE3k)        | Responsible ML                                                        | Apr 24, 2021 | Online         |
 | [Google DevFest Turkey](/media/2021/gdg-turkey-2021.jpg)                            | The ML Hero's Secret Weapon: AutoML                                   | Mar 12, 2021 | Online         |
-| [GDG Duzce AI Nights](/media/2021/ai-nights-2021.jpg)                               | All AI Q&A Session                                                    | Feb 28, 2021 | Online         |
+| [Google Duzce AI Nights](/media/2021/ai-nights-2021.jpg)                            | All AI Q&A Session                                                    | Feb 28, 2021 | Online         |
 | [Microsoft Turkey Developer Cloud Summit](/media/2021/ms-dev-cloud-summit-2021.jpg) | Community Talk                                                        | Feb 16, 2021 | Online         |
 | [Cozumpark Hybrid Cloud Webinar](/media/2021/cozumpark-hibrit-cozumler.jpg)         | A Developers Perspective on Hybrid Cloud                              | Jan 7, 2021  | Online         |
 
@@ -270,7 +270,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Microsoft Connect 2018](/2018/microsoft-connect-istanbul-2018/)                             | What’s new for Serverless from Microsoft Connect?                       | Dec 29, 2018 | Istanbul, Turkey        |
 | [Mediterranean IT Summit 2018](/2018/mediterranean-it-summit-2018/)                          | Applied AI                                                              | Dec 8, 2018  | Antalya, Turkey         |
 | [Azure DevOps Days Istanbul 2018](/2018/azure-devops-days-istanbul-2018/)                    | Implementing Pipeline-As-Code                                           | Dec 8, 2018  | Istanbul, Turkey        |
-| [GDG DevFest Kutahya](/2018/google-developer-group-devfest-kutahya-2018/)                    | Easy-Peasy AI : Azure Cognitive Services                                | Dec 3, 2018  | Kutahya, Turkey         |
+| [Google DevFest Kutahya](/2018/google-developer-group-devfest-kutahya-2018/)                 | Easy-Peasy AI : Azure Cognitive Services                                | Dec 3, 2018  | Kutahya, Turkey         |
 | [European Sharepoint Conference 2018](/media/2018/espc-2018.jpg)                             | CosmosDB: Jack Of All Trades, Master Of Many                            | Nov 3, 2018  | Copenhagen, Denmark     |
 | [Google DevFest Izmir 2018](/media/2018/gdg-devfest-izmir-2018.jpg)                          | Artificial Intelligence Boost for Mobile Apps: Azure Cognitive Services | Nov 3, 2018  | Izmir, Turkey           |
 | [Google DevFest Antalya 2018](/2018/google-developer-group-devfest-antalya-2018/)            | Easy-Peasy AI : Azure Cognitive Services                                | Oct 13, 2018 | Antalya, Turkey         |
