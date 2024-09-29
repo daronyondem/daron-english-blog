@@ -103,7 +103,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
-| [Emerge International Tech Conference](/media/2024-09-25-Emerge.jpg)                                                 | Human vs AI Panel, Prompt Engineering Workshop            | Sep 25, 2024 | Yerevan, Armenia        |
+| [Emerge International Tech Conference](/media/2024/2024-09-25-Emerge.jpg)                                                 | Human vs AI Panel, Prompt Engineering Workshop            | Sep 25, 2024 | Yerevan, Armenia        |
 | [Hacettepe University ACM](/media/2024/2024-08-28-Hacettepe-ACM.jpg)                                                 | Prompt Engineering                                        | Aug 28, 2024 | Online                  |
 | [METU Development Foundation Private Schools](/media/2024/2024-08-23-ODTU.jpg)                                       | Artificial Intelligence in Education                      | Aug 23, 2024 | Ankara, Turkey          |
 | [Coderspace Data Science and AI Summer School](/media/2024/2024-08-15_Coderspace.jpg)                                | Keynote                                                   | Aug 15, 2024 | Online                  |
