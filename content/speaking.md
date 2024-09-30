@@ -93,6 +93,7 @@ Here is where I'm planning to be next;
 | Google DevFest Izmir                                                                               | TBA                                                | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                | Dec 11, 2024 | Istanbul, Turkey  |
 | Google DevFest Trabzon                                                                             | TBA                                                | Dec 14, 2024 | Trabzon, Turkey   |
+| Bandirma Onyedi Eylul University                                                                   | TBA                                                | May 12, 2025 | Balikesir, Turkey |
 
 <br/>
 
