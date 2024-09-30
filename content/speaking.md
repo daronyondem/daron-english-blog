@@ -85,7 +85,6 @@ Here is where I'm planning to be next;
 | Hacettepe University ACSDays                                                                       | Prompt Engineering                                 | Oct 25, 2024 | Ankara, Turkey    |
 | Bogazici University Computer Club Data Camp                                                        | TBA                                                | Nov 3, 2021  | Istanbul, Turkey  |
 | Karel IT Strategy Day 2024                                                                         | TBA                                                | Nov 6, 2021  | Istanbul, Turkey  |
-| Dokuz Eylül University Entrepreneurship in Every Step Conference                                   | TBA                                                | Nov 7, 2021  | Istanbul, Turkey  |
 | Google DevFest Istanbul                                                                            | TBA                                                | Nov 9, 2021  | Istanbul, Turkey  |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                | Nov 15, 2024 | Istanbul, Turkey  |
 | Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                | Nov 16, 2024 | Bursa, Turkey     |
