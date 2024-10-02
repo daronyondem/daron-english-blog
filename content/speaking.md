@@ -1,11 +1,11 @@
 ---
-date: 2024-09-30
+date: 2024-10-02
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **13 countries**, totaling **320 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **13 countries**, totaling **321 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -146,26 +146,27 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                                   | AI Prototyping to Production with Promptflow              | Jan 30, 2024 | Online                  |
 
 ## 2023
-<!-- 279 event -->
+<!-- 280 event -->
 
-| Name                                                                                   | Topic                                                         | Date         | Place             |
-|----------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
-| [Google DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                             | Meet my AI Sidekick                                           | Dec 26, 2023 | Online            |
-| [Google DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                 | Meet my AI Sidekick                                           | Dec 23, 2023 | Eskisehir, Turkey |
-| [Google DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 16, 2023 | Konya, Turkey     |
-| [Getek'23](/media/2023/getek-2023.jpg)                                                 | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
-| [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png) | Meet my AI Sidekick                                           | Dec 13, 2023 | Mus, Turkey       |
-| [Google DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 9, 2023  | Bursa, Turkey     |
-| [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
-| [Google DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                         | Meet my AI Sidekick                                           | Dec 2, 2023  | Izmir, Turkey     |
-| [Emerge International Tech Conference](/media/2023/emerge-conf-2023.png)               | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
-| [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)          | Prompt Engineering                                            | Sep 06, 2023 | Online            |
-| [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                     | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
-| [Microsoft Founder's Hub Trainings](https://youtu.be/J09R0Z5cjA8)                      | Azure OpenAI 101                                              | Jun 19, 2023 | Online            |
-| [Bandirma Onyedi Eylul University](/media/2023/techno-z.jpg)                           | The Role of Artificial Intelligence in Engineering Management | May 22, 2023 | Online            |
-| [Global AI Hub Webinars](/media/2023/global-ai-hub-data-bootcamp-keynote.png)          | Generative AI for Everyone                                    | May 08, 2023 | Online            |
-| [Microsoft Azure Bootcamp 03](https://youtu.be/YipJmhZK6g4)                            | FaaS For Everyone, Everywhere                                 | May 6, 2023  | Dublin, Ireland   |
-| [Internet Week 2023](/media/2023/mugla-internet-week-2023.png)                         | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey     |
+| Name                                                                                         | Topic                                                         | Date         | Place             |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
+| [Google DevFest Isparta](/media/2023/gdg-isparta-2023.jpg)                                   | Meet my AI Sidekick                                           | Dec 26, 2023 | Online            |
+| [Google DevFest Eskisehir](/media/2023/gdg-eskisehir-2023-devfest.png)                       | Meet my AI Sidekick                                           | Dec 23, 2023 | Eskisehir, Turkey |
+| [Google DevFest Konya](/media/2023/gdg-konya-devfest-2023.png)                               | Meet my AI Sidekick                                           | Dec 16, 2023 | Konya, Turkey     |
+| [Getek'23](/media/2023/getek-2023.jpg)                                                       | Future of CoPilots and Agents                                 | Dec 14, 2023 | Istanbul, Turkey  |
+| [Mus Alparslan Universitesi Yazilim Festivali](/media/2023/mus-alparslan-uni-2023.png)       | Meet my AI Sidekick                                           | Dec 13, 2023 | Mus, Turkey       |
+| [Google DevFest Bursa](/media/2023/gdg-bursa-devfest-2023.png)                               | Meet my AI Sidekick                                           | Dec 9, 2023  | Bursa, Turkey     |
+| [AI Startup Factory Is Bank](/media/2023/AI-Startup-Factory-IsBank.png)                      | Innovation through Apps and LLMs                              | Dec 5, 2023  | Istanbul, Turkey  |
+| [Google DevFest Izmir](/media/2023/gdg-izmir-devfest-2023.png)                               | Meet my AI Sidekick                                           | Dec 2, 2023  | Izmir, Turkey     |
+| [Microsoft Airlift 2023 Engineering Conference](https://www.youtube.com/watch?v=rKdrn4EzmOg) | Living on an End to End Serverless Architecture on Azure      | Oct 19, 2023 | Online            |
+| [Emerge International Tech Conference](/media/2023/emerge-conf-2023.png)                     | How Startups Can Adapt and Thrive with Gen AI & AI in general | Oct 3, 2023  | Istanbul, Turkey  |
+| [Google Developer Groups Bursa](/media/2023/gdg-bursa-prompt-engineering.png)                | Prompt Engineering                                            | Sep 06, 2023 | Online            |
+| [Huawei Developer Group Turkey](/media/2023/huaqei-applied-ai.png)                           | Applied AI: Foundations and Future                            | Sep 3, 2023  | Online            |
+| [Microsoft Founder's Hub Trainings](https://youtu.be/J09R0Z5cjA8)                            | Azure OpenAI 101                                              | Jun 19, 2023 | Online            |
+| [Bandirma Onyedi Eylul University](/media/2023/techno-z.jpg)                                 | The Role of Artificial Intelligence in Engineering Management | May 22, 2023 | Online            |
+| [Global AI Hub Webinars](/media/2023/global-ai-hub-data-bootcamp-keynote.png)                | Generative AI for Everyone                                    | May 08, 2023 | Online            |
+| [Microsoft Azure Bootcamp 03](https://youtu.be/YipJmhZK6g4)                                  | FaaS For Everyone, Everywhere                                 | May 6, 2023  | Dublin, Ireland   |
+| [Internet Week 2023](/media/2023/mugla-internet-week-2023.png)                               | Boosting Developer Velocity Through Culture and AI            | Apr 15, 2023 | Mugla, Turkey     |
 
 ## 2022
 
