@@ -1,5 +1,5 @@
 ---
-date: 2024-10-02
+date: 2024-10-03
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,7 +92,7 @@ Here is where I'm planning to be next;
 | Google DevFest Burdur                                                                              | TBA                                                      | Nov 30, 2024 | Burdur, Turkey    |
 | Google DevFest Izmir                                                                               | TBA                                                      | Dec 7, 2024  | Izmir, Turkey     |
 | Marmara University AI Summit                                                                       | TBA                                                      | Dec 11, 2024 | Istanbul, Turkey  |
-| Google DevFest Trabzon                                                                             | TBA                                                      | Dec 14, 2024 | Trabzon, Turkey   |
+| Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey   |
 | Bandirma Onyedi Eylul University                                                                   | TBA                                                      | May 12, 2025 | Balikesir, Turkey |
 
 <br/>
