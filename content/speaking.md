@@ -1,5 +1,5 @@
 ---
-date: 2024-10-05
+date: 2024-10-06
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -79,7 +79,7 @@ Here is where I'm planning to be next;
 
 | Name                                                                                               | Topic                                                    | Date         | Place             |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|-------------------|
-| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | TBA                                                      | Oct 12, 2024 | Balikesir, Turkey |
+| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | Meet my AI Sidekick!                                     | Oct 12, 2024 | Balikesir, Turkey |
 | [TedX Duzce University](https://www.ted.com/tedx/events/58779)                                     | Bos Durma Bosa Calis                                     | Oct 17, 2024 | Duzce, Turkey     |
 | Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey    |
 | Bogazici University Computer Club Data Camp                                                        | TBA                                                      | Nov 3, 2021  | Istanbul, Turkey  |
