@@ -1,5 +1,5 @@
 ---
-date: 2024-10-06
+date: 2024-10-07
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -77,22 +77,24 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                               | Topic                                                    | Date         | Place             |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|-------------------|
-| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | Meet my AI Sidekick!                                     | Oct 12, 2024 | Balikesir, Turkey |
-| [TedX Duzce University](https://www.ted.com/tedx/events/58779)                                     | Bos Durma Bosa Calis                                     | Oct 17, 2024 | Duzce, Turkey     |
-| Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey    |
-| Bogazici University Computer Club Data Camp                                                        | TBA                                                      | Nov 3, 2021  | Istanbul, Turkey  |
-| Karel IT Strategy Day 2024                                                                         | TBA                                                      | Nov 6, 2021  | Istanbul, Turkey  |
-| Google DevFest Istanbul                                                                            | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey  |
-| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                      | Nov 15, 2024 | Istanbul, Turkey  |
-| Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                      | Nov 16, 2024 | Bursa, Turkey     |
-| Yildiz Technical University Innovation Summit                                                      | TBA                                                      | Nov 29, 2024 | Istanbul, Turkey  |
-| Google DevFest Burdur                                                                              | TBA                                                      | Nov 30, 2024 | Burdur, Turkey    |
-| Google DevFest Izmir                                                                               | TBA                                                      | Dec 7, 2024  | Izmir, Turkey     |
-| Marmara University AI Summit                                                                       | TBA                                                      | Dec 11, 2024 | Istanbul, Turkey  |
-| Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey   |
-| Bandirma Onyedi Eylul University                                                                   | TBA                                                      | May 12, 2025 | Balikesir, Turkey |
+| Name                                                                                               | Topic                                                    | Date         | Place              |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|--------------------|
+| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | Meet my AI Sidekick!                                     | Oct 12, 2024 | Balikesir, Turkey  |
+| [TedX Duzce University](https://www.ted.com/tedx/events/58779)                                     | Bos Durma Bosa Calis                                     | Oct 17, 2024 | Duzce, Turkey      |
+| Turkish Informatics Association TeknoVizyon Conference                                             | Combining Human and AI Talents for Your Next Team!       | Oct 24, 2024 | Kayseri, Turkey    |
+| Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey     |
+| Bogazici University Computer Club Data Camp                                                        | TBA                                                      | Nov 3, 2021  | Istanbul, Turkey   |
+| Karel IT Strategy Day 2024                                                                         | TBA                                                      | Nov 6, 2021  | Istanbul, Turkey   |
+| Google DevFest Istanbul                                                                            | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey   |
+| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                      | Nov 15, 2024 | Istanbul, Turkey   |
+| Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                      | Nov 16, 2024 | Bursa, Turkey      |
+| Yildiz Technical University Innovation Summit                                                      | TBA                                                      | Nov 29, 2024 | Istanbul, Turkey   |
+| Google DevFest Burdur                                                                              | TBA                                                      | Nov 30, 2024 | Burdur, Turkey     |
+| Google DevFest Izmir                                                                               | TBA                                                      | Dec 7, 2024  | Izmir, Turkey      |
+| TedX Diyarbakir                                                                                    | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey |
+| Marmara University AI Summit                                                                       | TBA                                                      | Dec 11, 2024 | Istanbul, Turkey   |
+| Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey    |
+| Bandirma Onyedi Eylul University                                                                   | TBA                                                      | May 12, 2025 | Balikesir, Turkey  |
 
 <br/>
 
