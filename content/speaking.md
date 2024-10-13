@@ -1,11 +1,11 @@
 ---
-date: 2024-10-11
+date: 2024-10-13
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **13 countries**, totaling **322 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **64 universities** and engage audiences in more than **13 countries**, totaling **323 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -79,7 +79,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                               | Topic                                                    | Date         | Place              |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|--------------------|
-| [Balikesir University Industry Days](https://www.linkedin.com/company/ebitet/)                     | Meet my AI Sidekick!                                     | Oct 12, 2024 | Balikesir, Turkey  |
 | [TedX Duzce University](https://www.ted.com/tedx/events/58779)                                     | Bos Durma Bosa Calis                                     | Oct 17, 2024 | Duzce, Turkey      |
 | Turkish Informatics Association TeknoVizyon Conference                                             | Combining Human and AI Talents for Your Next Team!       | Oct 24, 2024 | Kayseri, Turkey    |
 | Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey     |
@@ -105,6 +104,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Balikesir University Industry Days](/media/2024/2024-10-12_Balikesir.jpg)                                           | Meet my AI Sidekick!                                      | Oct 12, 2024 | Balikesir, Turkey       |
 | [PMI Turkey Summit](/media/2024/2024-10-04-PMI-TR.jpg)                                                               | Combining Human and AI Talents for Your Next Team!        | Oct 4, 2024  | Istanbul, Turkey        |
 | [Emerge International Tech Conference](/media/2024/2024-09-25-Emerge.jpg)                                            | Human vs AI Panel, Prompt Engineering Workshop            | Sep 25, 2024 | Yerevan, Armenia        |
 | [Hacettepe University ACM](/media/2024/2024-08-28-Hacettepe-ACM.jpg)                                                 | Prompt Engineering                                        | Aug 28, 2024 | Online                  |
