@@ -1,5 +1,5 @@
 ---
-date: 2024-10-13
+date: 2024-10-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -90,7 +90,7 @@ Here is where I'm planning to be next;
 | Bursa University 3rd Artificial Intelligence Summit                                                | TBA                                                      | Nov 16, 2024 | Bursa, Turkey      |
 | Yildiz Technical University Innovation Summit                                                      | TBA                                                      | Nov 29, 2024 | Istanbul, Turkey   |
 | Google DevFest Burdur                                                                              | TBA                                                      | Nov 30, 2024 | Burdur, Turkey     |
-| Google DevFest Izmir                                                                               | TBA                                                      | Dec 7, 2024  | Izmir, Turkey      |
+| Google DevFest Izmir                                                                               | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey      |
 | TedX Diyarbakir                                                                                    | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey |
 | Marmara University AI Summit                                                                       | TBA                                                      | Dec 11, 2024 | Istanbul, Turkey   |
 | Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey    |
