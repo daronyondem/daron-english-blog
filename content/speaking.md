@@ -79,7 +79,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                               | Topic                                                    | Date         | Place              |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|--------------------|
-| Turkish Informatics Association TeknoVizyon Conference                                             | Combining Human and AI Talents for Your Next Team!       | Oct 24, 2024 | Kayseri, Turkey    |
 | Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey     |
 | TED University                                                                                     | Meet my AI Sidekick!                                     | Oct 25, 2024 | Ankara, Turkey     |
 | Bogazici University Computer Club Data Camp                                                        | Prompt Engineering                                       | Nov 3, 2021  | Istanbul, Turkey   |
