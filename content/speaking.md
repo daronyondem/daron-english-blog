@@ -1,5 +1,5 @@
 ---
-date: 2024-10-20
+date: 2024-10-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -79,7 +79,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                               | Topic                                                    | Date         | Place              |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|--------------------|
-| Hacettepe University ACSDays                                                                       | Prompt Engineering                                       | Oct 25, 2024 | Ankara, Turkey     |
 | TED University                                                                                     | Meet my AI Sidekick!                                     | Oct 25, 2024 | Ankara, Turkey     |
 | Bogazici University Computer Club Data Camp                                                        | Prompt Engineering                                       | Nov 3, 2021  | Istanbul, Turkey   |
 | Google DevFest Istanbul                                                                            | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey   |
@@ -101,6 +100,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Hacettepe University ACSDays](/media/2024/2024-10-25-ACM-Hacettepe.jpg)                                             | Prompt Engineering                                        | Oct 25, 2024 | Ankara, Turkey          |
 | [TedX Duzce University](/media/2024/2024-10-17-TedX-Duzce-University.jpg)                                            | Bos Durma Bosa Calis                                      | Oct 17, 2024 | Duzce, Turkey           |
 | [Balikesir University Industry Days](/media/2024/2024-10-12_Balikesir.jpg)                                           | Meet my AI Sidekick!                                      | Oct 12, 2024 | Balikesir, Turkey       |
 | [PMI Turkey Summit](/media/2024/2024-10-04-PMI-TR.jpg)                                                               | Combining Human and AI Talents for Your Next Team!        | Oct 4, 2024  | Istanbul, Turkey        |
