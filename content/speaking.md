@@ -5,7 +5,7 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **65 universities** and engage audiences in more than **13 countries**, totaling **326 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **65 universities** and engage audiences in more than **13 countries**, totaling **327 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -102,6 +102,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
 | [TED University](/media/2024/2024-10-25-TED-University.jpg)                                                          | Meet my AI Sidekick!                                      | Oct 25, 2024 | Ankara, Turkey          |
 | [Hacettepe University ACSDays](/media/2024/2024-10-25-ACM-Hacettepe.jpg)                                             | Prompt Engineering                                        | Oct 25, 2024 | Ankara, Turkey          |
+| [Tech Experts Meet in Kayseri](/media/2024/2024-10-24_Kayseri.jpg)                                                   | Career Discussion                                         | Oct 24, 2024 | Kayseri, Turkey         |
 | [TedX Duzce University](/media/2024/2024-10-17-TedX-Duzce-University.jpg)                                            | Bos Durma Bosa Calis                                      | Oct 17, 2024 | Duzce, Turkey           |
 | [Balikesir University Industry Days](/media/2024/2024-10-12_Balikesir.jpg)                                           | Meet my AI Sidekick!                                      | Oct 12, 2024 | Balikesir, Turkey       |
 | [PMI Turkey Summit](/media/2024/2024-10-04-PMI-TR.jpg)                                                               | Combining Human and AI Talents for Your Next Team!        | Oct 4, 2024  | Istanbul, Turkey        |
