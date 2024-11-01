@@ -82,7 +82,7 @@ Here is where I'm planning to be next;
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
 | Bogazici University Computer Club Data Camp                                                        | Prompt Engineering                                       | Nov 3, 2021  | Istanbul, Turkey    |
 | Google DevFest Istanbul                                                                            | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey    |
-| Abant Izzet Baysal University                                                                      | TBA                                                      | Nov 13, 2024 | Bolu, Turkey        |
+| Abant Izzet Baysal University                                                                      | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey        |
 | [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                      | Nov 15, 2024 | Istanbul, Turkey    |
 | Bursa University 3rd Artificial Intelligence Summit                                                | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey       |
 | Young MÜSİAD Business Academy                                                                      | TBA                                                      | Nov 18, 2024 | Batman, Turkey      |
