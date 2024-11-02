@@ -94,6 +94,7 @@ Here is where I'm planning to be next;
 | Google DevFest Afyon                                                                               | TBA                                                      | Dec 13, 2024 | Afyonkarahisar, Turkey |
 | Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey        |
 | Marmara University Statistics and Data Science Summit                                              | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey       |
+| Bilgi University Entrepreneurship Conference                                                       | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey       |
 | Bandirma Onyedi Eylul University                                                                   | TBA                                                      | May 12, 2025 | Balikesir, Turkey      |
 | European AI and Cloud Summit                                                                       | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany    |
 
