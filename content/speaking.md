@@ -92,8 +92,8 @@ Here is where I'm planning to be next;
 | Marmara University AI Summit                                                                       | Meet my AI Sidekick                                      | Dec 11, 2024 | Istanbul, Turkey       |
 | Google DevFest Afyon                                                                               | TBA                                                      | Dec 13, 2024 | Afyonkarahisar, Turkey |
 | Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey        |
-| Recep Tayyip Erdogan University                                                                    | Meet my AI Sidekick                                      | Dec 14, 2024 | Rize, Turkey           |
-| Beykent University                                                                                 | TBA                                                      | Jan 9, 2025  | Istanbul, Turkey       |
+| Recep Tayyip Erdogan University                                                                    | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey           |
+| Beykent University                                                                                 | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey       |
 | Marmara University Statistics and Data Science Summit                                              | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey       |
 | Bilgi University Entrepreneurship Conference                                                       | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey       |
 | Bandirma Onyedi Eylul University                                                                   | TBA                                                      | May 12, 2025 | Balikesir, Turkey      |
