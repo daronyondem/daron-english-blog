@@ -88,7 +88,6 @@ Here is where I'm planning to be next;
 | Google DevFest Burdur                                                                              | TBA                                                      | Nov 30, 2024 | Burdur, Turkey         |
 | Google DevFest Izmir                                                                               | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey          |
 | TedX Diyarbakir                                                                                    | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey     |
-| Marmara University AI Summit                                                                       | Meet my AI Sidekick                                      | Dec 11, 2024 | Istanbul, Turkey       |
 | Google DevFest Afyon                                                                               | TBA                                                      | Dec 13, 2024 | Afyonkarahisar, Turkey |
 | Google DevFest Trabzon                                                                             | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey        |
 | Recep Tayyip Erdogan University                                                                    | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey           |
