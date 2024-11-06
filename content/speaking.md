@@ -1,5 +1,5 @@
 ---
-date: 2024-09-04
+date: 2024-09-06
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -82,7 +82,6 @@ Here is where I'm planning to be next;
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|------------------------|
 | Google DevFest Istanbul                                                                            | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey       |
 | Abant Izzet Baysal University                                                                      | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey           |
-| [Rumeli University AI Summit](https://coderspace.io/etkinlikler/veri-bilimi-yapay-zeka-yaz-okulu/) | TBA                                                      | Nov 15, 2024 | Istanbul, Turkey       |
 | Bursa University 3rd Artificial Intelligence Summit                                                | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey          |
 | Young MÜSİAD Business Academy                                                                      | TBA                                                      | Nov 18, 2024 | Batman, Turkey         |
 | Yildiz Technical University Innovation Summit                                                      | TBA                                                      | Nov 29, 2024 | Istanbul, Turkey       |
