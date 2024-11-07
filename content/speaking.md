@@ -81,6 +81,7 @@ Here is where I'm planning to be next;
 | Name                                                  | Topic                                                    | Date         | Place                  |
 |-------------------------------------------------------|----------------------------------------------------------|--------------|------------------------|
 | Google DevFest Istanbul                               | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey       |
+| Malatya Inonu University                              | Meet my AI Sidekick!                                     | Nov 11, 2021 | Malatya, Turkey        |
 | Abant Izzet Baysal University                         | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey           |
 | Bursa University 3rd Artificial Intelligence Summit   | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey          |
 | Young MÜSİAD Business Academy                         | TBA                                                      | Nov 18, 2024 | Batman, Turkey         |
