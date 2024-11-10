@@ -1,11 +1,11 @@
 ---
-date: 2024-09-07
+date: 2024-09-10
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **65 universities** and engage audiences in more than **13 countries**, totaling **328 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **65 universities** and engage audiences in more than **13 countries**, totaling **329 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -80,7 +80,6 @@ Here is where I'm planning to be next;
 
 | Name                                                  | Topic                                                    | Date         | Place                  |
 |-------------------------------------------------------|----------------------------------------------------------|--------------|------------------------|
-| Google DevFest Istanbul                               | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 9, 2021  | Istanbul, Turkey       |
 | Malatya Inonu University                              | Meet my AI Sidekick!                                     | Nov 11, 2021 | Malatya, Turkey        |
 | Abant Izzet Baysal University                         | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey           |
 | Bursa University 3rd Artificial Intelligence Summit   | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey          |
@@ -107,6 +106,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Google DevFest Istanbul](/media/2024/2024-11-09-devfest-istanbul.jpg)                                               | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 9, 2021  | Istanbul, Turkey        |
 | [Bogazici University Computer Club Data Camp](/media/2024/2024-11-03-BOUN.jpg)                                       | Prompt Engineering                                        | Nov 3, 2021  | Istanbul, Turkey        |
 | [TED University](/media/2024/2024-10-25-TED-University.jpg)                                                          | Meet my AI Sidekick!                                      | Oct 25, 2024 | Ankara, Turkey          |
 | [Hacettepe University ACSDays](/media/2024/2024-10-25-ACM-Hacettepe.jpg)                                             | Prompt Engineering                                        | Oct 25, 2024 | Ankara, Turkey          |
