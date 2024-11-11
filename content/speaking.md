@@ -1,5 +1,5 @@
 ---
-date: 2024-09-10
+date: 2024-09-11
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -89,7 +89,6 @@ Here is where I'm planning to be next;
 | Intel AI DevSummit WorldWide 2024                     | Building Agentic LLM Workflows with AutoGen              | Dec 5, 2024  | Online                 |
 | Google DevFest Izmir                                  | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey          |
 | TedX Diyarbakir                                       | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey     |
-| Google DevFest Afyon                                  | TBA                                                      | Dec 13, 2024 | Afyonkarahisar, Turkey |
 | Google DevFest Trabzon                                | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey        |
 | Recep Tayyip Erdogan University                       | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey           |
 | Beykent University                                    | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey       |
