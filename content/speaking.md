@@ -78,23 +78,23 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                  | Topic                                                    | Date         | Place                  |
-|-------------------------------------------------------|----------------------------------------------------------|--------------|------------------------|
-| Abant Izzet Baysal University                         | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey           |
-| Bursa University 3rd Artificial Intelligence Summit   | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey          |
-| Young MÜSİAD Business Academy                         | TBA                                                      | Nov 18, 2024 | Batman, Turkey         |
-| Yildiz Technical University Innovation Summit         | Meet my AI Sidekick!                                     | Nov 29, 2024 | Istanbul, Turkey       |
-| Google DevFest Burdur                                 | TBA                                                      | Nov 30, 2024 | Burdur, Turkey         |
-| Intel AI DevSummit WorldWide 2024                     | Building Agentic LLM Workflows with AutoGen              | Dec 5, 2024  | Online                 |
-| Google DevFest Izmir                                  | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey          |
-| TedX Diyarbakir                                       | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey     |
-| Google DevFest Trabzon                                | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey        |
-| Recep Tayyip Erdogan University                       | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey           |
-| Beykent University                                    | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey       |
-| Marmara University Statistics and Data Science Summit | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey       |
-| Bilgi University Entrepreneurship Conference          | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey       |
-| Bandirma Onyedi Eylul University                      | TBA                                                      | May 12, 2025 | Balikesir, Turkey      |
-| European AI and Cloud Summit                          | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany    |
+| Name                                                  | Topic                                                    | Date         | Place               |
+|-------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
+| Abant Izzet Baysal University                         | Meet my AI Sidekick!                                     | Nov 13, 2024 | Bolu, Turkey        |
+| Bursa University 3rd Artificial Intelligence Summit   | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey       |
+| Young MÜSİAD Business Academy                         | TBA                                                      | Nov 18, 2024 | Batman, Turkey      |
+| Yildiz Technical University Innovation Summit         | Meet my AI Sidekick!                                     | Nov 29, 2024 | Istanbul, Turkey    |
+| Google DevFest Burdur                                 | TBA                                                      | Nov 30, 2024 | Burdur, Turkey      |
+| Intel AI DevSummit WorldWide 2024                     | Building Agentic LLM Workflows with AutoGen              | Dec 5, 2024  | Online              |
+| Google DevFest Izmir                                  | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey       |
+| TedX Fabrika                                          | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
+| Google DevFest Trabzon                                | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
+| Recep Tayyip Erdogan University                       | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
+| Beykent University                                    | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
+| Marmara University Statistics and Data Science Summit | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
+| Bilgi University Entrepreneurship Conference          | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
+| Bandirma Onyedi Eylul University                      | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
+| European AI and Cloud Summit                          | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
