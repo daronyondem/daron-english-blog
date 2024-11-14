@@ -82,7 +82,7 @@ Here is where I'm planning to be next;
 | Name                                                       | Topic                                                    | Date         | Place               |
 |------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
 | Bursa University 3rd Artificial Intelligence Summit        | Prompt Engineering                                       | Nov 16, 2024 | Bursa, Turkey       |
-| Young MÜSİAD Business Academy                              | TBA                                                      | Nov 18, 2024 | Batman, Turkey      |
+| Young MÜSİAD Business Academy                              | Artificial Intelligence and Entrepreneurship             | Nov 18, 2024 | Batman, Turkey      |
 | Yildiz Technical University Innovation Summit              | Meet my AI Sidekick!                                     | Nov 29, 2024 | Istanbul, Turkey    |
 | Google DevFest Burdur                                      | TBA                                                      | Nov 30, 2024 | Burdur, Turkey      |
 | Intel AI DevSummit WorldWide 2024                          | Building Agentic LLM Workflows with AutoGen              | Dec 5, 2024  | Online              |
