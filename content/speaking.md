@@ -1,5 +1,5 @@
 ---
-date: 2024-09-14
+date: 2024-09-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -90,6 +90,7 @@ Here is where I'm planning to be next;
 | TedX Fabrika                                               | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
 | Google DevFest Trabzon                                     | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
 | Recep Tayyip Erdogan University                            | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
+| Koc University                                             | Meet my AI Sidekick!                                     | Dec 15, 2024 | Istanbul, Turkey    |
 | Beykent University                                         | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/) | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
 | Marmara University Statistics and Data Science Summit      | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
