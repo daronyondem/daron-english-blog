@@ -1,5 +1,5 @@
 ---
-date: 2024-09-19
+date: 2024-09-21
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -106,7 +106,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
 | [Young MÜSİAD Business Academy](/media/2024/2024-11-18-Batman.jpg)                                                   | Artificial Intelligence and Entrepreneurship              | Nov 18, 2024 | Batman, Turkey          |
-| [Bursa University 3rd Artificial Intelligence Summit](/media/2024/2024-11-16-Uludag.jpg)                             | Prompt Engineering                                        | Nov 16, 2024 | Bursa, Turkey           |
+| [Uludag University 3rd Artificial Intelligence Summit](/media/2024/2024-11-16-Uludag.jpg)                            | Prompt Engineering                                        | Nov 16, 2024 | Bursa, Turkey           |
 | [Abant Izzet Baysal University](/media/2024/2024-11-13_Abant.jpg)                                                    | Meet my AI Sidekick!                                      | Nov 13, 2024 | Bolu, Turkey            |
 | [Malatya Inonu University](/media/2024/2024-11-11-Malatya-Inonu-Uni.jpg)                                             | Meet my AI Sidekick!                                      | Nov 11, 2021 | Malatya, Turkey         |
 | [Google DevFest Istanbul](/media/2024/2024-11-09-devfest-istanbul.jpg)                                               | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 9, 2021  | Istanbul, Turkey        |
