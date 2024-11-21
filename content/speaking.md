@@ -83,7 +83,6 @@ Here is where I'm planning to be next;
 |------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
 | Yildiz Technical University Innovation Summit              | Meet my AI Sidekick!                                     | Nov 29, 2024 | Istanbul, Turkey    |
 | Google DevFest Burdur                                      | Orchestrating Intelligence with Multi-Agent AI Workflows | Nov 30, 2024 | Burdur, Turkey      |
-| Intel AI DevSummit WorldWide 2024                          | Building Agentic LLM Workflows with AutoGen              | Dec 5, 2024  | Online              |
 | Google DevFest Izmir                                       | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey       |
 | TedX Fabrika                                               | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
 | Google DevFest Trabzon                                     | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
