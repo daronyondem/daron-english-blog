@@ -1,5 +1,5 @@
 ---
-date: 2024-09-21
+date: 2024-09-22
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,6 +92,7 @@ Here is where I'm planning to be next;
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/) | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
 | Ankara Yıldırım Beyazıt University                         | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
 | Marmara University Statistics and Data Science Summit      | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
+| IEEE Trakya University Industry and Technology Conference  | TBA                                                      | Mar 8, 2025  | Edirne, Turkey      |
 | Bilgi University Entrepreneurship Conference               | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
 | Bandirma Onyedi Eylul University                           | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                               | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
