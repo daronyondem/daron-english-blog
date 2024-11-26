@@ -1,5 +1,5 @@
 ---
-date: 2024-09-23
+date: 2024-09-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -88,7 +88,7 @@ Here is where I'm planning to be next;
 | Google DevFest Trabzon                                     | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
 | Recep Tayyip Erdogan University                            | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
 | Koc University                                             | Meet my AI Sidekick!                                     | Dec 15, 2024 | Istanbul, Turkey    |
-| Medipol University                                         | Tech and Innovation Panel                                | Jan 9, 2025  | Istanbul, Turkey    |
+| Medipol University                                         | Tech and Innovation Panel                                | Jan 8, 2025  | Istanbul, Turkey    |
 | Beykent University                                         | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/) | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
 | Ankara Yıldırım Beyazıt University                         | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
