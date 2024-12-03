@@ -1,5 +1,5 @@
 ---
-date: 2024-12-01
+date: 2024-12-03
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -90,6 +90,7 @@ Here is where I'm planning to be next;
 | Beykent University                                         | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/) | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
 | Ankara Yıldırım Beyazıt University                         | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
+| Istanbul Technical University Leadership Clup              | TBA                                                      | Feb 24, 2025 | Istanbul, Turkey    |
 | Marmara University Statistics and Data Science Summit      | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
 | IEEE Trakya University Industry and Technology Conference  | TBA                                                      | Mar 8, 2025  | Edirne, Turkey      |
 | Bilgi University Entrepreneurship Conference               | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
