@@ -79,24 +79,24 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                          | Topic                                                    | Date         | Place               |
-|-------------------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Google DevFest Izmir                                                          | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey       |
-| TedX Fabrika                                                                  | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
-| Google DevFest Trabzon                                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
-| Recep Tayyip Erdogan University                                               | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
-| Koc University                                                                | Meet my AI Sidekick!                                     | Dec 15, 2024 | Istanbul, Turkey    |
-| [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events) | Prompt Engineering                                       | Jan 7, 2025  | Online              |
-| Medipol University                                                            | Tech and Innovation Panel                                | Jan 8, 2025  | Istanbul, Turkey    |
-| Beykent University                                                            | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
-| [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)                    | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
-| Ankara Yıldırım Beyazıt University                                            | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
-| Istanbul Technical University Leadership Clup                                 | TBA                                                      | Feb 24, 2025 | Istanbul, Turkey    |
-| Marmara University Statistics and Data Science Summit                         | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
-| IEEE Trakya University Industry and Technology Conference                     | TBA                                                      | Mar 8, 2025  | Edirne, Turkey      |
-| Bilgi University Entrepreneurship Conference                                  | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
-| Bandirma Onyedi Eylul University                                              | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
-| European AI and Cloud Summit                                                  | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
+| Name                                                                                                                   | Topic                                                    | Date         | Place               |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
+| Google DevFest Izmir                                                                                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey       |
+| TedX Fabrika                                                                                                           | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
+| Google DevFest Trabzon                                                                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
+| Recep Tayyip Erdogan University                                                                                        | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
+| Koc University                                                                                                         | Meet my AI Sidekick!                                     | Dec 15, 2024 | Istanbul, Turkey    |
+| [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                       | Jan 7, 2025  | Online              |
+| Medipol University                                                                                                     | Tech and Innovation Panel                                | Jan 8, 2025  | Istanbul, Turkey    |
+| Beykent University                                                                                                     | Meet my AI Sidekick!                                     | Jan 9, 2025  | Istanbul, Turkey    |
+| [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)                                                             | TBA                                                      | Jan 18, 2025 | Istanbul, Turkey    |
+| Ankara Yıldırım Beyazıt University                                                                                     | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
+| Istanbul Technical University Leadership Clup                                                                          | TBA                                                      | Feb 24, 2025 | Istanbul, Turkey    |
+| Marmara University Statistics and Data Science Summit                                                                  | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
+| IEEE Trakya University Industry and Technology Conference                                                              | TBA                                                      | Mar 8, 2025  | Edirne, Turkey      |
+| Bilgi University Entrepreneurship Conference                                                                           | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
+| Bandirma Onyedi Eylul University                                                                                       | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
+| European AI and Cloud Summit                                                                                           | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
