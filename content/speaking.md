@@ -1,5 +1,5 @@
 ---
-date: 2024-12-04
+date: 2024-12-05
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -82,7 +82,7 @@ Here is where I'm planning to be next;
 | Name                                                                                                                   | Topic                                                    | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
 | Google DevFest Izmir                                                                                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 7, 2024  | Izmir, Turkey       |
-| TedX Fabrika                                                                                                           | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
+| [TedX Fabrika](https://www.ted.com/tedx/events/59655)                                                                  | TBA                                                      | Dec 8, 2024  | Diyarbakir, Turkey  |
 | Google DevFest Trabzon                                                                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows | Dec 14, 2024 | Trabzon, Turkey     |
 | Recep Tayyip Erdogan University                                                                                        | Meet my AI Sidekick!                                     | Dec 14, 2024 | Rize, Turkey        |
 | Koc University                                                                                                         | Meet my AI Sidekick!                                     | Dec 15, 2024 | Istanbul, Turkey    |
