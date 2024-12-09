@@ -1,5 +1,5 @@
 ---
-date: 2024-12-05
+date: 2024-12-09
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -81,7 +81,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                   | Topic                                                          | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| Google DevFest Izmir                                                                                                   | Orchestrating Intelligence with Multi-Agent AI Workflows       | Dec 7, 2024  | Izmir, Turkey       |
 | [TedX Fabrika](https://www.ted.com/tedx/events/59655)                                                                  | TBA                                                            | Dec 8, 2024  | Diyarbakir, Turkey  |
 | Google DevFest Trabzon                                                                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows       | Dec 14, 2024 | Trabzon, Turkey     |
 | Recep Tayyip Erdogan University                                                                                        | Meet my AI Sidekick!                                           | Dec 14, 2024 | Rize, Turkey        |
@@ -107,6 +106,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Google DevFest Izmir](/media/2024/2024-12-07_GDG-DevFest-Izmir.jpg)                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 7, 2024  | Izmir, Turkey           |
 | [Google DevFest Burdur](/media/2024/2024-11-30-GDG-Burdur.jpg)                                                       | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 30, 2024 | Burdur, Turkey          |
 | [Yildiz Technical University Innovation Summit](/media/2024/2024-11-29-Yildiz-Teknik.jpg)                            | Meet my AI Sidekick!                                      | Nov 29, 2024 | Istanbul, Turkey        |
 | [Young MÜSİAD Business Academy](/media/2024/2024-11-18-Batman.jpg)                                                   | Artificial Intelligence and Entrepreneurship              | Nov 18, 2024 | Batman, Turkey          |
