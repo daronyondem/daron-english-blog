@@ -5,7 +5,7 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **66 universities** and engage audiences in more than **13 countries**, totaling **335 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **66 universities** and engage audiences in more than **13 countries**, totaling **337 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -81,7 +81,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                   | Topic                                                          | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| [TedX Fabrika](https://www.ted.com/tedx/events/59655)                                                                  | TBA                                                            | Dec 8, 2024  | Diyarbakir, Turkey  |
 | Google DevFest Trabzon                                                                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows       | Dec 14, 2024 | Trabzon, Turkey     |
 | Recep Tayyip Erdogan University                                                                                        | Meet my AI Sidekick!                                           | Dec 14, 2024 | Rize, Turkey        |
 | Koc University                                                                                                         | Meet my AI Sidekick!                                           | Dec 15, 2024 | Istanbul, Turkey    |
@@ -107,6 +106,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [TedX Fabrika](/media/2024/2024-12-08-TedX-Fabrika.jpg)                                                              | Artificial Intelligence As You Know It                    | Dec 8, 2024  | Diyarbakir, Turkey      |
 | [Google DevFest Izmir](/media/2024/2024-12-07_GDG-DevFest-Izmir.jpg)                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 7, 2024  | Izmir, Turkey           |
 | [Google DevFest Burdur](/media/2024/2024-11-30-GDG-Burdur.jpg)                                                       | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 30, 2024 | Burdur, Turkey          |
 | [Yildiz Technical University Innovation Summit](/media/2024/2024-11-29-Yildiz-Teknik.jpg)                            | Meet my AI Sidekick!                                      | Nov 29, 2024 | Istanbul, Turkey        |
