@@ -66,12 +66,6 @@ github = "https://github.com/daronyondem"
 	url = "/tags/"
 	weight = 6
 
-[[menu.main]]
-	name = "Subscribe"
-	identifier = "subscribe"
-	url = "https://superpeer.com/daronyondem/community"
-	weight = 7
-
 [privacy]
   [privacy.disqus]
     disable = false
