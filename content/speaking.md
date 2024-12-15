@@ -1,5 +1,5 @@
 ---
-date: 2024-12-13
+date: 2024-12-15
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -81,8 +81,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                   | Topic                                                          | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| Google DevFest Trabzon                                                                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows       | Dec 14, 2024 | Trabzon, Turkey     |
-| Recep Tayyip Erdogan University                                                                                        | Meet my AI Sidekick!                                           | Dec 14, 2024 | Rize, Turkey        |
 | Koc University                                                                                                         | Meet my AI Sidekick!                                           | Dec 15, 2024 | Istanbul, Turkey    |
 | TedX                                                                                                                   | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
 | [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 7, 2025  | Online              |
@@ -108,6 +106,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Google DevFest Trabzon](/media/2024/2024-12-14_GDG-DevFest-Trabzon.jpg)                                             | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 14, 2024 | Online                  |
 | [TedX Fabrika](/media/2024/2024-12-08-TedX-Fabrika.jpg)                                                              | Artificial Intelligence As You Know It                    | Dec 8, 2024  | Diyarbakir, Turkey      |
 | [Google DevFest Izmir](/media/2024/2024-12-07_GDG-DevFest-Izmir.jpg)                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 7, 2024  | Izmir, Turkey           |
 | [Google DevFest Burdur](/media/2024/2024-11-30-GDG-Burdur.jpg)                                                       | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 30, 2024 | Burdur, Turkey          |
