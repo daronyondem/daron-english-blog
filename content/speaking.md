@@ -5,7 +5,7 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **66 universities** and engage audiences in more than **13 countries**, totaling **338 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **66 universities** and engage audiences in more than **13 countries**, totaling **339 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -81,7 +81,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                   | Topic                                                          | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| Koc University                                                                                                         | Meet my AI Sidekick!                                           | Dec 15, 2024 | Istanbul, Turkey    |
 | TedX                                                                                                                   | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
 | [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 7, 2025  | Online              |
 | Medipol University                                                                                                     | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey    |
@@ -103,9 +102,11 @@ Here is where I'm planning to be next;
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
 
 ## 2024
+<!-- 339 event -->
 
 | Name                                                                                                                 | Topic                                                     | Date         | Place                   |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| [Koc University](/media/2024/2024-12-15-Koc-University.jpg)                                                          | Meet my AI Sidekick!                                      | Dec 15, 2024 | Istanbul, Turkey        |
 | [Google DevFest Trabzon](/media/2024/2024-12-14_GDG-DevFest-Trabzon.jpg)                                             | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 14, 2024 | Online                  |
 | [TedX Fabrika](/media/2024/2024-12-08-TedX-Fabrika.jpg)                                                              | Artificial Intelligence As You Know It                    | Dec 8, 2024  | Diyarbakir, Turkey      |
 | [Google DevFest Izmir](/media/2024/2024-12-07_GDG-DevFest-Izmir.jpg)                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 7, 2024  | Izmir, Turkey           |
@@ -166,7 +167,6 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Epic AI Dev Summit](/media/2024/2024-01-31-EpicAIDev-WebPage.png)                                                   | AI Prototyping to Production with Promptflow              | Jan 30, 2024 | Online                  |
 
 ## 2023
-<!-- 280 event -->
 
 | Name                                                                                         | Topic                                                         | Date         | Place             |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|-------------------|
