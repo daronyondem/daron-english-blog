@@ -1,5 +1,5 @@
 ---
-date: 2024-12-15
+date: 2024-12-19
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -81,13 +81,14 @@ Here is where I'm planning to be next;
 
 | Name                                                                                                                   | Topic                                                          | Date         | Place               |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| TedX                                                                                                                   | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
+| TEDx                                                                                                                   | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
 | [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 7, 2025  | Online              |
 | Medipol University                                                                                                     | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey    |
 | Beykent University                                                                                                     | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey    |
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)                                                             | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey    |
 | Ankara Yıldırım Beyazıt University                                                                                     | TBA                                                            | Feb 10, 2025 | Ankara, Turkey      |
 | Istanbul Technical University Leadership Clup                                                                          | TBA                                                            | Feb 24, 2025 | Istanbul, Turkey    |
+| TEDx Gebze Technical University                                                                                         | TBA                                                            | Feb 25, 2025 | Kocaeli, Turkey     |
 | Intel AI DevSummit WorldWide 2024                                                                                      | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit                                                                  | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey    |
 | Bandırma Onyedi Eylül University                                                                                       | TBA                                                            | Mar 7, 2025  | Balikesir, Turkey   |
@@ -108,7 +109,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|-------------------------|
 | [Koc University](/media/2024/2024-12-15-Koc-University.jpg)                                                          | Meet my AI Sidekick!                                      | Dec 15, 2024 | Istanbul, Turkey        |
 | [Google DevFest Trabzon](/media/2024/2024-12-14_GDG-DevFest-Trabzon.jpg)                                             | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 14, 2024 | Online                  |
-| [TedX Fabrika](/media/2024/2024-12-08-TedX-Fabrika.jpg)                                                              | Artificial Intelligence As You Know It                    | Dec 8, 2024  | Diyarbakir, Turkey      |
+| [TEDx Fabrika](/media/2024/2024-12-08-TedX-Fabrika.jpg)                                                              | Artificial Intelligence As You Know It                    | Dec 8, 2024  | Diyarbakir, Turkey      |
 | [Google DevFest Izmir](/media/2024/2024-12-07_GDG-DevFest-Izmir.jpg)                                                 | Orchestrating Intelligence with Multi-Agent AI Workflows  | Dec 7, 2024  | Izmir, Turkey           |
 | [Google DevFest Burdur](/media/2024/2024-11-30-GDG-Burdur.jpg)                                                       | Orchestrating Intelligence with Multi-Agent AI Workflows  | Nov 30, 2024 | Burdur, Turkey          |
 | [Yildiz Technical University Innovation Summit](/media/2024/2024-11-29-Yildiz-Teknik.jpg)                            | Meet my AI Sidekick!                                      | Nov 29, 2024 | Istanbul, Turkey        |
