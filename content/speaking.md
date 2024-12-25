@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20
+date: 2024-12-25
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -83,7 +83,7 @@ Here is where I'm planning to be next;
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
 | TEDx Karadeniz Technical University                                                                                    | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
 | Istanbul Erkek Lisesi                                                                                                  | Meet my AI Sidekick!                                           | Jan 6, 2025  | Istanbul, Turkey    |
-| [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 7, 2025  | Online              |
+| [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 8, 2025  | Online              |
 | Medipol University                                                                                                     | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey    |
 | Beykent University                                                                                                     | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey    |
 | [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)                                                             | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey    |
