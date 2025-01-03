@@ -39,7 +39,7 @@ My coaching journey is flourishing on multiple fronts. At Microsoft, I'm proud t
 
 ## Giving Back
 
-I really went all out with speaking engagements this year, conducting 60 sessions across 25 cities in 3 countries. Only 10 of these events were online, which meant extensive travel. For 2025, I already have numerous events scheduled. I'm proud to share that I've been added to the ACM Distinguished Speakers list, which means ACM communities can [invite me](https://speakers.acm.org/speakers/yondem_19649) to speak at their events with travel costs covered by ACM.
+I really went all out with speaking engagements this year, conducting 60 sessions across 25 cities in 3 countries. Only 10 of these events were online, which meant extensive travel. Two of them were TEDx events, which was a first for me. For 2025, I already have numerous events scheduled. I'm proud to share that I've been added to the ACM Distinguished Speakers list, which means ACM communities can [invite me](https://speakers.acm.org/speakers/yondem_19649) to speak at their events with travel costs covered by ACM.
 
 During Q4, I focused on building my [LinkedIn presence](http://linkedin.daron.me) by sharing daily AI research findings. This initiative not only increased my reach but also motivated me to dive deeper into research, which has been incredibly rewarding.
 
