@@ -19,11 +19,13 @@ The key lesson here is that there's nothing you can't accomplish. You just need 
 
 ## Health, the bumpy road
 
-Looking back at last year, I was dealing with weight gain and an IT-Band injury. For context, you might want to check out my previous year's report. My first priority was preventing another injury (though there are no guarantees, of course). I started Pilates in Q3 2024 to improve flexibility and overall functional strength, and I'm still committed to it. For the first time in my life, I actually enjoy stretching! However, I'm still working on building the habit of stretching before and after runs. My second goal was weight loss. As mentioned last year, I aimed to get under 100 kg (220 lbs). I'm now at 98 kg (216 lbs) - a definite success. I even completed my first 5K run before the year's end.
+Looking back at last year, I was dealing with weight gain and an IT-Band injury. For context, you might want to check out my previous year's report. My first priority was preventing another injury (though there are no guarantees, of course). I started Pilates in Q3 2024 to improve flexibility and overall functional strength, and I'm still committed to it. For the first time in my life, I actually enjoy stretching! However, I'm still working on building the habit of stretching before and after runs. 
+
+My second goal was weight loss. As mentioned last year, I aimed to get under 100 kg (220 lbs). I'm now at 98 kg (216 lbs) - a definite success. I even completed my first 5K run before the year's end.
 
 ![My weight chart for 2024](/media/2024/2024-Weight-Report.jpg)
 
-What's next? I'm targeting a weight range between 80-90 kg (175-190 lbs) for 2025. I plan to continue functional strength training and Pilates. Ultimately, after all these ups and downs, I want to run my third marathon. I've accomplished all of this before - now it's about doing it better and more consistently.
+What's next? I'm targeting a weight range between 80-90 kg (175-190 lbs) for 2025. I plan to continue functional strength training and Pilates. Ultimately, after all these ups and downs, I want to run my third marathon. I've accomplished all of this before (see my previous fitness posts on this blog) - now it's about doing it better and more consistently.
 
 ## Business
 
@@ -33,13 +35,13 @@ My experience at Microsoft has been incredibly educational over these past 3 yea
 
 *Image: Jono Hey, [sketchplanations.com](https://sketchplanations.com)*
 
-My coaching side business is gaining significant momentum. I genuinely enjoy helping people and have moved my practice to a new standalone site at [daron.coach](https://daron.coach). Additionally, I've become a USA National Board Certified Health and Wellness Coach! More details in the Growth section below. I find great fulfillment in coaching people and watching them discover their path, moving forward with increased courage and confidence. For 2025, I plan to continue developing my coaching skills and expand my practice. One area of focus will be mindfulness and mindfulness-based coaching. I've been practicing mindfulness for some time and want to help others with it, though I don't have a concrete plan to share yet.
+My coaching journey is flourishing on multiple fronts. At Microsoft, I'm proud to be part of the Emerging Leaders program, where I coach internal employees to help them grow and advance in their careers. Outside of Microsoft, my private coaching practice is gaining significant momentum. I genuinely enjoy helping people and have moved my practice to a new standalone site at [daron.coach](https://daron.coach). Additionally, I've become a USA National Board Certified Health and Wellness Coach! More details in the Growth section below. I find great fulfillment in coaching people and watching them discover their path, moving forward with increased courage and confidence. For 2025, I plan to continue developing my coaching skills and expand my practice. One area of focus will be mindfulness and mindfulness-based coaching. I've been practicing mindfulness for some time and want to help others with it, though I don't have a concrete plan to share yet.
 
 ## Giving Back
 
 I really went all out with speaking engagements this year, conducting 60 sessions across 25 cities in 3 countries. Only 10 of these events were online, which meant extensive travel. For 2025, I already have numerous events scheduled. I'm proud to share that I've been added to the ACM Distinguished Speakers list, which means ACM communities can [invite me](https://speakers.acm.org/speakers/yondem_19649) to speak at their events with travel costs covered by ACM.
 
-During Q4, I focused on building my [LinkedIn presence](http://linkedin.daron.me) by sharing daily AI research findings. This initiative not only increased my visibility but also motivated me to dive deeper into research, which has been incredibly rewarding.
+During Q4, I focused on building my [LinkedIn presence](http://linkedin.daron.me) by sharing daily AI research findings. This initiative not only increased my reach but also motivated me to dive deeper into research, which has been incredibly rewarding.
 
 While my YouTube content production was limited, I maintained a steady presence through 8 live streams. In Q4, I increased the frequency to two live streams per month, a schedule I plan to maintain going forward.
 
@@ -49,7 +51,7 @@ For those familiar with the SuperPeer community, I regret to inform you that the
 
 2024 was phenomenal for my personal growth. I'm halfway through my Ph.D. thesis in Leadership Studies! If all goes well, I should complete it in 2025. Another achievement was passing the USA National Health and Wellness Coaching final written exam, earning my certification as a National Board-Certified Health and Wellness Coach (NBC-HWC). As I noted in my 2023 report, the combination of coaching and therapy sessions continues to work wonders for both myself and my clients.
 
-Now for a surprise that's quite unusual for a current Ph.D. student - I've started a part-time Master's degree in Engineering Management at the University of Colorado Boulder! Let me explain why. With my background in Computer Science (MSc with Software Engineering concentration) and Organizational Leadership (MA with HR Development concentration), I've gained valuable knowledge, but both degrees left gaps in financial management of engineering projects. My Leadership Ph.D., while valuable, doesn't address these areas either.
+Now for a surprise that's quite unusual for a current Ph.D. student - I've started a part-time Master's degree in Engineering Management at the University of Colorado Boulder! Let me explain why. With my background in Computer Science (MSc with Software Engineering concentration) and Organizational Leadership (MA with HR Development concentration), I've gained valuable knowledge, but both degrees left gaps in financial management of engineering organizations. My Leadership Ph.D., while valuable, doesn't address these areas either.
 
 I see three crucial aspects to managing engineering organizations: technology, people, and finances. For technology, I have a strong foundation and keep up through daily research. For people management, I'm investing in my skills through my Ph.D. and coaching practice. However, my financial knowledge, while decent (like most founders), could use strengthening. That's why I chose Engineering Management.
 
