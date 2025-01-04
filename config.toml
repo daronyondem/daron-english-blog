@@ -33,7 +33,7 @@ github = "https://github.com/daronyondem"
 [[menu.main]]
 	identifier = "about"
 	name = "About Me"
-	url = "/about"
+	url = "https://daron.me/"
 	weight = 1 
 
 [[menu.main]]
