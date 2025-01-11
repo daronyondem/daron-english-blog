@@ -1,11 +1,11 @@
 ---
-date: 2024-12-25
+date: 2025-01-11
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **66 universities** and engage audiences in more than **13 countries**, totaling **339 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **68 universities** and engage audiences in more than **13 countries**, totaling **344 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -51,11 +51,13 @@ Karabuk University
 Karadeniz Technical University
 Kastamonu University
 Kocaeli University
+Koc University
 Konya Karatay University
 Konya Selcuk University
 Kultur University
 Malatya Inonu University
 Marmara University
+Medipol University
 Mehmet Akif Ersoy University 
 Middle East Technical University (ODTU)
 Mugla University
@@ -79,30 +81,36 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                                                                   | Topic                                                          | Date         | Place               |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
-| TEDx Karadeniz Technical University                                                                                    | TBA                                                            | Jan 3, 2025  | Trabzon, Turkey     |
-| Istanbul Erkek Lisesi                                                                                                  | Meet my AI Sidekick!                                           | Jan 6, 2025  | Istanbul, Turkey    |
-| [FOSS Kommunity Turkey](https://kommunity.com/ozgur-yazilim-toplulugu/events/prompt-engineering-daron-yondem-6e3a9753) | Prompt Engineering                                             | Jan 8, 2025  | Online              |
-| Medipol University                                                                                                     | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey    |
-| Beykent University                                                                                                     | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey    |
-| [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)                                                             | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey    |
-| Ankara Yıldırım Beyazıt University                                                                                     | TBA                                                            | Feb 10, 2025 | Ankara, Turkey      |
-| Istanbul Technical University Leadership Clup                                                                          | TBA                                                            | Feb 24, 2025 | Istanbul, Turkey    |
-| TEDx Gebze Technical University                                                                                        | TBA                                                            | Feb 25, 2025 | Kocaeli, Turkey     |
-| Intel AI DevSummit WorldWide 2024                                                                                      | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online              |
-| Marmara University Statistics and Data Science Summit                                                                  | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey    |
-| Bandırma Onyedi Eylül University                                                                                       | TBA                                                            | Mar 7, 2025  | Balikesir, Turkey   |
-| IEEE Trakya University Industry and Technology Conference                                                              | TBA                                                            | Mar 8, 2025  | Edirne, Turkey      |
-| Igdir University                                                                                                       | TBA                                                            | Mar 20, 2025 | Igdir, Turkey       |
-| 5th International Artificial Intelligence and Data Science Congress                                                    | TBA                                                            | Apr 24, 2025 | Zonguldak, Turkey   |
-| Bilgi University Entrepreneurship Conference                                                                           | TBA                                                            | Apr 28, 2025 | Istanbul, Turkey    |
-| Bandirma Onyedi Eylul University                                                                                       | TBA                                                            | May 12, 2025 | Balikesir, Turkey   |
-| European AI and Cloud Summit                                                                                           | Orchestrating Intelligence with Multi-Agent AI Workflows       | May 26, 2025 | Düsseldorf, Germany |
+| Name                                                                | Topic                                                          | Date         | Place               |
+|---------------------------------------------------------------------|----------------------------------------------------------------|--------------|---------------------|
+| [SaaS Summit Turkey](https://saasbridge.co/summit-25-kis/)          | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey    |
+| Ankara Yıldırım Beyazıt University                                  | TBA                                                            | Feb 10, 2025 | Ankara, Turkey      |
+| Istanbul Technical University Leadership Clup                       | TBA                                                            | Feb 24, 2025 | Istanbul, Turkey    |
+| TEDx Gebze Technical University                                     | TBA                                                            | Feb 25, 2025 | Kocaeli, Turkey     |
+| Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online              |
+| Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey    |
+| Recep Tayyip Erdogan University                                     | TBA                                                            | Mar 5, 2025  | Rize, Turkey        |
+| Bandırma Onyedi Eylül University                                    | TBA                                                            | Mar 7, 2025  | Balikesir, Turkey   |
+| IEEE Trakya University Industry and Technology Conference           | TBA                                                            | Mar 8, 2025  | Edirne, Turkey      |
+| Igdir University                                                    | TBA                                                            | Mar 20, 2025 | Igdir, Turkey       |
+| 5th International Artificial Intelligence and Data Science Congress | TBA                                                            | Apr 24, 2025 | Zonguldak, Turkey   |
+| Bilgi University Entrepreneurship Conference                        | TBA                                                            | Apr 28, 2025 | Istanbul, Turkey    |
+| Bandirma Onyedi Eylul University                                    | TBA                                                            | May 12, 2025 | Balikesir, Turkey   |
+| European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows       | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
 Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
+
+## 2025
+
+| Name                                                                             | Topic                     | Date        | Place            |
+|----------------------------------------------------------------------------------|---------------------------|-------------|------------------|
+| [Beykent University](/media/2025/2025-01-09_Beykent.png)                         | Meet my AI Sidekick!      | Jan 9, 2025 | Istanbul, Turkey |
+| [Medipol University](/media/2025/2025-01-08_Medipol.png)                         | Tech and Innovation Panel | Jan 8, 2025 | Istanbul, Turkey |
+| [FOSS Kommunity Turkey](/media/2025/2025-01-08-OYT.png)                          | Prompt Engineering        | Jan 8, 2025 | Online           |
+| [Istanbul Erkek Lisesi](/media/2025/2025-01-06_IEL.png)                          | Career Chat               | Jan 6, 2025 | Istanbul, Turkey |
+| [TEDx Karadeniz Technical University](/media/2025/2025-01-03_TEDx-Karadeniz.png) | Istersen Yaparsin         | Jan 3, 2025 | Trabzon, Turkey  |
 
 ## 2024
 <!-- 339 event -->
