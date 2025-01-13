@@ -90,6 +90,7 @@ Here is where I'm planning to be next;
 | Coderspace Software and Tech Summer School                          | Keynote                                                        | Feb 25, 2025 | Online              |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey    |
+| TalentCoders Code the Future Conference                             | TBA                                                            | Feb 28, 2025 | Online              |
 | Recep Tayyip Erdogan University                                     | TBA                                                            | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | TBA                                                            | Mar 7, 2025  | Balikesir, Turkey   |
 | IEEE Trakya University Industry and Technology Conference           | TBA                                                            | Mar 8, 2025  | Edirne, Turkey      |
