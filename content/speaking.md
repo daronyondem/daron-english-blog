@@ -93,7 +93,6 @@ Here is where I'm planning to be next;
 | TalentCoders Code the Future Conference                             | TBA                                                            | Feb 28, 2025 | Online              |
 | Recep Tayyip Erdogan University                                     | TBA                                                            | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | TBA                                                            | Mar 7, 2025  | Balikesir, Turkey   |
-| IEEE Trakya University Industry and Technology Conference           | TBA                                                            | Mar 8, 2025  | Edirne, Turkey      |
 | Igdir University                                                    | TBA                                                            | Mar 20, 2025 | Igdir, Turkey       |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                            | Apr 24, 2025 | Zonguldak, Turkey   |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                            | Apr 28, 2025 | Istanbul, Turkey    |
