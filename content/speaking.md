@@ -83,6 +83,7 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
+| TalentCoders Code the Future Conference                             | TBA                                                      | Jan 28, 2025 | Online              |
 | Ankara Yıldırım Beyazıt University                                  | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
 | Istanbul Technical University Leadership Clup                       | TBA                                                      | Feb 24, 2025 | Istanbul, Turkey    |
 | TEDx Gebze Technical University                                     | TBA                                                      | Feb 25, 2025 | Kocaeli, Turkey     |
@@ -90,7 +91,7 @@ Here is where I'm planning to be next;
 | Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
-| TalentCoders Code the Future Conference                             | TBA                                                      | Feb 28, 2025 | Online              |
+| Gebze Technical University GeekDay                                  | TBA                                                      | Feb 28, 2025 | Kocaeli, Turkey     |
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | TBA                                                      | Mar 7, 2025  | Balikesir, Turkey   |
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
