@@ -110,7 +110,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [TalentCoders Code the Future Conference](/media/2025/2025-01-28_TalentCoders.png) | Prompt Engineering                                             | Jan 28, 2025 | Online           |
 | [SaaS Summit Turkey](/media/2025/2025-01-18-SaaS-Summit.jpeg)                      | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey |
 | [Beykent University](/media/2025/2025-01-09_Beykent.png)                           | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey |
-| [Medipol University](/media/2025/2025-01-08_Medipol.png)                           | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey |
+| [Medipol University](/media/2025/2025-01-08_Medipol.jpg)                           | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey |
 | [FOSS Kommunity Turkey](/media/2025/2025-01-08-OYT.png)                            | Prompt Engineering                                             | Jan 8, 2025  | Online           |
 | [Istanbul Erkek Lisesi](/media/2025/2025-01-06_IEL.png)                            | Career Chat                                                    | Jan 6, 2025  | Istanbul, Turkey |
 | [TEDx Karadeniz Technical University](/media/2025/2025-01-03_TEDx-Karadeniz.png)   | Istersen Yaparsin                                              | Jan 3, 2025  | Trabzon, Turkey  |
