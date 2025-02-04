@@ -94,6 +94,7 @@ Here is where I'm planning to be next;
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | TBA                                                      | Mar 7, 2025  | Balikesir, Turkey   |
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
+| Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
 | Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
