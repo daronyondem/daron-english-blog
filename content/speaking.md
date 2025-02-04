@@ -1,5 +1,5 @@
 ---
-date: 2025-01-28
+date: 2025-02-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -83,9 +83,9 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Ankara Yıldırım Beyazıt University                                  | TBA                                                      | Feb 10, 2025 | Ankara, Turkey      |
-| Istanbul Technical University Leadership Clup                       | TBA                                                      | Feb 24, 2025 | Istanbul, Turkey    |
-| TEDx Gebze Technical University                                     | TBA                                                      | Feb 25, 2025 | Kocaeli, Turkey     |
+| Ankara Yıldırım Beyazıt University                                  | The AI Developer Alliance                                | Feb 10, 2025 | Ankara, Turkey      |
+| Istanbul Technical University Leadership Clup                       | Leading The Human AI Symphony                            | Feb 24, 2025 | Istanbul, Turkey    |
+| TEDx Gebze Technical University                                     | Istersen Yaparsin                                        | Feb 25, 2025 | Kocaeli, Turkey     |
 | Coderspace Software and Tech Summer School                          | Keynote                                                  | Feb 25, 2025 | Online              |
 | Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
