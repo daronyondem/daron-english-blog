@@ -1,5 +1,5 @@
 ---
-date: 2025-02-04
+date: 2025-02-06
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -96,6 +96,7 @@ Here is where I'm planning to be next;
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
+| Izmir Katip Celebi University IEEE ComXpo 2025                      | TBA                                                      | Apr 25, 2025 | Online              |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
 | Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
