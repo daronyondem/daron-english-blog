@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06
+date: 2025-02-20
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -90,7 +90,7 @@ Here is where I'm planning to be next;
 | Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
-| Gebze Technical University GeekDay                                  | TBA                                                      | Feb 28, 2025 | Kocaeli, Turkey     |
+| Gebze Technical University GeekDay                                  | Meet my AI Sidekick!                                     | Feb 28, 2025 | Kocaeli, Turkey     |
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | TBA                                                      | Mar 7, 2025  | Balikesir, Turkey   |
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
