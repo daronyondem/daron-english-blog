@@ -1,5 +1,5 @@
 ---
-date: 2025-02-20
+date: 2025-02-23
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,7 +92,7 @@ Here is where I'm planning to be next;
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
 | Gebze Technical University GeekDay                                  | Meet my AI Sidekick!                                     | Feb 28, 2025 | Kocaeli, Turkey     |
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Mar 5, 2025  | Rize, Turkey        |
-| Bandırma Onyedi Eylül University                                    | TBA                                                      | Mar 7, 2025  | Balikesir, Turkey   |
+| Bandırma Onyedi Eylül University                                    | Prompt Engineering                                       | Mar 7, 2025  | Balikesir, Turkey   |
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
