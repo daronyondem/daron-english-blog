@@ -85,7 +85,7 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
+| Istinye University AI Summit                                        | Meet My AI Sidekick                                      | Feb 27, 2025 | Istanbul, Turkey    |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
 | Gebze Technical University GeekDay                                  | Meet my AI Sidekick!                                     | Feb 28, 2025 | Kocaeli, Turkey     |
