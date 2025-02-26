@@ -110,7 +110,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 | [Coderspace Software and Tech Summer School](/media/2025/2025-02-25-Coderspace-Keynote.jpg)   | Keynote                                                        | Feb 25, 2025 | Online           |
 | [TEDx Gebze Technical University](/media/2025/2025-02-25-TEDx-Gebze-Technical-University.jpg) | Istersen Yaparsin                                              | Feb 25, 2025 | Kocaeli, Turkey  |
 | [Istanbul Technical University Leadership Clup](/media/2025/2025-02-24-ITU.jpg)               | Leading The Human AI Symphony                                  | Feb 24, 2025 | Istanbul, Turkey |
-| [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara)      | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey   |
+| [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara.jpg)  | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey   |
 | [TalentCoders Code the Future Conference](/media/2025/2025-01-28_TalentCoders.png)            | Prompt Engineering                                             | Jan 28, 2025 | Online           |
 | [SaaS Summit Turkey](/media/2025/2025-01-18-SaaS-Summit.jpeg)                                 | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey |
 | [Beykent University](/media/2025/2025-01-09_Beykent.png)                                      | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey |
