@@ -85,7 +85,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Coderspace Software and Tech Summer School                          | Keynote                                                  | Feb 25, 2025 | Online              |
 | Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
@@ -108,6 +107,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                          | Topic                                                          | Date         | Place            |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|------------------|
+| [Coderspace Software and Tech Summer School](/media/2025/2025-02-25-Coderspace-Keynote.jpg)   | Keynote                                                        | Feb 25, 2025 | Online           |
 | [TEDx Gebze Technical University](/media/2025/2025-02-25-TEDx-Gebze-Technical-University.jpg) | Istersen Yaparsin                                              | Feb 25, 2025 | Kocaeli, Turkey  |
 | [Istanbul Technical University Leadership Clup](/media/2025/2025-02-24-ITU.jpg)               | Leading The Human AI Symphony                                  | Feb 24, 2025 | Istanbul, Turkey |
 | [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara)      | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey   |
