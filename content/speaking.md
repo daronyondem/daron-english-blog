@@ -1,11 +1,11 @@
 ---
-date: 2025-02-23
+date: 2025-02-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **69 universities** and engage audiences in more than **13 countries**, totaling **347 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **69 universities** and engage audiences in more than **13 countries**, totaling **348 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -84,7 +84,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Istanbul Technical University Leadership Clup                       | Leading The Human AI Symphony                            | Feb 24, 2025 | Istanbul, Turkey    |
 | TEDx Gebze Technical University                                     | Istersen Yaparsin                                        | Feb 25, 2025 | Kocaeli, Turkey     |
 | Coderspace Software and Tech Summer School                          | Keynote                                                  | Feb 25, 2025 | Online              |
 | Istinye University AI Summit                                        | TBA                                                      | Feb 27, 2025 | Istanbul, Turkey    |
@@ -109,6 +108,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                     | Topic                                                          | Date         | Place            |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|------------------|
+| [Istanbul Technical University Leadership Clup](/media/2025/2025-02-24-ITU.jpg)          | Leading The Human AI Symphony                                  | Feb 24, 2025 | Istanbul, Turkey |
 | [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara) | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey   |
 | [TalentCoders Code the Future Conference](/media/2025/2025-01-28_TalentCoders.png)       | Prompt Engineering                                             | Jan 28, 2025 | Online           |
 | [SaaS Summit Turkey](/media/2025/2025-01-18-SaaS-Summit.jpeg)                            | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey |
