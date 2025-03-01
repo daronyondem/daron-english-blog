@@ -1,5 +1,5 @@
 ---
-date: 2025-02-26
+date: 2025-03-01
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -89,13 +89,13 @@ Here is where I'm planning to be next;
 | Intel AI DevSummit WorldWide 2024                                   | Orchestrating Intelligence with Multi-Agent AI Workflows | Feb 27, 2025 | Online              |
 | Marmara University Statistics and Data Science Summit               | Meet my AI Sidekick!                                     | Feb 27, 2025 | Istanbul, Turkey    |
 | Gebze Technical University GeekDay                                  | Meet my AI Sidekick!                                     | Feb 28, 2025 | Kocaeli, Turkey     |
-| Recep Tayyip Erdogan University                                     | TBA                                                      | Mar 5, 2025  | Rize, Turkey        |
 | Bandırma Onyedi Eylül University                                    | Prompt Engineering                                       | Mar 7, 2025  | Balikesir, Turkey   |
 | Igdir University                                                    | TBA                                                      | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Izmir Katip Celebi University IEEE ComXpo 2025                      | TBA                                                      | Apr 25, 2025 | Online              |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
+| Recep Tayyip Erdogan University                                     | TBA                                                      | Apr 30, 2025 | Rize, Turkey        |
 | Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
 
