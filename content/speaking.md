@@ -1,5 +1,5 @@
 ---
-date: 2025-03-04
+date: 2025-03-05
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -87,7 +87,7 @@ Here is where I'm planning to be next;
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
 | Bandırma Onyedi Eylül University                                    | Prompt Engineering                                       | Mar 7, 2025  | Balikesir, Turkey   |
-| Igdir University                                                    | Meet my AI Sidekick!                                     | Mar 20, 2025 | Igdir, Turkey       |
+| Igdir University                                                    | Agentic LLM Workflows with AutoGen                       | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Izmir Katip Celebi University IEEE ComXpo 2025                      | TBA                                                      | Apr 25, 2025 | Online              |
