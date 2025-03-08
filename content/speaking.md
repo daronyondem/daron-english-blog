@@ -89,6 +89,7 @@ Here is where I'm planning to be next;
 | GenAI Fundemantals with Gemini Event Series                         | Prompt Engineering                                       | Mar 15, 2025 | Online              |
 | Igdir University                                                    | Agentic LLM Workflows with AutoGen                       | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
+| Bahcesehir University NextGen 2025                                  | TBA                                                      | Apr 22, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Izmir Katip Celebi University IEEE ComXpo 2025                      | TBA                                                      | Apr 25, 2025 | Online              |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
