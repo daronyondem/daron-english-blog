@@ -1,11 +1,11 @@
 ---
-date: 2025-03-05
+date: 2025-03-08
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **71 universities** and engage audiences in more than **13 countries**, totaling **354 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **71 universities** and engage audiences in more than **13 countries**, totaling **355 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -86,7 +86,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Bandırma Onyedi Eylül University                                    | Prompt Engineering                                       | Mar 7, 2025  | Balikesir, Turkey   |
 | GenAI Fundemantals with Gemini Event Series                         | Prompt Engineering                                       | Mar 15, 2025 | Online              |
 | Igdir University                                                    | Agentic LLM Workflows with AutoGen                       | Mar 20, 2025 | Igdir, Turkey       |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
@@ -103,23 +102,24 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 ## 2025
 
-| Name                                                                                                   | Topic                                                          | Date         | Place            |
-|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|------------------|
-| [Gebze Technical University GeekDay](/media/2025/2025-02-28-Geekday.jpg)                               | Meet my AI Sidekick!                                           | Feb 28, 2025 | Kocaeli, Turkey  |
-| [Marmara University Statistics and Data Science Summit](/media/2025/2025-02-27-Marmara-University.jpg) | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey |
-| [Istinye University AI Summit](/media/2025/2025-02-27-Istinye-University.jpg)                          | Meet My AI Sidekick                                            | Feb 27, 2025 | Istanbul, Turkey |
-| [Intel AI DevSummit WorldWide 2024](/media/2025/2025-02-27-Intel-AI-DevSummit.jpg)                     | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online           |
-| [Coderspace Software and Tech Summer School](/media/2025/2025-02-25-Coderspace-Keynote.jpg)            | Keynote                                                        | Feb 25, 2025 | Online           |
-| [TEDx Gebze Technical University](/media/2025/2025-02-25-TEDx-Gebze-Technical-University.jpg)          | Istersen Yaparsin                                              | Feb 25, 2025 | Kocaeli, Turkey  |
-| [Istanbul Technical University Leadership Clup](/media/2025/2025-02-24-ITU.jpg)                        | Leading The Human AI Symphony                                  | Feb 24, 2025 | Istanbul, Turkey |
-| [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara.jpg)           | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey   |
-| [TalentCoders Code the Future Conference](/media/2025/2025-01-28_TalentCoders.png)                     | Prompt Engineering                                             | Jan 28, 2025 | Online           |
-| [SaaS Summit Turkey](/media/2025/2025-01-18-SaaS-Summit.jpeg)                                          | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey |
-| [Beykent University](/media/2025/2025-01-09_Beykent.png)                                               | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey |
-| [Medipol University](/media/2025/2025-01-08_Medipol.jpg)                                               | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey |
-| [FOSS Kommunity Turkey](/media/2025/2025-01-08-OYT.png)                                                | Prompt Engineering                                             | Jan 8, 2025  | Online           |
-| [Istanbul Erkek Lisesi](/media/2025/2025-01-06_IEL.png)                                                | Career Chat                                                    | Jan 6, 2025  | Istanbul, Turkey |
-| [TEDx Karadeniz Technical University](/media/2025/2025-01-03_TEDx-Karadeniz.png)                       | Istersen Yaparsin                                              | Jan 3, 2025  | Trabzon, Turkey  |
+| Name                                                                                                   | Topic                                                          | Date         | Place             |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|-------------------|
+| [Bandırma Onyedi Eylül University](/media/2025/025-03-07-Bandirma-17-Eylul.jpg)                        | Prompt Engineering                                             | Mar 7, 2025  | Balikesir, Turkey |
+| [Gebze Technical University GeekDay](/media/2025/2025-02-28-Geekday.jpg)                               | Meet my AI Sidekick!                                           | Feb 28, 2025 | Kocaeli, Turkey   |
+| [Marmara University Statistics and Data Science Summit](/media/2025/2025-02-27-Marmara-University.jpg) | Meet my AI Sidekick!                                           | Feb 27, 2025 | Istanbul, Turkey  |
+| [Istinye University AI Summit](/media/2025/2025-02-27-Istinye-University.jpg)                          | Meet My AI Sidekick                                            | Feb 27, 2025 | Istanbul, Turkey  |
+| [Intel AI DevSummit WorldWide 2024](/media/2025/2025-02-27-Intel-AI-DevSummit.jpg)                     | Orchestrating Intelligence with Multi-Agent AI Workflows       | Feb 27, 2025 | Online            |
+| [Coderspace Software and Tech Summer School](/media/2025/2025-02-25-Coderspace-Keynote.jpg)            | Keynote                                                        | Feb 25, 2025 | Online            |
+| [TEDx Gebze Technical University](/media/2025/2025-02-25-TEDx-Gebze-Technical-University.jpg)          | Istersen Yaparsin                                              | Feb 25, 2025 | Kocaeli, Turkey   |
+| [Istanbul Technical University Leadership Clup](/media/2025/2025-02-24-ITU.jpg)                        | Leading The Human AI Symphony                                  | Feb 24, 2025 | Istanbul, Turkey  |
+| [Ankara Yıldırım Beyazıt University](/media/2025/2025-02-10-Yildirim-Beyazit-Uni-Ankara.jpg)           | The AI Developer Alliance                                      | Feb 10, 2025 | Ankara, Turkey    |
+| [TalentCoders Code the Future Conference](/media/2025/2025-01-28_TalentCoders.png)                     | Prompt Engineering                                             | Jan 28, 2025 | Online            |
+| [SaaS Summit Turkey](/media/2025/2025-01-18-SaaS-Summit.jpeg)                                          | From One to Many: Building a SaaS Engineering Team and Culture | Jan 18, 2025 | Istanbul, Turkey  |
+| [Beykent University](/media/2025/2025-01-09_Beykent.png)                                               | Meet my AI Sidekick!                                           | Jan 9, 2025  | Istanbul, Turkey  |
+| [Medipol University](/media/2025/2025-01-08_Medipol.jpg)                                               | Tech and Innovation Panel                                      | Jan 8, 2025  | Istanbul, Turkey  |
+| [FOSS Kommunity Turkey](/media/2025/2025-01-08-OYT.png)                                                | Prompt Engineering                                             | Jan 8, 2025  | Online            |
+| [Istanbul Erkek Lisesi](/media/2025/2025-01-06_IEL.png)                                                | Career Chat                                                    | Jan 6, 2025  | Istanbul, Turkey  |
+| [TEDx Karadeniz Technical University](/media/2025/2025-01-03_TEDx-Karadeniz.png)                       | Istersen Yaparsin                                              | Jan 3, 2025  | Trabzon, Turkey   |
 
 ## 2024
 <!-- 339 event -->
