@@ -1,11 +1,11 @@
 ---
-date: 2025-03-15
+date: 2025-03-17
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **71 universities** and engage audiences in more than **13 countries**, totaling **356 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **71 universities** and engage audiences in more than **13 countries**, totaling **357 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -104,6 +104,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                   | Topic                                                          | Date         | Place             |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|-------------------|
+| [Bebar IT Community Meetup](/media/2025/2025-03-16-Bebar.jpg)                                          | Prompt Engineering                                             | Mar 16, 2025 | Istanbul, Turkey  |
 | [GenAI Fundemantals with Gemini Event Series](/media/2025/2025-03-15.jpg)                              | Prompt Engineering                                             | Mar 15, 2025 | Online            |
 | [Bandırma Onyedi Eylül University](/media/2025/025-03-07-Bandirma-17-Eylul.jpg)                        | Prompt Engineering                                             | Mar 7, 2025  | Balikesir, Turkey |
 | [Gebze Technical University GeekDay](/media/2025/2025-02-28-Geekday.jpg)                               | Meet my AI Sidekick!                                           | Feb 28, 2025 | Kocaeli, Turkey   |
