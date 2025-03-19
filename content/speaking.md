@@ -1,5 +1,5 @@
 ---
-date: 2025-03-17
+date: 2025-03-19
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,6 +92,7 @@ Here is where I'm planning to be next;
 | Bahcesehir University NextGen 2025                                  | TBA                                                      | Apr 22, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
+| Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence         | Apr 29, 2025 | Istanbul, Turkey    |
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Apr 30, 2025 | Rize, Turkey        |
 | Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
