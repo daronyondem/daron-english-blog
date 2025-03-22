@@ -1,11 +1,11 @@
 ---
-date: 2025-03-19
+date: 2025-03-21
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **71 universities** and engage audiences in more than **13 countries**, totaling **357 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **72 universities** and engage audiences in more than **13 countries**, totaling **358 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -39,6 +39,7 @@ Gebze Technical University
 Haceteppe University
 Halic University
 Hasan Kalyoncu University
+Igdir University
 Isik University
 Isparta Suleyman Demirel University
 Istanbul Aydin University
@@ -86,7 +87,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Igdir University                                                    | Agentic LLM Workflows with AutoGen                       | Mar 20, 2025 | Igdir, Turkey       |
 | Sabanci University                                                  | Agentic LLM Workflows with AutoGen                       | Apr 13, 2025 | Istanbul, Turkey    |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | Bahcesehir University NextGen 2025                                  | TBA                                                      | Apr 22, 2025 | Istanbul, Turkey    |
@@ -105,6 +105,7 @@ Here is a list of my past speaking activities, primarily kept for nostalgic reas
 
 | Name                                                                                                   | Topic                                                          | Date         | Place             |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|-------------------|
+| [Igdir University](/media/2025/2025-03-21-ACM-Igdir.jpg)                                               | Agentic LLM Workflows with AutoGen                             | Mar 20, 2025 | Igdir, Turkey     |
 | [Bebar IT Community Meetup](/media/2025/2025-03-16-Bebar.jpg)                                          | Prompt Engineering                                             | Mar 16, 2025 | Istanbul, Turkey  |
 | [GenAI Fundemantals with Gemini Event Series](/media/2025/2025-03-15.jpg)                              | Prompt Engineering                                             | Mar 15, 2025 | Online            |
 | [Bandırma Onyedi Eylül University](/media/2025/025-03-07-Bandirma-17-Eylul.jpg)                        | Prompt Engineering                                             | Mar 7, 2025  | Balikesir, Turkey |
