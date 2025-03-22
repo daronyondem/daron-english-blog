@@ -90,6 +90,7 @@ Here is where I'm planning to be next;
 | Sabanci University                                                  | Agentic LLM Workflows with AutoGen                       | Apr 13, 2025 | Istanbul, Turkey    |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | Istanbul Technical University Economy Summit                        | TBA                                                      | Apr 15, 2025 | Istanbul, Turkey    |
+| Yenibirlider Association Leadership Summit                          | TBA                                                      | Apr 20, 2025 | Istanbul, Turkey    |
 | Bahcesehir University NextGen 2025                                  | TBA                                                      | Apr 22, 2025 | Istanbul, Turkey    |
 | 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
