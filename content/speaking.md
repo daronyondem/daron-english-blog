@@ -85,19 +85,20 @@ Yildiz Technical University
 
 Here is where I'm planning to be next;
 
-| Name                                                                | Topic                                                    | Date         | Place               |
-|---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
-| Istanbul Technical University Economy Summit                        | TBA                                                      | Apr 15, 2025 | Istanbul, Turkey    |
-| Yenibirlider Association Leadership Summit                          | TBA                                                      | Apr 20, 2025 | Istanbul, Turkey    |
-| Bahcesehir University NextGen 2025                                  | TBA                                                      | Apr 22, 2025 | Istanbul, Turkey    |
-| 5th International Artificial Intelligence and Data Science Congress | TBA                                                      | Apr 24, 2025 | Zonguldak, Turkey   |
-| Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
-| Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence         | Apr 29, 2025 | Istanbul, Turkey    |
-| Recep Tayyip Erdogan University                                     | TBA                                                      | Apr 30, 2025 | Rize, Turkey        |
-| Sabanci University                                                  | Agentic LLM Workflows with AutoGen                       | May 4, 2025  | Istanbul, Turkey    |
-| Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
-| European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
+| Name                                                                | Topic                                                           | Date         | Place               |
+|---------------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
+| Aspire Institute Türkiye Inspiration Talks                          | Leadership in Engineering in the Age of Artificial Intelligence | Apr 7, 2025  | Online              |
+| Halic University Information Technology and Innovation Summit       | TBA                                                             | Apr 14, 2025 | Istanbul, Turkey    |
+| Istanbul Technical University Economy Summit                        | TBA                                                             | Apr 15, 2025 | Istanbul, Turkey    |
+| Yenibirlider Association Leadership Summit                          | TBA                                                             | Apr 20, 2025 | Istanbul, Turkey    |
+| Bahcesehir University NextGen 2025                                  | TBA                                                             | Apr 22, 2025 | Istanbul, Turkey    |
+| 5th International Artificial Intelligence and Data Science Congress | TBA                                                             | Apr 24, 2025 | Zonguldak, Turkey   |
+| Bilgi University Entrepreneurship Conference                        | TBA                                                             | Apr 28, 2025 | Istanbul, Turkey    |
+| Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence                | Apr 29, 2025 | Istanbul, Turkey    |
+| Recep Tayyip Erdogan University                                     | TBA                                                             | Apr 30, 2025 | Rize, Turkey        |
+| Sabanci University                                                  | Agentic LLM Workflows with AutoGen                              | May 4, 2025  | Istanbul, Turkey    |
+| Bandirma Onyedi Eylul University                                    | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
+| European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
