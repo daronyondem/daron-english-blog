@@ -5,7 +5,12 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-It all began when I was invited to share my insights on what I write about. Since that moment, my passion for speaking has only grown, leading me to present at over **72 universities** and engage audiences in more than **13 countries**, totaling **358 sessions** across a diverse array of conferences, meetups, and events. My topics range from career planning, AI, user experience design, cloud computing, and more.
+With experience spanning **72+ universities**, **358 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+
+I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
+
+**Interested in having me speak at your upcoming conference, meetup, or summit?**  
+Please [fill out this speaker request form](https://forms.microsoft.com/r/g2EdZw2ZLQ) with details about your event—I'll follow up as soon as I can!
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
@@ -83,7 +88,7 @@ Yeditepe University
 Yildiz Technical University
 -->
 
-Here is where I'm planning to be next;
+Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
 | Name                                                                | Topic                                                           | Date         | Place               |
 |---------------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
@@ -102,7 +107,7 @@ Here is where I'm planning to be next;
 
 <br/>
 
-Here is a list of my past speaking activities, primarily kept for nostalgic reasons :)  
+Below is an archive of my past speaking activities, kept for nostalgic reasons and to showcase some of the topics I’ve covered. Feel free to browse through my previous talks for a sense of my style, approach, and expertise.
 
 ## 2025
 
