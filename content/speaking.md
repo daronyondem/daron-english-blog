@@ -1,5 +1,5 @@
 ---
-date: 2025-03-21
+date: 2025-04-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -87,7 +87,6 @@ Here is where I'm planning to be next;
 
 | Name                                                                | Topic                                                    | Date         | Place               |
 |---------------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------|
-| Sabanci University                                                  | Agentic LLM Workflows with AutoGen                       | Apr 13, 2025 | Istanbul, Turkey    |
 | Halic University Information Technology and Innovation Summit       | TBA                                                      | Apr 14, 2025 | Istanbul, Turkey    |
 | Istanbul Technical University Economy Summit                        | TBA                                                      | Apr 15, 2025 | Istanbul, Turkey    |
 | Yenibirlider Association Leadership Summit                          | TBA                                                      | Apr 20, 2025 | Istanbul, Turkey    |
@@ -96,6 +95,7 @@ Here is where I'm planning to be next;
 | Bilgi University Entrepreneurship Conference                        | TBA                                                      | Apr 28, 2025 | Istanbul, Turkey    |
 | Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence         | Apr 29, 2025 | Istanbul, Turkey    |
 | Recep Tayyip Erdogan University                                     | TBA                                                      | Apr 30, 2025 | Rize, Turkey        |
+| Sabanci University                                                  | Agentic LLM Workflows with AutoGen                       | May 4, 2025  | Istanbul, Turkey    |
 | Bandirma Onyedi Eylul University                                    | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
 
