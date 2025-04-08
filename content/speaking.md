@@ -98,7 +98,6 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 | Yeditepe University Education Technologies Summit                   | Keynote                                                         | Apr 16, 2025 | Istanbul, Turkey    |
 | Yenibirlider Association Leadership Summit                          | TBA                                                             | Apr 20, 2025 | Istanbul, Turkey    |
 | Bahcesehir University NextGen 2025                                  | TBA                                                             | Apr 22, 2025 | Istanbul, Turkey    |
-| 5th International Artificial Intelligence and Data Science Congress | TBA                                                             | Apr 24, 2025 | Zonguldak, Turkey   |
 | Bilgi University Entrepreneurship Conference                        | TBA                                                             | Apr 28, 2025 | Istanbul, Turkey    |
 | Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence                | Apr 29, 2025 | Istanbul, Turkey    |
 | Recep Tayyip Erdogan University                                     | TBA                                                             | Apr 30, 2025 | Rize, Turkey        |
