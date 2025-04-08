@@ -103,6 +103,7 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 | Yildiz Technical University 6th AI and Entrepreneurship Summit      | Leadership in the Age of Artificial Intelligence                | Apr 29, 2025 | Istanbul, Turkey    |
 | Recep Tayyip Erdogan University                                     | TBA                                                             | Apr 30, 2025 | Rize, Turkey        |
 | Sabanci University                                                  | Agentic LLM Workflows with AutoGen                              | May 4, 2025  | Istanbul, Turkey    |
+| Bilgi University AI Summit                                          | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
 | Bandirma Onyedi Eylul University                                    | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                        | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
 
