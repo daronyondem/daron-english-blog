@@ -1,5 +1,5 @@
 ---
-date: 2024-01-04
+date: 2024-04-13
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -19,6 +19,7 @@ Here is a list of past races 🏃‍♂️
 
 | Race                                                                      | Distance | Date         | Net Time |
 |---------------------------------------------------------------------------|----------|--------------|----------|
+| Bebek 10K Fast Challenge                                                  | 10 km    | Apr 13, 2025 | 00:54:33 |
 | Geyik Kosusu                                                              | 14 km    | Dec 11, 2022 | 01:32:47 |
 | [Istanbul Marathon](https://daron.blog/2022/two-marathons-in-30-days/)    | 42.2 km  | Nov 6, 2022  | 04:40:03 |
 | [Amsterdam Marathon](https://daron.blog/2022/finished-my-first-marathon/) | 42.2 km  | Oct 16, 2022 | 04:47:43 |
