@@ -1,5 +1,5 @@
 ---
-date: 2025-04-08
+date: 2025-04-14
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
