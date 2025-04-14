@@ -92,10 +92,9 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                                                           | Topic                                                           | Date         | Place               |
 |----------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Halic University Information Technology and Innovation Summit  | TBA                                                             | Apr 14, 2025 | Istanbul, Turkey    |
 | Istanbul Technical University Economy Summit                   | TBA                                                             | Apr 15, 2025 | Istanbul, Turkey    |
 | Rotary District 2440 Digital Transformation Summit             | TBA                                                             | Apr 16, 2025 | Online              |
-| Yenibirlider Association Leadership Summit                     | TBA                                                             | Apr 20, 2025 | Istanbul, Turkey    |
+| Yenibirlider Association Leadership Summit                     | Engineering Leadership and the Role of Artificial Intelligence  | Apr 20, 2025 | Istanbul, Turkey    |
 | Bahcesehir University NextGen 2025                             | TBA                                                             | Apr 22, 2025 | Istanbul, Turkey    |
 | Yeditepe University Education Technologies Summit              | Keynote                                                         | Apr 26, 2025 | Istanbul, Turkey    |
 | Bilgi University Entrepreneurship Conference                   | TBA                                                             | Apr 28, 2025 | Istanbul, Turkey    |
@@ -115,6 +114,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 
 | Name                                                                                                   | Topic                                                           | Date         | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------|-------------------|
+| Halic University Information Technology and Innovation Summit                                          | Prompt Engineering                                              | Apr 14, 2025 | Istanbul, Turkey  |
 | [Aspire Institute Türkiye Inspiration Talks](/media/2025/2025-04-07-Aspire.jpg)                        | Leadership in Engineering in the Age of Artificial Intelligence | Apr 7, 2025  | Online            |
 | [Igdir University](/media/2025/2025-03-21-ACM-Igdir.jpg)                                               | Agentic LLM Workflows with AutoGen                              | Mar 20, 2025 | Igdir, Turkey     |
 | [Bebar IT Community Meetup](/media/2025/2025-03-16-Bebar.jpg)                                          | Prompt Engineering                                              | Mar 16, 2025 | Istanbul, Turkey  |
