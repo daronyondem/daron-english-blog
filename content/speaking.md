@@ -1,11 +1,11 @@
 ---
-date: 2025-04-15
+date: 2025-04-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-With experience spanning **72+ universities**, **361 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+With experience spanning **72+ universities**, **362 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
 
 I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
 
@@ -114,6 +114,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------|-------------------|
 | Istanbul Technical University Economy Summit                                                           | Meet my AI Sidekick!                                            | Apr 15, 2025 | Istanbul, Turkey  |
 | [Halic University Information Technology and Innovation Summit](/media/2025/2025-04-14-Halic-Uni.jpg)  | Prompt Engineering                                              | Apr 14, 2025 | Istanbul, Turkey  |
+| [Vodafone AI Day 2025](/media/2025/2025-04-10-Vodafone.jpg)                                            | Keynote                                                         | Apr 10, 2025 | Istanbul, Turkey  |
 | [Aspire Institute Türkiye Inspiration Talks](/media/2025/2025-04-07-Aspire.jpg)                        | Leadership in Engineering in the Age of Artificial Intelligence | Apr 7, 2025  | Online            |
 | [Igdir University](/media/2025/2025-03-21-ACM-Igdir.jpg)                                               | Agentic LLM Workflows with AutoGen                              | Mar 20, 2025 | Igdir, Turkey     |
 | [Bebar IT Community Meetup](/media/2025/2025-03-16-Bebar.jpg)                                          | Prompt Engineering                                              | Mar 16, 2025 | Istanbul, Turkey  |
