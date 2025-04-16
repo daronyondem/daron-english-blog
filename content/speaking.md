@@ -92,7 +92,6 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                                                           | Topic                                                           | Date         | Place               |
 |----------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Rotary District 2440 Digital Transformation Summit             | TBA                                                             | Apr 16, 2025 | Online              |
 | Yenibirlider Association Leadership Summit                     | Engineering Leadership and the Role of Artificial Intelligence  | Apr 20, 2025 | Istanbul, Turkey    |
 | Yeditepe University Education Technologies Summit              | Keynote                                                         | Apr 26, 2025 | Istanbul, Turkey    |
 | Bilgi University Entrepreneurship Conference                   | TBA                                                             | Apr 28, 2025 | Istanbul, Turkey    |
