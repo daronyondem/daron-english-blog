@@ -1,5 +1,5 @@
 ---
-date: 2025-04-24
+date: 2025-04-25
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -97,6 +97,7 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 | Duzce University International Engineering Student Conference  | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
 | Sabanci University                                             | Agentic LLM Workflows with AutoGen                              | May 4, 2025  | Istanbul, Turkey    |
 | Bilgi University AI Summit                                     | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
+| Gazi University AI'2SEC                                        | Prompt Engineering                                              | May 8, 2025  | Online              |
 | Bandirma Onyedi Eylul University                               | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
 | European AI and Cloud Summit                                   | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
 
