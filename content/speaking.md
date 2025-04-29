@@ -92,7 +92,6 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                                                          | Topic                                                           | Date         | Place               |
 |---------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Recep Tayyip Erdogan University                               | The Future of AI in Engineering                                 | Apr 30, 2025 | Rize, Turkey        |
 | Duzce University International Engineering Student Conference | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
 | Bilgi University AI Summit                                    | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
 | Gazi University AI'2SEC                                       | Prompt Engineering                                              | May 8, 2025  | Online              |
