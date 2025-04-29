@@ -5,7 +5,7 @@ title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-With experience spanning **72+ universities**, **362 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+With experience spanning **72+ universities**, **364 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
 
 I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
 
@@ -90,14 +90,14 @@ Yildiz Technical University
 
 Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
-| Name                                                           | Topic                                                           | Date         | Place               |
-|----------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Recep Tayyip Erdogan University                                | TBA                                                             | Apr 30, 2025 | Rize, Turkey        |
-| Duzce University International Engineering Student Conference  | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
-| Bilgi University AI Summit                                     | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
-| Gazi University AI'2SEC                                        | Prompt Engineering                                              | May 8, 2025  | Online              |
-| Bandirma Onyedi Eylul University                               | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
-| European AI and Cloud Summit                                   | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
+| Name                                                          | Topic                                                           | Date         | Place               |
+|---------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
+| Recep Tayyip Erdogan University                               | The Future of AI in Engineering                                 | Apr 30, 2025 | Rize, Turkey        |
+| Duzce University International Engineering Student Conference | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
+| Bilgi University AI Summit                                    | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
+| Gazi University AI'2SEC                                       | Prompt Engineering                                              | May 8, 2025  | Online              |
+| Bandirma Onyedi Eylul University                              | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
+| European AI and Cloud Summit                                  | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
