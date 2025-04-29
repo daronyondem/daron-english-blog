@@ -1,5 +1,5 @@
 ---
-date: 2025-04-28
+date: 2025-04-29
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -92,7 +92,6 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                                                           | Topic                                                           | Date         | Place               |
 |----------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Yildiz Technical University 6th AI and Entrepreneurship Summit | Leadership in the Age of Artificial Intelligence                | Apr 29, 2025 | Istanbul, Turkey    |
 | Recep Tayyip Erdogan University                                | TBA                                                             | Apr 30, 2025 | Rize, Turkey        |
 | Duzce University International Engineering Student Conference  | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
 | Bilgi University AI Summit                                     | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
@@ -108,6 +107,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 
 | Name                                                                                                   | Topic                                                           | Date         | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------|-------------------|
+| [Yildiz Technical University 6th AI and Entrepreneurship Summit](/media/2025/2025-04-29-YTU.jpg)       | Leadership in the Age of Artificial Intelligence                | Apr 29, 2025 | Istanbul, Turkey  |
 | Yenibirlider Association Leadership Summit                                                             | Engineering Leadership and the Role of Artificial Intelligence  | Apr 20, 2025 | Istanbul, Turkey  |
 | Istanbul Technical University Economy Summit                                                           | Meet my AI Sidekick!                                            | Apr 15, 2025 | Istanbul, Turkey  |
 | [Halic University Information Technology and Innovation Summit](/media/2025/2025-04-14-Halic-Uni.jpg)  | Prompt Engineering                                              | Apr 14, 2025 | Istanbul, Turkey  |
