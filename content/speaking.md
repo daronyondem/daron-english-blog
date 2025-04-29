@@ -97,6 +97,7 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 | Bilgi University AI Summit                                    | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
 | Gazi University AI'2SEC                                       | Prompt Engineering                                              | May 8, 2025  | Online              |
 | Bandirma Onyedi Eylul University                              | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
+| TEDxKAL Youth                                                 | TBA                                                             | May 17, 2025 | Istanbul, Turkey    |
 | European AI and Cloud Summit                                  | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
