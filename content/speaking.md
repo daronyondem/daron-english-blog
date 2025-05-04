@@ -1,5 +1,5 @@
 ---
-date: 2025-04-29
+date: 2025-05-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -90,14 +90,13 @@ Yildiz Technical University
 
 Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
-| Name                                                          | Topic                                                           | Date         | Place               |
-|---------------------------------------------------------------|-----------------------------------------------------------------|--------------|---------------------|
-| Duzce University International Engineering Student Conference | Leadership in Engineering in the Age of Artificial Intelligence | May 3, 2025  | Online              |
-| Bilgi University AI Summit                                    | TBA                                                             | May 5, 2025  | Istanbul, Turkey    |
-| Gazi University AI'2SEC                                       | Prompt Engineering                                              | May 8, 2025  | Online              |
-| Bandirma Onyedi Eylul University                              | TBA                                                             | May 12, 2025 | Balikesir, Turkey   |
-| TEDxKAL Youth                                                 | TBA                                                             | May 17, 2025 | Istanbul, Turkey    |
-| European AI and Cloud Summit                                  | Orchestrating Intelligence with Multi-Agent AI Workflows        | May 26, 2025 | Düsseldorf, Germany |
+| Name                             | Topic                                                    | Date         | Place               |
+|----------------------------------|----------------------------------------------------------|--------------|---------------------|
+| Bilgi University AI Summit       | Prompt Engineering                                       | May 5, 2025  | Istanbul, Turkey    |
+| Gazi University AI'2SEC          | Prompt Engineering                                       | May 8, 2025  | Online              |
+| Bandirma Onyedi Eylul University | TBA                                                      | May 12, 2025 | Balikesir, Turkey   |
+| TEDxKAL Youth                    | TBA                                                      | May 17, 2025 | Istanbul, Turkey    |
+| European AI and Cloud Summit     | Orchestrating Intelligence with Multi-Agent AI Workflows | May 26, 2025 | Düsseldorf, Germany |
 
 <br/>
 
