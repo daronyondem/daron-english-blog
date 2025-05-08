@@ -106,7 +106,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 | Name                                                                                                   | Topic                                                           | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
 | Gazi University AI'2SEC                                                                                | Prompt Engineering                                              | Online            |
-| [Bilgi University AI Summit](/media/2025-Bilgi-Yapay-Zeka-Summit.jpg)                                  | Prompt Engineering                                              | Istanbul, Turkey  |
+| [Bilgi University AI Summit](/media/2025/2025-Bilgi-Yapay-Zeka-Summit.jpg)                             | Prompt Engineering                                              | Istanbul, Turkey  |
 | [Yildiz Technical University 6th AI and Entrepreneurship Summit](/media/2025/2025-04-29-YTU.jpg)       | Leadership in the Age of Artificial Intelligence                | Istanbul, Turkey  |
 | Yenibirlider Association Leadership Summit                                                             | Engineering Leadership and the Role of Artificial Intelligence  | Istanbul, Turkey  |
 | Istanbul Technical University Economy Summit                                                           | Meet my AI Sidekick!                                            | Istanbul, Turkey  |
