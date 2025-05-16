@@ -1,5 +1,5 @@
 ---
-date: 2025-05-11
+date: 2025-05-16
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -93,7 +93,6 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                             | Topic                                                    | Place               |
 |----------------------------------|----------------------------------------------------------|---------------------|
-| TEDxKAL Youth                    | TBA                                                      | Istanbul, Turkey    |
 | European AI and Cloud Summit     | Orchestrating Intelligence with Multi-Agent AI Workflows | Düsseldorf, Germany |
 
 <br/>
