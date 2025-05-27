@@ -1,11 +1,11 @@
 ---
-date: 2025-05-16
+date: 2025-05-27
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-With experience spanning **73+ universities**, **366 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+With experience spanning **73+ universities**, **367 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
 
 I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
 
@@ -91,9 +91,7 @@ Yildiz Technical University
 
 Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
-| Name                             | Topic                                                    | Place               |
-|----------------------------------|----------------------------------------------------------|---------------------|
-| European AI and Cloud Summit     | Orchestrating Intelligence with Multi-Agent AI Workflows | Düsseldorf, Germany |
+TBA
 
 <br/>
 
@@ -103,6 +101,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 
 | Name                                                                                                   | Topic                                                           | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
+| [The 23 AI Meetup](/media/2025/2025-05-27-23.jpg)                                                      | AI Beyond Algorithms, A Human Issue                             | Online            |
 | Gazi University AI'2SEC                                                                                | Prompt Engineering                                              | Online            |
 | [Bilgi University AI Summit](/media/2025/2025-Bilgi-Yapay-Zeka-Summit.jpg)                             | Prompt Engineering                                              | Istanbul, Turkey  |
 | [Yildiz Technical University 6th AI and Entrepreneurship Summit](/media/2025/2025-04-29-YTU.jpg)       | Leadership in the Age of Artificial Intelligence                | Istanbul, Turkey  |
