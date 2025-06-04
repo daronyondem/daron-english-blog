@@ -1,5 +1,5 @@
 ---
-date: 2025-05-27
+date: 2025-06-04
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -91,7 +91,9 @@ Yildiz Technical University
 
 Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
-TBA
+| Name                          | Topic                | Place  |
+|-------------------------------|----------------------|--------|
+| De La Salle University Manila | Meet my AI Sidekick! | Online |
 
 <br/>
 
