@@ -1,5 +1,5 @@
 ---
-date: 2024-04-13
+date: 2024-07-11
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -12,6 +12,7 @@ Here is where I'm planning to be next;
 | Race                   | Distance | Date         |
 |------------------------|----------|--------------|
 | San Francisco Marathon | 42.2 km  | Jun 27, 2025 |
+| Seattle Marathon       | 42.2 km  | Nov 30, 2025 |
 
 <br/>
 
