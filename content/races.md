@@ -1,5 +1,5 @@
 ---
-date: 2024-07-11
+date: 2024-07-29
 type: section
 title: "Finish it!"
 ShowFullWidthContent: true
@@ -11,7 +11,6 @@ Here is where I'm planning to be next;
 
 | Race                   | Distance | Date         |
 |------------------------|----------|--------------|
-| San Francisco Marathon | 42.2 km  | Jun 27, 2025 |
 | Seattle Marathon       | 42.2 km  | Nov 30, 2025 |
 
 <br/>
@@ -20,6 +19,7 @@ Here is a list of past races 🏃‍♂️
 
 | Race                                                                      | Distance | Date         | Net Time |
 |---------------------------------------------------------------------------|----------|--------------|----------|
+| San Francisco Marathon                                                    | 42.2 km  | Jun 27, 2025 | 04:18:58 |
 | Bebek 10K Fast Challenge                                                  | 10 km    | Apr 13, 2025 | 00:54:33 |
 | Geyik Kosusu                                                              | 14 km    | Dec 11, 2022 | 01:32:47 |
 | [Istanbul Marathon](https://daron.blog/2022/two-marathons-in-30-days/)    | 42.2 km  | Nov 6, 2022  | 04:40:03 |
