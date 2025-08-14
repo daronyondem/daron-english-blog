@@ -57,6 +57,3 @@ I’ve been running since 2013, and if there’s a single theme to my journey, i
 I didn’t expect a PR. I expected a fight. I got both. The win happened on race day; the fight continues in the quiet runs after, where no one’s handing you a medal for stopping at ten minutes because you’re thinking long-term. Two years after watching this race from the sidelines, I got to run it. That alone would have been enough. Finishing twenty minutes faster than my 2022 best was a bonus, and a reminder that comebacks aren’t magic. They’re a string of small, stubborn choices that eventually add up.
 
 See you at the next start line, whenever my IT band says we’re good to go.
-
-
-Another month went by, and I finished my second Marathon after finishing my first just three weeks ago. I was not planning to finish two marathons in 30 days. I thought the Amsterdam marathon would be nice to finish; if not, I could give it another shot in Istanbul. After completing the Amsterdam Marathon, it won't matter if I finish the Istanbul marathon. I could run and see where it goes. With that mindset, I finished the Istanbul Marathon 4 minutes faster than Amsterdam. It is not a big difference, but considering the three weeks between the two marathons and the relatively more difficult course of the Istanbul marathon, I would say it's a win 😊. 
