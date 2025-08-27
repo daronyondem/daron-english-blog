@@ -1,5 +1,5 @@
 ---
-date: 2025-06-04
+date: 2025-08-26
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -93,7 +93,7 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                          | Topic                | Place  |
 |-------------------------------|----------------------|--------|
-| De La Salle University Manila | Meet my AI Sidekick! | Online |
+| KubeCon North America 2025 | Building Cloud Native Agentic Workflows on Kubernetes for Preventative Healthcare | Atlanta, Georgia |
 
 <br/>
 
