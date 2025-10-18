@@ -1,5 +1,5 @@
 ---
-date: 2025-08-26
+date: 2025-10-18
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -103,6 +103,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 
 | Name                                                                                                   | Topic                                                           | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
+| [Google DevFest Samsun](/media/2025/2025-10-18-GDG-Samsun.png)                                         | The future of a GenAI career                                    | Online            |
 | [The 23 AI Meetup](/media/2025/2025-05-27-23.jpg)                                                      | AI Beyond Algorithms, A Human Issue                             | Online            |
 | Gazi University AI'2SEC                                                                                | Prompt Engineering                                              | Online            |
 | [Bilgi University AI Summit](/media/2025/2025-Bilgi-Yapay-Zeka-Summit.jpg)                             | Prompt Engineering                                              | Istanbul, Turkey  |
