@@ -1,5 +1,5 @@
 ---
-date: 2025-10-18
+date: 2025-11-19
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
@@ -93,7 +93,7 @@ Here is where I'll be speaking next. If you’ll be around, feel free to join an
 
 | Name                          | Topic                | Place  |
 |-------------------------------|----------------------|--------|
-| KubeCon North America 2025 | Building Cloud Native Agentic Workflows on Kubernetes for Preventative Healthcare | Atlanta, Georgia |
+
 
 <br/>
 
@@ -103,6 +103,7 @@ Below is an archive of my past speaking activities, kept for nostalgic reasons a
 
 | Name                                                                                                   | Topic                                                           | Place             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
+| [Coderspace Data Science and AI Day](/media/2025/2025-11-14-Coderspace.png)                            | From Data to Action through Agentic AI                          | Online            | 
 | [Google DevFest Samsun](/media/2025/2025-10-18-GDG-Samsun.png)                                         | The future of a GenAI career                                    | Online            |
 | [The 23 AI Meetup](/media/2025/2025-05-27-23.jpg)                                                      | AI Beyond Algorithms, A Human Issue                             | Online            |
 | Gazi University AI'2SEC                                                                                | Prompt Engineering                                              | Online            |
