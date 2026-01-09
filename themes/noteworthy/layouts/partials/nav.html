@@ -1,11 +1,22 @@
-<!-- Sidebar navigation -->
-<nav style="overflow: hidden;">
+<!-- Sidebar navigation - Modern Minimal Design -->
+<nav class="sidebar" style="overflow: hidden;">
   {{ partial "header.html" . }}
+  
+  <div class="sidebar-divider"></div>
+  
   <div class="nav-menu">
   {{ range .Site.Menus.main }}
-    <a class="color-link nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{- $menuURL := .URL | relLangURL -}}
+    {{- $currentPath := $.RelPermalink -}}
+    {{- /* Normalize: ensure both end with / for comparison */ -}}
+    {{- $menuNorm := printf "%s/" (strings.TrimSuffix "/" $menuURL) -}}
+    {{- $currNorm := printf "%s/" (strings.TrimSuffix "/" $currentPath) -}}
+    {{- $isActive := eq $currNorm $menuNorm -}}
+    <a class="nav-link{{ if $isActive }} nav-link--active{{ end }}" href="{{ $menuURL }}">{{ .Name }}</a>
   {{ end }}
-  <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
-</div>
-{{ partial "footer.html" . }}
+  </div>
+  
+  <div class="sidebar-divider"></div>
+  
+  {{ partial "footer.html" . }}
 </nav>

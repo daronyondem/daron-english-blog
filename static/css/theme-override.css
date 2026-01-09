@@ -1,0 +1,1628 @@
+/* ============================================================================
+   DARON BLOG - READABILITY-FOCUSED REDESIGN
+   ============================================================================
+   Split Panel Design:
+     - Left Sidebar: Dark slate for navigation
+     - Right Content: Warm white for optimal reading
+   
+   Color Palette:
+     Sidebar: #0f172a → #1e293b (slate gradient)
+     Content: #faf8f5 (warm white)
+     Text: #1f2937 (charcoal)
+     Accent: #c2715b (terracotta)
+   
+   Typography:
+     Headings: Playfair Display
+     Body: Inter
+     Code: JetBrains Mono
+   ============================================================================ */
+
+/* ========================
+   CSS CUSTOM PROPERTIES
+   ======================== */
+:root {
+    /* Sidebar - Slate Dark Theme */
+    --sidebar-bg: #0f172a;
+    --sidebar-bg-subtle: #1e293b;
+    --sidebar-bg-dark: #0f172a;
+    --sidebar-bg-light: #1e293b;
+    --sidebar-text: #f5f0e8;
+    --sidebar-text-primary: #f5f0e8;
+    --sidebar-text-secondary: rgba(245, 240, 232, 0.7);
+    --sidebar-text-muted: rgba(245, 240, 232, 0.5);
+    --sidebar-divider: rgba(245, 240, 232, 0.1);
+    --nav-hover-bg: rgba(245, 240, 232, 0.06);
+    
+    /* Content - Light Theme for Reading (warmer text tones) */
+    --content-bg: #faf8f5;
+    --content-text: #3d3631;           /* Warmer charcoal for body text */
+    --content-text-secondary: #6b635b; /* Warm gray for secondary text */
+    --content-heading: #1a1915;        /* Deep warm black for headings */
+    
+    /* Accents - Terracotta, Amber Gold, Warm Cream */
+    --accent: #c2715b;
+    --accent-hover: #a85d49;
+    --accent-light: #d4a574;
+    --accent-secondary: #d4a574;
+    --accent-cream: #f5f0e8;
+    
+    /* Utility Colors */
+    --blockquote-bg: #f5f0e8;
+    --code-bg: #f3f4f6;
+    --code-text: #374151;
+    --border-light: #e5e7eb;
+    --border-dark: rgba(245, 240, 232, 0.1);
+    
+    /* Typography */
+    --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-code: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+    
+    /* Spacing & Sizing */
+    --content-max-width: 680px;
+    --sidebar-width: 240px;
+}
+
+/* ========================
+   BASE STYLES
+   ======================== */
+html {
+    background: var(--content-bg);
+    min-height: 100%;
+}
+
+body {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--content-text);
+    background: var(--content-bg);
+    min-height: 100vh;
+}
+
+/* ========================
+   SIDEBAR STYLES (GLASSMORPHISM)
+   ======================== */
+nav {
+    /* Glassmorphism: Semi-transparent dark with blur */
+    background: rgba(15, 23, 42, 0.85) !important;
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    /* Ensure sidebar extends full height */
+    min-height: 100vh;
+}
+
+/* Desktop sidebar fixed positioning */
+@media only screen and (min-width: 900px) {
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: var(--sidebar-width);
+        height: 100vh;
+        overflow-y: auto;
+        z-index: 100;
+        /* Glassmorphism shadow and border */
+        box-shadow: 4px 0 30px rgba(0, 0, 0, 0.25);
+        border-right: 1px solid rgba(255, 255, 255, 0.08);
+    }
+}
+
+.site-title {
+    margin-bottom: 1em;
+}
+
+.site-title a {
+    font-family: var(--font-heading) !important;
+    color: var(--sidebar-text) !important;
+    text-decoration: none !important;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    font-size: 1.5em;
+}
+
+.site-title a:hover {
+    color: var(--accent) !important;
+}
+
+.site-title a:visited {
+    color: var(--sidebar-text) !important;
+}
+
+/* Navigation Menu */
+.nav-menu a {
+    color: var(--sidebar-text-muted) !important;
+    text-decoration: none !important;
+    font-family: var(--font-body);
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: color 0.2s ease;
+}
+
+.nav-menu a:hover {
+    color: var(--accent) !important;
+}
+
+.nav-menu a:visited {
+    color: var(--sidebar-text-muted) !important;
+}
+
+.nav-link {
+    position: relative;
+    display: inline-block;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--accent);
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Color Link (pagination, etc in sidebar context) */
+.color-link {
+    color: var(--accent) !important;
+    font-family: var(--font-body);
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.color-link:hover {
+    color: var(--accent-light) !important;
+}
+
+.color-link:visited {
+    color: var(--accent) !important;
+}
+
+.color-link .color-arrow {
+    fill: var(--accent);
+    transition: fill 0.2s ease;
+}
+
+.color-link:hover .color-arrow {
+    fill: var(--accent-light);
+}
+
+/* Description */
+.description {
+    color: var(--sidebar-text-muted) !important;
+    font-style: italic;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+}
+
+/* ========================
+   CONTENT AREA (LIGHT - READING OPTIMIZED)
+   ======================== */
+.content-container {
+    background: var(--content-bg) !important;
+    min-height: 100vh;
+    /* Ensure full height even with little content */
+    padding-bottom: 3em;
+}
+
+/* Desktop: offset content for fixed sidebar */
+@media only screen and (min-width: 900px) {
+    .content-container {
+        margin-left: calc(var(--sidebar-width) + 36px);
+        /* Remove the border - use shadow on sidebar instead */
+        border-left: none;
+        /* Add padding for breathing room */
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+}
+
+/* ========================
+   TYPOGRAPHY - HEADINGS
+   ======================== */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--content-heading);
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 2.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2em;      /* Reduced spacing above */
+    margin-bottom: 0.6em;
+    padding-top: 0;
+    border-top: none;
+}
+
+/* H2 in article content */
+article h2,
+.article-content h2 {
+    margin-top: 2.25em !important;  /* Moderate separation above */
+    margin-bottom: 0.75em !important;
+    padding-top: 0 !important;
+    border-top: none !important;
+}
+
+/* First h2 in article */
+.article-content > h2:first-child {
+    margin-top: 1.25em !important;
+}
+
+h2 a {
+    color: var(--content-heading) !important;
+    text-decoration: none !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    background: none !important;
+    transition: color 0.2s ease;
+}
+
+h2 a:hover {
+    color: var(--accent) !important;
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.75em;
+    margin-bottom: 0.5em;
+}
+
+h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.95rem; }
+
+/* ========================
+   TYPOGRAPHY - BODY TEXT (Clean, readable Inter)
+   ======================== */
+p {
+    color: #3d3631 !important;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+    font-weight: 400 !important;
+    line-height: 1.75 !important;
+    margin-bottom: 1.1em !important;  /* Reduced paragraph spacing */
+    font-size: 1.0625rem !important;
+    letter-spacing: -0.01em;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Article specific - optimal reading with Inter */
+article p,
+.article-content p,
+.content-container p {
+    color: #3d3631 !important;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 1.0625rem !important;
+    line-height: 1.75 !important;
+    margin-bottom: 1.1em !important;  /* Reduced paragraph spacing */
+    letter-spacing: -0.01em;
+}
+
+/* First paragraph - slightly emphasized */
+.article-content > p:first-of-type,
+article > p:first-of-type {
+    font-size: 1.125rem !important;
+    line-height: 1.75 !important;
+    color: #2d2622 !important;
+}
+
+/* Blockquotes */
+blockquote p {
+    font-style: italic !important;
+    font-weight: 400 !important;
+    font-size: 1rem !important;
+}
+
+/* ========================
+   LINKS - Subtle but visible
+   ======================== */
+a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: rgba(194, 113, 91, 0.3);
+    text-underline-offset: 3px;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: var(--accent-hover);
+    text-decoration-color: var(--accent-hover);
+}
+
+a:visited {
+    color: var(--accent);
+}
+
+/* Article links */
+article p a,
+.article-content a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: rgba(194, 113, 91, 0.3);
+    text-underline-offset: 3px;
+}
+
+article p a:hover,
+.article-content a:hover {
+    color: var(--accent-hover);
+    text-decoration-color: var(--accent-hover);
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+}
+
+/* ========================
+   TIMESTAMPS & METADATA
+   ======================== */
+time {
+    color: var(--content-text-secondary);
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+/* ========================
+   TAGS - Modern Pill Style
+   ======================== */
+.tag {
+    display: inline-flex;
+    align-items: center;
+    color: var(--accent) !important;
+    font-family: var(--font-body);
+    font-weight: 500;
+    font-size: 0.85rem;
+    text-decoration: none !important;
+    background: rgba(194, 113, 91, 0.08);
+    padding: 0.4em 0.9em;
+    border-radius: 50px;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    transition: all 0.2s ease;
+    border: 1px solid rgba(194, 113, 91, 0.15);
+}
+
+.tag:visited {
+    color: var(--accent) !important;
+}
+
+.tag:hover {
+    color: white !important;
+    background: var(--accent);
+    border-color: var(--accent);
+    transform: translateY(-1px);
+}
+
+/* Tag container styling */
+.post-footer .tag,
+article .tag {
+    display: inline-flex;
+}
+
+/* ========================
+   HORIZONTAL RULES
+   ======================== */
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border-light);
+    margin: 2.5em 0;
+}
+
+/* ========================
+   LISTS (Clean, readable styling)
+   ======================== */
+ul, ol {
+    color: #3d3631;
+    margin: 1.5em 0;
+    padding-left: 1.5em;
+}
+
+li {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    line-height: 1.8;
+    margin-bottom: 0.5em;
+    font-size: 1.0625rem;
+    color: #3d3631;
+}
+
+li::marker {
+    color: var(--accent);
+}
+
+/* Nested lists */
+li ul, li ol {
+    margin: 0.5em 0 0.5em 0;
+}
+
+li li {
+    font-size: 1rem;
+}
+
+/* ========================
+   BLOCKQUOTES
+   ======================== */
+blockquote {
+    background: var(--blockquote-bg);
+    border-left: 4px solid var(--accent);
+    padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+    border-radius: 0 8px 8px 0;
+}
+
+blockquote p {
+    color: var(--content-text-secondary) !important;
+    font-style: italic !important;
+    margin-bottom: 0.75em !important;  /* Allow spacing between multiple paragraphs */
+    font-size: 1rem !important;
+    line-height: 1.65 !important;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0 !important;
+}
+
+/* Let blockquote text wrap naturally */
+blockquote * {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+}
+
+/* ========================
+   MARK / HIGHLIGHT
+   ======================== */
+mark {
+    background: rgba(212, 165, 116, 0.3);
+    color: var(--content-text);
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+}
+
+/* ========================
+   CODE STYLES
+   ======================== */
+code, pre, kbd {
+    font-family: var(--font-code);
+}
+
+/* Inline code - subtle and readable */
+p code, li code, kbd {
+    background: var(--code-bg);
+    color: var(--code-text);
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    border: 1px solid var(--border-light);
+}
+
+/* Code blocks */
+pre {
+    background: #f8fafc !important;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    padding: 1.25em;
+    overflow-x: auto;
+    margin: 1.5em 0;
+}
+
+pre code {
+    background: transparent;
+    color: var(--code-text);
+    padding: 0;
+    border: none;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+/* ========================
+   TABLES - Modern Minimal Design
+   ======================== */
+.table-wrapper {
+    overflow-x: auto;
+    margin: 2em 0;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* Table Header */
+table thead {
+    background: var(--sidebar-bg);
+}
+
+table thead th {
+    color: var(--accent-cream);
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 1em 1.25em;
+    border-bottom: none;
+}
+
+table thead th:first-child {
+    border-radius: 12px 0 0 0;
+}
+
+table thead th:last-child {
+    border-radius: 0 12px 0 0;
+}
+
+/* Table Body */
+table tbody {
+    background: white;
+}
+
+table th, table td {
+    padding: 1em 1.25em;
+    border-bottom: 1px solid var(--border-light);
+    color: var(--content-text);
+    font-size: 0.95rem;
+}
+
+table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+table tbody tr:last-child td:first-child {
+    border-radius: 0 0 0 12px;
+}
+
+table tbody tr:last-child td:last-child {
+    border-radius: 0 0 12px 0;
+}
+
+/* Hover effect */
+table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+table tbody tr:hover {
+    background: rgba(194, 113, 91, 0.06);
+}
+
+/* Alternate row colors for better readability */
+table tbody tr:nth-child(even) {
+    background: rgba(245, 240, 232, 0.4);
+}
+
+table tbody tr:nth-child(even):hover {
+    background: rgba(194, 113, 91, 0.08);
+}
+
+/* Links in tables */
+table a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+table a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+/* Responsive table adjustments */
+@media only screen and (max-width: 600px) {
+    table thead th,
+    table th, table td {
+        padding: 0.75em 0.75em;
+        font-size: 0.9rem;
+    }
+    
+    table thead th {
+        font-size: 0.8rem;
+    }
+}
+
+/* ========================
+   IMAGES
+   ======================== */
+.article-content img,
+.article-image,
+article img {
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    height: auto;
+}
+
+.article-figure {
+    margin: 2em 0;
+}
+
+/* ========================
+   PAGINATOR
+   ======================== */
+.paginator {
+    border-top: 1px solid var(--border-light);
+    padding-top: 1.5em;
+    margin-top: 3em;
+}
+
+.paginator a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.paginator a:hover {
+    color: var(--accent-hover);
+}
+
+.paginator p {
+    color: var(--content-text-secondary);
+}
+
+/* ========================
+   FOOTERS
+   ======================== */
+.post-footer {
+    color: var(--content-text-secondary);
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 2em;
+    margin-top: 2em;
+    font-size: 0.95rem;
+}
+
+.post-footer a {
+    color: var(--content-text-secondary);
+    text-decoration: none;
+}
+
+.post-footer a:hover {
+    color: var(--accent);
+}
+
+.page-footer {
+    color: var(--content-text-secondary);
+    font-size: 0.9rem;
+}
+
+.page-footer a {
+    color: var(--content-text-secondary);
+    text-decoration: none;
+}
+
+.page-footer a:hover {
+    color: var(--accent);
+}
+
+.page-footer a:visited {
+    color: var(--content-text-secondary);
+}
+
+/* ========================
+   MAIN FOOTER (in sidebar)
+   ======================== */
+footer .social-icons a {
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+footer .social-icons a:hover {
+    transform: translateY(-2px);
+}
+
+footer .social-icon > svg {
+    fill: var(--sidebar-text-muted);
+    transition: fill 0.2s ease;
+}
+
+footer .social-icon > svg:hover {
+    fill: var(--accent);
+}
+
+footer a {
+    color: var(--sidebar-text-muted);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: var(--accent);
+}
+
+footer a:visited {
+    color: var(--sidebar-text-muted);
+}
+
+.footer-divider {
+    color: var(--border-dark);
+}
+
+/* Mobile footer */
+.footer-mobile {
+    background: var(--content-bg);
+}
+
+.footer-mobile a {
+    color: var(--content-text-secondary);
+}
+
+.footer-mobile a:hover {
+    color: var(--accent);
+}
+
+.footer-mobile .divider-bar {
+    color: var(--border-light);
+}
+
+/* ========================
+   ARCHIVES PAGE (Compact list)
+   ======================== */
+.archives-list {
+    padding-left: 0;
+    margin: 0;
+}
+
+.archives-list-item {
+    color: var(--content-text);
+    font-size: 1rem;
+    margin-bottom: 0.25em !important;  /* Reduced spacing between items */
+    line-height: 1.5;
+}
+
+.archives-list-item-date {
+    color: var(--content-text-secondary);
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+}
+
+/* Year headers in archives */
+.archives-list h2,
+.content-container h2.archives-year {
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    font-size: 1.3rem;
+}
+
+/* ========================
+   404 PAGE
+   ======================== */
+.not-found-title {
+    color: var(--content-heading);
+    font-family: var(--font-heading);
+}
+
+/* ========================
+   SOCIAL EMBEDS
+   ======================== */
+.twitter-tweet {
+    border-left-color: var(--accent) !important;
+    background: var(--blockquote-bg);
+    padding: 1em 1.5em !important;
+    border-radius: 0 8px 8px 0;
+}
+
+.twitter-tweet p {
+    color: var(--content-text);
+}
+
+.twitter-tweet a {
+    color: var(--accent) !important;
+}
+
+.twitter-tweet a:hover {
+    color: var(--accent-hover) !important;
+}
+
+.__h_instagram.card {
+    font-family: var(--font-body) !important;
+    border-color: var(--border-light);
+    background: var(--content-bg);
+}
+
+/* ========================
+   KOFI BUTTON
+   ======================== */
+.kofi-button {
+    display: inline-block;
+    background: var(--accent);
+    color: white;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.kofi-button:hover {
+    background: var(--accent-hover);
+    transform: translateY(-1px);
+}
+
+/* ========================
+   BUTTONS (GENERAL)
+   ======================== */
+button, .button, .btn,
+input[type="submit"],
+input[type="button"] {
+    font-family: var(--font-body);
+    font-weight: 500;
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    padding: 0.75em 1.5em;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button:hover, .button:hover, .btn:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover {
+    background-color: var(--accent-hover);
+    transform: translateY(-1px);
+}
+
+button:active, .button:active, .btn:active,
+input[type="submit"]:active,
+input[type="button"]:active {
+    transform: translateY(0);
+}
+
+/* ========================
+   FORM ELEMENTS
+   ======================== */
+input, textarea, select {
+    font-family: var(--font-body);
+    background: white;
+    border: 1px solid var(--border-light);
+    color: var(--content-text);
+    padding: 0.75em;
+    border-radius: 6px;
+    transition: border-color 0.2s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(194, 113, 91, 0.1);
+}
+
+input::placeholder, textarea::placeholder {
+    color: var(--content-text-secondary);
+}
+
+/* ========================
+   SELECTION HIGHLIGHT
+   ======================== */
+::selection {
+    background: rgba(194, 113, 91, 0.2);
+    color: var(--content-text);
+}
+
+::-moz-selection {
+    background: rgba(194, 113, 91, 0.2);
+    color: var(--content-text);
+}
+
+/* ========================
+   SCROLLBAR STYLING
+   ======================== */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--content-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d1d5db;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+}
+
+/* Firefox scrollbar */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #d1d5db var(--content-bg);
+}
+
+/* ========================
+   TABLE OF CONTENTS - Compact Panel (Content-wrapped)
+   ======================== */
+#TableOfContentsDiv {
+    /* Override theme positioning completely */
+    position: fixed !important;
+    top: 120px !important;
+    /* Position to the right of the content area (sidebar 310px + content ~680px = ~1010px) */
+    left: 1020px !important;
+    right: auto !important;
+    bottom: auto !important;
+    margin: 0 !important;
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    
+    /* Content-sized dimensions - no scroll, exact content size */
+    display: inline-block !important;
+    width: auto !important;
+    min-width: 180px !important;
+    max-width: 240px !important;
+    height: auto !important;
+    /* No max-height or overflow - panel sizes to content */
+    overflow: visible !important;
+    
+    /* Box model */
+    box-sizing: border-box !important;
+    
+    /* Styling - solid background, no border */
+    background: var(--sidebar-bg) !important;
+    border: none !important;
+    outline: none !important;
+    border-radius: 12px !important;
+    padding: 1.25em 1.5em !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.25) !important;
+    
+    /* Z-index to stay above content */
+    z-index: 50 !important;
+}
+
+/* TOC Heading */
+#TableOfContentsDiv h2 {
+    font-family: var(--font-body) !important;
+    font-size: 0.8rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.1em !important;
+    color: var(--sidebar-text-muted) !important;
+    margin: 0 0 1em 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+/* TOC Navigation Container - Override inherited nav styles */
+#TableOfContentsDiv nav {
+    font-family: var(--font-body);
+    /* Critical: Override inherited height: 100% from main nav */
+    position: relative !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    width: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    outline: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+/* Remove borders from all TOC children */
+#TableOfContentsDiv *,
+#TableOfContentsDiv *::before,
+#TableOfContentsDiv *::after {
+    border: none !important;
+    outline: none !important;
+}
+
+/* TOC List Styling */
+#TableOfContentsDiv nav ul {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#TableOfContentsDiv nav ul ul {
+    margin-left: 1em !important;
+    margin-top: 0.35em !important;
+    border-left: 2px solid var(--sidebar-divider) !important;
+    padding-left: 0.75em !important;
+}
+
+/* TOC List Items */
+#TableOfContentsDiv nav li {
+    margin-bottom: 0.4em !important;
+    font-size: 0.9rem !important;
+    line-height: 1.4 !important;
+}
+
+#TableOfContentsDiv nav li:last-child {
+    margin-bottom: 0 !important;
+}
+
+/* TOC Links */
+#TableOfContentsDiv nav a {
+    color: var(--sidebar-text-secondary) !important;
+    text-decoration: none !important;
+    transition: color 0.2s ease !important;
+    display: inline-block;
+    padding: 2px 0 !important;
+}
+
+#TableOfContentsDiv nav a:hover {
+    color: var(--accent) !important;
+}
+
+#TableOfContentsDiv nav a:visited {
+    color: var(--sidebar-text-secondary) !important;
+}
+
+/* Nested links (h3, h4) are slightly smaller */
+#TableOfContentsDiv nav ul ul a {
+    font-size: 0.85rem !important;
+    color: var(--sidebar-text-muted) !important;
+}
+
+#TableOfContentsDiv nav ul ul a:hover {
+    color: var(--accent) !important;
+}
+
+/* Hide TOC on mobile - show inline above content */
+@media only screen and (max-width: 1200px) {
+    #TableOfContentsDiv {
+        position: relative !important;
+        right: auto !important;
+        top: auto !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-bottom: 2em !important;
+    }
+}
+
+/* ========================
+   SYNTAX HIGHLIGHTING
+   ======================== */
+.highlight {
+    background: #f8fafc !important;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    margin: 1.5em 0;
+}
+
+.highlight pre {
+    margin: 0;
+    background: transparent !important;
+    border: none;
+}
+
+/* Comment */
+.highlight .c,
+.highlight .c1,
+.highlight .cm {
+    color: #6b7280;
+    font-style: italic;
+}
+
+/* Keyword */
+.highlight .k,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr {
+    color: #7c3aed;
+    font-weight: 500;
+}
+
+/* String */
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx {
+    color: #059669;
+}
+
+/* Number */
+.highlight .m,
+.highlight .mi,
+.highlight .mf,
+.highlight .mh,
+.highlight .mo {
+    color: #0891b2;
+}
+
+/* Function */
+.highlight .nf {
+    color: #c2715b;
+}
+
+/* Variable */
+.highlight .nv,
+.highlight .vi,
+.highlight .vg {
+    color: #0369a1;
+}
+
+/* Type/Class */
+.highlight .nc,
+.highlight .nn {
+    color: #0d9488;
+}
+
+/* Operator */
+.highlight .o,
+.highlight .ow {
+    color: var(--content-text);
+}
+
+/* Punctuation */
+.highlight .p {
+    color: var(--content-text);
+}
+
+/* ========================
+   RESPONSIVE - MOBILE
+   ======================== */
+@media only screen and (max-width: 899px) {
+    /* Mobile: Stack layout */
+    nav {
+        background: linear-gradient(180deg, var(--sidebar-bg-dark) 0%, var(--sidebar-bg-light) 100%) !important;
+        position: relative;
+        min-height: auto;
+        width: 100%;
+    }
+    
+    .content-container {
+        background: var(--content-bg) !important;
+        margin-left: 0;
+        padding: 1em 1.5em 3em 1.5em;
+    }
+    
+    /* Adjust typography for mobile */
+    body {
+        font-size: 1rem;
+    }
+    
+    h1 {
+        font-size: 1.75rem;
+    }
+    
+    h2 {
+        font-size: 1.35rem;
+    }
+    
+    h3 {
+        font-size: 1.15rem;
+    }
+    
+    p, li {
+        font-size: 1rem;
+        line-height: 1.75;
+    }
+    
+    .article-content {
+        font-size: 1rem;
+    }
+    
+    /* Mobile footer uses light theme */
+    .footer-mobile {
+        background: var(--content-bg);
+        border-top: 1px solid var(--border-light);
+    }
+}
+
+/* ========================
+   MODERN MINIMAL SIDEBAR
+   ======================== */
+
+/* Sidebar Container */
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 48px 24px 24px 24px !important;
+    min-height: 100vh;
+}
+
+/* Sidebar Header - Profile Area */
+.sidebar-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+@media only screen and (min-width: 900px) {
+    .sidebar-header {
+        align-items: flex-start;
+        text-align: left;
+    }
+}
+
+/* Profile Photo - Glassmorphism */
+.profile-photo {
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.profile-photo img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+.profile-photo img:hover {
+    border-color: var(--accent);
+    box-shadow: 0 8px 32px rgba(194, 113, 91, 0.3);
+    transform: scale(1.02);
+}
+
+/* Profile Info */
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.profile-name {
+    font-family: var(--font-heading) !important;
+    font-size: 1.4em !important;
+    font-weight: 500 !important;
+    color: var(--sidebar-text-primary) !important;
+    text-decoration: none !important;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    transition: color 0.2s ease;
+}
+
+.profile-name:hover {
+    color: var(--accent) !important;
+}
+
+.profile-name:visited {
+    color: var(--sidebar-text-primary) !important;
+}
+
+/* Sidebar Divider */
+.sidebar-divider {
+    width: 100%;
+    height: 1px;
+    background: var(--sidebar-divider);
+    margin: 32px 0 24px 0;
+}
+
+/* Navigation Menu - Refined */
+.nav-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin: 0;
+}
+
+@media only screen and (max-width: 899px) {
+    .nav-menu {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px 16px;
+    }
+}
+
+.nav-menu .nav-link {
+    display: block;
+    padding: 8px 12px;
+    margin: 0 -12px;
+    border-radius: 6px;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: var(--sidebar-text-secondary) !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.nav-menu .nav-link::after {
+    display: none;
+}
+
+.nav-menu .nav-link:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--sidebar-text-primary) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.nav-menu .nav-link--active {
+    color: var(--sidebar-text-primary) !important;
+    font-weight: 500;
+}
+
+.nav-menu .nav-link--active::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 3px;
+    height: 16px;
+    background: var(--accent);
+    border-radius: 2px;
+}
+
+@media only screen and (max-width: 899px) {
+    .nav-menu .nav-link {
+        padding: 6px 12px;
+        margin: 0;
+    }
+    
+    .nav-menu .nav-link--active::before {
+        display: none;
+    }
+    
+    .nav-menu .nav-link--active {
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 20px;
+    }
+}
+
+/* Sidebar Footer */
+.sidebar-footer {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+@media only screen and (min-width: 900px) {
+    .sidebar-footer {
+        align-items: flex-start;
+    }
+}
+
+/* Social Icons - Refined */
+.sidebar-footer .social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0 !important;
+}
+
+.sidebar-footer .social-icon {
+    padding: 6px;
+    margin: 0 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.sidebar-footer .social-icon:hover {
+    background: var(--nav-hover-bg);
+    transform: translateY(-1px);
+}
+
+.sidebar-footer .social-icon svg {
+    width: 22px;
+    height: 22px;
+    fill: var(--sidebar-text-muted);
+    transition: fill 0.2s ease;
+}
+
+.sidebar-footer .social-icon:hover svg {
+    fill: var(--accent);
+}
+
+/* CTA Button - Glassmorphism Style */
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 24px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--sidebar-text-secondary) !important;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    width: 100%;
+    max-width: 180px;
+    /* Glassmorphism button */
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.cta-button:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: white !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(194, 113, 91, 0.4);
+}
+
+.cta-button:visited {
+    color: var(--sidebar-text-secondary) !important;
+}
+
+.cta-button:hover:visited {
+    color: white !important;
+}
+
+/* Sidebar Footer Links */
+.sidebar-footer-links {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.8rem;
+}
+
+.sidebar-footer-links .footer-link {
+    color: var(--sidebar-text-muted) !important;
+    text-decoration: none !important;
+    font-family: var(--font-body);
+    font-weight: 400;
+    transition: color 0.2s ease;
+}
+
+.sidebar-footer-links .footer-link:hover {
+    color: var(--accent) !important;
+}
+
+.sidebar-footer-links .footer-link:visited {
+    color: var(--sidebar-text-muted) !important;
+}
+
+.sidebar-footer-links .footer-divider {
+    color: var(--sidebar-divider);
+    font-weight: 300;
+}
+
+/* Override old site-title styles in sidebar context */
+.sidebar .site-title,
+.sidebar header .site-title {
+    display: none;
+}
+
+/* Hide old coaching button SVG */
+.coaching-button {
+    display: none !important;
+}
+
+/* Mobile Sidebar Adjustments */
+@media only screen and (max-width: 899px) {
+    .sidebar {
+        padding: 32px 20px 24px 20px !important;
+        min-height: auto;
+    }
+    
+    .profile-photo img {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .profile-name {
+        font-size: 1.25em !important;
+    }
+    
+    .sidebar-divider {
+        margin: 24px 0 20px 0;
+    }
+    
+    .sidebar-footer {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 16px;
+    }
+    
+    .cta-button {
+        max-width: 160px;
+        padding: 8px 20px;
+    }
+    
+    .sidebar-footer-links {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* ========================
+   PRINT STYLES
+   ======================== */
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+    
+    .content-container {
+        background: white !important;
+    }
+    
+    a {
+        color: black;
+        text-decoration: underline;
+    }
+    
+    nav, footer, .footer-mobile {
+        display: none;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        color: black;
+    }
+}
+
+/* ========================
+   ACCESSIBILITY
+   ======================== */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        transition: none !important;
+        animation: none !important;
+    }
+}
+
+/* Focus styles for keyboard navigation */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+/* Skip link for accessibility */
+.skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    background: var(--accent);
+    color: white;
+    padding: 0.5em 1em;
+    z-index: 1000;
+}
+
+.skip-link:focus {
+    top: 0;
+}
