@@ -1,0 +1,16 @@
+{
+  "name": "Daron Blog",
+  "short_name": "Daron Blog",
+  "description": "Personal blog of Daron Yondem",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c2715b",
+  "icons": [
+    {
+      "src": "/assets/2019-2-800x800-circle.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    }
+  ]
+}
