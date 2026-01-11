@@ -7,7 +7,7 @@ Tags:
 ShowTableOfContent: true
 ---
 
-UniFi access points feature a blue LED ring that indicates device status. While useful during the day, these lights can be distracting at night—especially in bedrooms or hallways. The UniFi Network Controller itself allows you to toggle the LED on or off, but it's a permanent setting. There's no built-in way to schedule the lights to turn off at night and back on in the morning.
+UniFi access points feature a blue LED ring that indicates device status. While useful during the day, these lights can be distracting at night, especially in bedrooms or hallways. The UniFi Network Controller itself allows you to toggle the LED on or off, but it's a permanent setting. There's no built-in way to schedule the lights to turn off at night and back on in the morning.
 
 ![A restless woman lies awake in bed in the foreground, her face faintly illuminated by a cold blue cast. In the background, mounted on the wall near a doorway, a circular white UniFi access point glows with a bright blue LED ring. This device is the sole source of light, diffusing a soft, eerie blue ambiance across the room while the windows remain completely dark, creating an atmosphere of insomnia and technological intrusion.](/media/2026/2026-01-10-Unify-AP-Night-Light.png)
 
@@ -165,7 +165,7 @@ Before integrating with Home Assistant, verify the script works:
 /config/scripts/unifi_led.sh "YOUR_DEVICE_ID" "on"
 ```
 
-Watch your access point—the LED should respond to each command.
+Watch your access point. The LED should respond to each command.
 
 ## Step 5: Configure Home Assistant
 
