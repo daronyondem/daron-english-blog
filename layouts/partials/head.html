@@ -26,6 +26,9 @@
     <!-- Custom Theme Override Styles - Readability Focused -->
     <link rel="stylesheet" href="{{ "css/theme-override.css" | relURL }}"/>
 
+    <!-- Copy Code Button Script -->
+    <script src="{{ "js/copy-code.js" | relURL }}" defer></script>
+
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end }}
