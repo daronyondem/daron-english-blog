@@ -14,7 +14,7 @@ ShowTableOfContent: false
 
 A friend on LinkedIn recently shared something that deserves more than a surface-level response:
 
-*"The word 'leadership' is getting misused. When companies slap it on management teams, it creates a halo they often haven't earned. A leadership team should enable you before the work happens, not only show up afterward to congratulate or criticize."*
+    *"The word 'leadership' is getting misused. When companies slap it on management teams, it creates a halo they often haven't earned. A leadership team should enable you before the work happens, not only show up afterward to congratulate or criticize."*
 
 This observation cuts to something systemic. Let's unpack it properly.
 
@@ -24,7 +24,7 @@ The management-versus-leadership dichotomy has been done to death, and frankly, 
 
 So the problem isn't that organizations need to choose between management and leadership. The problem is that we've turned "leadership" into a linguistic status symbol disconnected from observable behavior.
 
-## Welcome Leadership Wash**
+## Welcome Leadership Wash
 
 What my friend identified is a pattern I've seen repeatedly, in the corporations where I led teams across continents, and in the organizations where I've consulted on organizational development. The pattern looks like this:
 
@@ -36,7 +36,7 @@ What my friend identified is a pattern I've seen repeatedly, in the corporations
 
 Argyris and Schön's (1974) distinction between espoused theory and theory-in-use applies here. Organizations espouse leadership values such as empowerment, development, vision, while their actual practices remain evaluative and transactional.
 
-## The Follower Equation Is More Complicated Than It Appears**
+## The Follower Equation Is More Complicated Than It Appears
 
 Leadership, by definition, implies followers. But this gets distorted in two directions.
 
@@ -50,15 +50,11 @@ Here's what often gets lost in the leadership wash: being called a leader isn't 
 
 This is why I care about leadership *type*. Here are some to highlight:
 
-**Transactional leadership** operates on contingent reward and management-by-exception. It's exchange-based: I give you X, you give me Y. Necessary in organizations, but limited. It maintains; it doesn't transform.
-
-**Transformational leadership** (Burns, 1978; Bass, 1985) operates differently. It's characterized by idealized influence (walking the talk), inspirational motivation (articulating compelling vision), intellectual stimulation (challenging assumptions), and individualized consideration (developing each person). The outcome isn't just task completion, it's elevation of motivation and capability.
-
-**Servant leadership** (Greenleaf, 1977) inverts the hierarchy. The leader's primary function is serving those they lead, removing barriers, providing resources, enabling success. The test is whether those served grow as persons, become healthier, wiser, more autonomous.
-
-**Situational leadership** (Hersey & Blanchard, 1969) recognizes that no single style works universally. Effective leadership adapts to the development level and needs of the individual or team. It demands diagnostic ability and behavioral flexibility, the opposite of one-size-fits-all "leadership."
-
-**Adaptive leadership** (Heifetz, 1994) distinguishes technical challenges (solvable with current knowledge) from adaptive challenges (requiring changes in values, beliefs, or behaviors). Adaptive leadership mobilizes people to tackle tough challenges, often by giving the work back to the people who need to change.
+- **Transactional leadership** operates on contingent reward and management-by-exception. It's exchange-based: I give you X, you give me Y. Necessary in organizations, but limited. It maintains; it doesn't transform.
+- **Transformational leadership** (Burns, 1978; Bass, 1985) operates differently. It's characterized by idealized influence (walking the talk), inspirational motivation (articulating compelling vision), intellectual stimulation (challenging assumptions), and individualized consideration (developing each person). The outcome isn't just task completion, it's elevation of motivation and capability.
+- **Servant leadership** (Greenleaf, 1977) inverts the hierarchy. The leader's primary function is serving those they lead, removing barriers, providing resources, enabling success. The test is whether those served grow as persons, become healthier, wiser, more autonomous.
+- **Situational leadership** (Hersey & Blanchard, 1969) recognizes that no single style works universally. Effective leadership adapts to the development level and needs of the individual or team. It demands diagnostic ability and behavioral flexibility, the opposite of one-size-fits-all "leadership."
+- **Adaptive leadership** (Heifetz, 1994) distinguishes technical challenges (solvable with current knowledge) from adaptive challenges (requiring changes in values, beliefs, or behaviors). Adaptive leadership mobilizes people to tackle tough challenges, often by giving the work back to the people who need to change.
 
 These frameworks aren't academic abstractions. They have practical implications for how you structure teams, run meetings, give feedback, and develop people.
 
@@ -66,7 +62,7 @@ These frameworks aren't academic abstractions. They have practical implications 
 
 After building engineering teams from zero, leading organizations through transformation, consulting on organizational development, and yes, completing doctoral research on leadership dynamics in technical organizations, I've arrived at a conviction:
 
-**True leadership is measured by the leaders you create, not the followers you accumulate.**
+> "True leadership is measured by the leaders you create, not the followers you accumulate."
 
 This isn't soft idealism. It's a practical philosophy with hard implications:
 
@@ -77,7 +73,7 @@ This isn't soft idealism. It's a practical philosophy with hard implications:
 
 The goal is to make yourself progressively less necessary to operational success while remaining valuable for strategic direction, capability development, and cultural stewardship. Distributed leadership theory supports this: leadership is not a property of individuals but a phenomenon distributed across organizational contexts. The "heroic leader" model, where one person at the top provides vision and direction, doesn't scale and doesn't develop organizational resilience.
 
-## Ok, What Do We Do About Leadership Wash?**
+## Ok, What Do We Do About Leadership Wash?
 
 I don't think the solution is to abandon the language of leadership. The concepts are valuable. But we need more rigor:
 
@@ -93,7 +89,9 @@ I don't think the solution is to abandon the language of leadership. The concept
 
 ## "Everyone Talks Leadership" Critique
 
-Someone recently commented on one of my posts: *"Everyone talks leadership nowadays. I can't see a single post on LinkedIn that isn't about leadership."*
+Someone recently commented on one of my posts: 
+
+    *"Everyone talks leadership nowadays. I can't see a single post on LinkedIn that isn't about leadership."*
 
 It's a fair observation. Leadership content is oversaturated and often shallow. The temptation is to dismiss all of it.
 
