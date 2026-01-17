@@ -14,7 +14,8 @@ ShowTableOfContent: false
 
 A friend on LinkedIn recently shared something that deserves more than a surface-level response:
 
-    *"The word 'leadership' is getting misused. When companies slap it on management teams, it creates a halo they often haven't earned. A leadership team should enable you before the work happens, not only show up afterward to congratulate or criticize."*
+> "The word 'leadership' is getting misused. When companies slap it on management teams, it creates a halo they often haven't earned. A leadership team should enable you before the work happens, not only show up afterward to congratulate or criticize."
+> -A Friend
 
 This observation cuts to something systemic. Let's unpack it properly.
 
@@ -91,7 +92,8 @@ I don't think the solution is to abandon the language of leadership. The concept
 
 Someone recently commented on one of my posts: 
 
-    *"Everyone talks leadership nowadays. I can't see a single post on LinkedIn that isn't about leadership."*
+> "Everyone talks leadership nowadays. I can't see a single post on LinkedIn that isn't about leadership."
+> -LinkedIn User
 
 It's a fair observation. Leadership content is oversaturated and often shallow. The temptation is to dismiss all of it.
 
