@@ -1,11 +1,11 @@
 ---
-date: 2025-11-19
+date: 2026-02-07
 type: section
 title: "Speak! Inspire! Teach!"
 ShowFullWidthContent: true
 ---
 
-With experience spanning **73+ universities**, **367 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+With experience spanning **74+ universities**, **369 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
 
 I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
 
@@ -27,6 +27,7 @@ Bandirma Onyedi Eylul University
 Bartin University
 Beykent University
 Bogazici University
+Bilkent University
 Canakkale Onsekiz Mart University
 Celal Bayar University
 Cukurova University
@@ -91,9 +92,10 @@ Yildiz Technical University
 
 Here is where I'll be speaking next. If you’ll be around, feel free to join and say hello!
 
-| Name                          | Topic                | Place  |
-|-------------------------------|----------------------|--------|
-
+| Name                                                                 | Topic                             | Place  |
+|----------------------------------------------------------------------|-----------------------------------|--------|
+| [Bilkent Investment Weekend](/media/2026/2026-02-07-Bilkent-MEC.png) | The Future of Multi-Agent Systems | Online |  
+| [Miuul AI Conference](/media/2026/2026-02-07-Miuul.png)              | Humans and the Age of AI          | Online |  
 
 <br/>
 
