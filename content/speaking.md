@@ -1,16 +1,24 @@
 ---
 date: 2026-02-07
 type: section
-title: "Speak! Inspire! Teach!"
+title: "Speaking"
 ShowFullWidthContent: true
 ---
 
-With experience spanning **74+ universities**, **369 sessions**, and audiences in **13 countries**, I speak at the intersection of technology, leadership, and human wellness.
+# Speaking
 
-I’ve been privileged to share insights on topics such as **Applied AI, Cloud Computing, UX,** and **Career Design**—always with a focus on **practical insights, live demos**, and **mindful leadership**. Whether it's a developer community, university summit, or executive gathering, my goal is to spark lasting impact by making complex ideas accessible, inspiring, and actionable.
+I deliver keynotes and workshops for senior technology leaders and engineering organizations on how AI is transforming organizational structure, culture, and decision-making.
 
-**Interested in having me speak at your upcoming conference, meetup, or summit?**  
-Please [fill out this speaker request form](https://forms.microsoft.com/r/g2EdZw2ZLQ) with details about your event—I'll follow up as soon as I can!
+My talks draw on 20+ years of hands-on experience in solution architecture, engineering leadership at Microsoft and AWS, and doctoral research in leadership for information systems. I focus on making the organizational implications of AI concrete, actionable, and grounded in real-world transformation — not hype.
+
+**Current focus areas:**
+- **Agentic Organizations** — How AI agents reshape team structure, delegation, and culture (based on my forthcoming book)
+- **The Human Side of AI Transformation** — Why most AI initiatives fail at the organizational level, not the technical level
+- **Engineering Leadership in the Age of AI** — What changes (and what doesn't) for VPs of Engineering and CTOs
+
+With **367+ sessions** across **73+ universities** in **13 countries**, I'm an **ACM Distinguished Speaker**, **IEEE Senior Member**, and **BCS Fellow**.
+
+**Interested in having me speak?** Please fill out this [speaker request form](https://forms.microsoft.com/r/g2EdZw2ZLQ) with details about your event, or email me directly at daron@yondem.com.
 
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 

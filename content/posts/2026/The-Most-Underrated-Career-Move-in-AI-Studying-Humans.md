@@ -1,7 +1,7 @@
 ---
 Title: "The Most Underrated Career Move in AI? Studying Humans"
 date: "2026-02-08" 
-Tags: 
+Tags:
     - "ArtificialIntelligence"
     - "Humanities"
     - "Leadership"
@@ -12,6 +12,7 @@ Tags:
     - "OrganizationalDesign"
     - "SoftSkills"
     - "FutureOfWork"
+    - "AI Organizations"
 ShowTableOfContent: false
 ---
 

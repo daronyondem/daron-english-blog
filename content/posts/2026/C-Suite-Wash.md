@@ -1,12 +1,13 @@
 ---
 Title: "The C-Suite Wash; When Everyone Becomes a Chief, What Does Chief Even Mean?"
 date: "2026-02-04" 
-Tags: 
+Tags:
     - "Leadership"
     - "LeadershipDevelopment"
     - "Management"
     - "OrganizationalDevelopment"
     - "OrganizationalCulture"
+    - "AI Organizations"
 ShowTableOfContent: false
 ---
 

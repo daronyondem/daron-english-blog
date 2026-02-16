@@ -1,7 +1,7 @@
 ---
 Title: "Why Your Team Stopped Experimenting"
 date: "2026-02-06" 
-Tags: 
+Tags:
     - "Leadership"
     - "LeadershipDevelopment"
     - "OrganizationalCulture"
@@ -12,6 +12,7 @@ Tags:
     - "AIAdoption"
     - "ChangeManagement"
     - "Coaching"
+    - "AI Organizations"
 ShowTableOfContent: false
 ---
 

@@ -1,13 +1,14 @@
 ---
 Title: "The Martian at Your Dinner Table"
 date: "2026-02-07" 
-Tags: 
+Tags:
     - "ArtificialIntelligence"
     - "HumanAICollaboration"
     - "Leadership"
     - "OrganizationalDesign"
     - "AgenticAI"
     - "DecisionMaking"
+    - "AI Organizations"
 ShowTableOfContent: false
 ---
 

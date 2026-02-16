@@ -1,12 +1,13 @@
 ---
 Title: "Accountability Theater"
 date: "2026-02-02" 
-Tags: 
+Tags:
     - "Leadership"
     - "LeadershipDevelopment"
     - "Management"
     - "OrganizationalDevelopment"
     - "OrganizationalCulture"
+    - "AI Organizations"
 ShowTableOfContent: false
 ---
 

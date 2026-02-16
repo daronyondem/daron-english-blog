@@ -1,12 +1,13 @@
 ---
 Title: "Why Leadership's Favorite Holiday Message Reveals a Broken Philosophy of Work"
 date: "2026-01-05" 
-Tags: 
+Tags:
     - "OrganizationalLeadership"
     - "OrganizationCulture"
     - "OrganizationalPsychology"
     - "OrganizationalDevelopment"
     - "OrganizationalCitizenship"
+    - "Leadership"
 ShowTableOfContent: false
 ---
 

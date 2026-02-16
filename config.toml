@@ -31,39 +31,33 @@ github = "https://github.com/daronyondem"
 
 [[menu.main]]
 	identifier = "about"
-	name = "About Me"
-	url = "https://daron.me/"
-	weight = 1 
+	name = "About"
+	url = "/about/"
+	weight = 1
 
 [[menu.main]]
-	identifier = "Software"
-	name = "Software"
-	url = "/tags/software"
-	weight = 2 
+	identifier = "ai-organizations"
+	name = "AI & Organizations"
+	url = "/tags/ai-organizations/"
+	weight = 2
 
 [[menu.main]]
-	identifier = "Speaking"
+	identifier = "leadership"
+	name = "Leadership"
+	url = "/tags/leadership/"
+	weight = 3
+
+[[menu.main]]
+	identifier = "speaking"
 	name = "Speaking"
-	url = "/Speaking"
-	weight = 3 
-
-[[menu.main]]
-	identifier = "Fitness"
-	name = "Fitness"
-	url = "/tags/fitness"
+	url = "/speaking/"
 	weight = 4
 
 [[menu.main]]
-	identifier = "Races"
-	name = "Races"
-	url = "/Races"
+	identifier = "archives"
+	name = "Archives"
+	url = "/archives/"
 	weight = 5
-
-[[menu.main]]
-	identifier = "others"
-	name = "Others"
-	url = "/tags/"
-	weight = 6
 
 [privacy]
   [privacy.disqus]

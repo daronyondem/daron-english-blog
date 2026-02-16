@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(hugo:*)",
+      "Bash(ls -la \"\\\\Mac\\\\Home\\\\Documents\\\\GitHub\\\\daron-english-blog\\\\static\\\\js\"\" 2>/dev/null || ls -la \"/Mac/Home/Documents/GitHub/daron-english-blog/static/js/\" 2>/dev/null || dir \"\\\\MacHomeDocumentsGitHubdaron-english-blogstaticjs \")",
+      "Bash(git add:*)"
+    ]
+  }
+}
