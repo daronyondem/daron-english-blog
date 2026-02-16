@@ -4,10 +4,6 @@
 	{{ $script := resources.Get "js/main.js" | minify | fingerprint -}}
 	<script src="{{ $script.Permalink }}" {{ printf "integrity=%q" $script.Data.Integrity | safeHTMLAttr }} crossorigin="anonymous"></script>
 	
-	<a href="https://daron.coach/" target="_blank" rel="noopener noreferrer" class="cta-button">
-		Book a call
-	</a>
-	
 	<div class="sidebar-footer-links">
 		<a href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml" class="footer-link">RSS</a>
 		<span class="footer-divider">•</span>

@@ -5,8 +5,6 @@ title: "Speaking"
 ShowFullWidthContent: true
 ---
 
-# Speaking
-
 I deliver keynotes and workshops for senior technology leaders and engineering organizations on how AI is transforming organizational structure, culture, and decision-making.
 
 My talks draw on 20+ years of hands-on experience in solution architecture, engineering leadership at Microsoft and AWS, and doctoral research in leadership for information systems. I focus on making the organizational implications of AI concrete, actionable, and grounded in real-world transformation — not hype.

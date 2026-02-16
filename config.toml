@@ -23,11 +23,7 @@ googleAnalytics = "UA-48954873-4"
 
 # Main
 linkedin = "https://www.linkedin.com/in/daronyondem/"
-twitter = "https://www.twitter.com/daronyondem"
 youtube = "https://www.youtube.com/channel/UC7oYHShBoL7srrAVGMXWK0A/"
-
-# Programming
-github = "https://github.com/daronyondem"
 
 [[menu.main]]
 	identifier = "about"
