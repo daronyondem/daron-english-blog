@@ -55,6 +55,12 @@ youtube = "https://www.youtube.com/channel/UC7oYHShBoL7srrAVGMXWK0A/"
 	url = "/archives/"
 	weight = 5
 
+[[menu.main]]
+	identifier = "work-with-me"
+	name = "Work With Me"
+	url = "https://daron.me/"
+	weight = 6
+
 [privacy]
   [privacy.disqus]
     disable = false

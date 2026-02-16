@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+{{ if .Params.ShowTableOfContent }}
+<div id="TableOfContentsDiv">
+    <h2>jump to...</h2>
+    {{ .TableOfContents }}
+</div>
+{{ end }}
+
+{{ if .Params.ShowFullWidthContent }}
+<style type="text/css">
+    .content-container
+    {
+        max-width: none;
+    }
+    </style>
+{{ end }}
+
+<h1 class="post-title">{{ .Title }}</h1>
+    {{ if .Date }}
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ end }}
+    <div>
+        <p>
+        {{ .Content }}
+        </p>
+    </div>
+
+    <div style="margin-top: 2.5rem; padding: 1.5rem; border-top: 1px solid #e0e0e0;">
+      <p style="margin: 0; font-size: 0.95rem; color: #555;">
+        <strong>Daron Yondem</strong> advises senior technology leaders on AI-driven organizational transformation.
+        <a href="https://daron.me/" style="color: #1a73e8; text-decoration: none;">Learn more →</a>
+      </p>
+    </div>
+
+    {{ template "_internal/disqus.html" . }}
+
+    {{ if .Site.Params.enableKofi }}
+
+        <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
+        <script type='text/javascript'>
+            const kofiId = '{{ .Site.Params.Kofi }}';
+            kofiwidget2.init('Support Me on Ko-fi', '#29abe0', kofiId);
+            kofiwidget2.draw();
+        </script>
+
+    {{ end }}
+
+    <div class="page-footer">
+        {{if .Params.tags}}
+        <hr class="footer-divider">
+        {{ range .Params.tags }}
+            <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+{{end}}

@@ -22,8 +22,10 @@ I've delivered **367+ sessions** across **73+ universities** and audiences in **
 
 If you're interested in having me speak at your event, visit my [speaking page](/speaking/) or reach out directly.
 
-## Get in Touch
+## Work With Me
 
-I advise senior technology leaders on AI-driven organizational transformation. If that's a conversation you'd like to have, email me at daron@yondem.com.
+I help senior technology leaders navigate AI-driven organizational transformation through strategic advisory, executive workshops, and keynotes.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/daronyondem/) and [GitHub](https://github.com/daronyondem).
+**→ [Learn more and get in touch at daron.me](https://daron.me/)**
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/daronyondem/).

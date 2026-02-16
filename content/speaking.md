@@ -18,6 +18,8 @@ With **367+ sessions** across **73+ universities** in **13 countries**, I'm an *
 
 **Interested in having me speak?** Please fill out this [speaker request form](https://forms.microsoft.com/r/g2EdZw2ZLQ) with details about your event, or email me directly at daron@yondem.com.
 
+For strategic advisory and executive workshops, visit [daron.me](https://daron.me/).
+
 <!-- Turkey, Jordan, Lebanon, South Africa, Denmark, Qatar, UAE, Ireland, Northern Cyprus, Kuwait, Bahrain, Bulgaria, Armenia -->
 <!-- 
 Abant Izzet Baysal University
