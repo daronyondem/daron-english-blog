@@ -1,5 +1,5 @@
 ---
-Title: "The Insider Fallacy: Why Closing the Door to External Senior Hires Won't Save Your Culture"
+Title: "The Insider Fallacy, Why Closing the Door to External Senior Hires Won't Save Your Culture"
 date: "2026-03-04"
 Tags:
 - "Leadership"
@@ -45,7 +45,7 @@ External hires, when they get a real integration plan rather than an orientation
 
 And most organizations waste it completely. They treat a new leader's confusion as a problem to be solved rather than as intelligence to be harvested. Then they wonder why external hires "don't get it."
 
-## The Legitimate Concern: Yes, Context Matters
+## The Legitimate Concern, Yes, Context Matters
 
 I don't want to be dismissive of what's real in the VP's argument. There is genuine research supporting the idea that leader effectiveness is context-dependent. What Khanna (2014) calls "contextual intelligence" is a real factor. A leader who thrived in a command-and-control environment will stumble in a consensus-driven one, and not because they're bad at their job. Their instincts are calibrated for different physics.
 
@@ -69,35 +69,33 @@ The healthy approach is a portfolio strategy. Some roles need the institutional 
 
 This is the part that frustrates me the most about the VP's proposal. It misidentifies the cause. Cultures in high-growth organizations don't deteriorate because of where senior leaders came from. They deteriorate for systemic reasons that are harder to talk about and harder to fix.
 
-**Growth outpaces cultural transmission.** When you double the headcount, the ratio of people who carry the culture to people who are still learning it shifts dramatically. If you don't have mechanisms to transmit culture at scale beyond osmosis and hallway conversations, dilution is inevitable no matter who you're hiring.
+1/ Growth outpaces cultural transmission... When you double the headcount, the ratio of people who carry the culture to people who are still learning it shifts dramatically. If you don't have mechanisms to transmit culture at scale beyond osmosis and hallway conversations, dilution is inevitable no matter who you're hiring.
 
-**Promotion criteria drift.** Under pressure, organizations start promoting people who hit their numbers regardless of how they hit them. Over a few cycles, you end up with a leadership bench selected for execution, not cultural stewardship. These leaders are often entirely homegrown. They still erode the culture.
+2/ Promotion criteria drift... Under pressure, organizations start promoting people who hit their numbers regardless of how they hit them. Over a few cycles, you end up with a leadership bench selected for execution, not cultural stewardship. These leaders are often entirely homegrown. They still erode the culture.
 
-**Middle management gets crushed.** The leaders most responsible for day-to-day cultural transmission, senior managers and directors, are also the ones most overloaded with operational demands. When they don't have time to develop people, model values, or have the conversations that keep culture alive, it atrophies. Not because of external hires. Because of overwork.
+3/ Middle management gets crushed... The leaders most responsible for day-to-day cultural transmission, senior managers and directors, are also the ones most overloaded with operational demands. When they don't have time to develop people, model values, or have the conversations that keep culture alive, it atrophies. Not because of external hires. Because of overwork.
 
-**Strategic ambiguity creates fragmentation.** When the organization's direction is unclear or keeps shifting, different teams develop different subcultures to cope. Leadership experiences this as "the culture is deteriorating." But the real problem is that nobody has been clear about where the company is going, and culture can't cohere around a strategy that doesn't exist.
+4/ Strategic ambiguity creates fragmentation... When the organization's direction is unclear or keeps shifting, different teams develop different subcultures to cope. Leadership experiences this as "the culture is deteriorating." But the real problem is that nobody has been clear about where the company is going, and culture can't cohere around a strategy that doesn't exist.
 
 Every one of these root causes requires a different intervention. None of them are addressed by restricting external hiring. The VP's proposal is treating a fever by removing the thermometer.
 
-## What Actually Works
+## So What Does Actually Work?
 
 If we take cultural health seriously as a strategic priority (and we should), what does the evidence point to?
 
-**Build cultural infrastructure that scales.** Stop relying on proximity and tenure to transmit culture. Build explicit programs, rituals, and leadership development that reinforce what matters. Schein (2010) argued that culture gets embedded primarily through what leaders pay attention to, what they measure, and what they control. If you're not measuring cultural health with the same rigor as revenue, you're telling the organization it doesn't actually matter.
+First, build cultural infrastructure that scales. Stop relying on proximity and tenure to transmit culture. Build explicit programs, rituals, and leadership development that reinforce what matters. Schein (2010) argued that culture gets embedded primarily through what leaders pay attention to, what they measure, and what they control. If you're not measuring cultural health with the same rigor as revenue, you're telling the organization it doesn't actually matter.
 
-**Invest in executive assimilation.** Every external senior hire should have a structured integration plan. Not an orientation week. A real, multi-month program that accelerates cultural learning while capturing the new leader's observations. This is infrastructure, not a perk.
+Second, invest in executive assimilation. Every external senior hire should have a structured integration plan. Not an orientation week. A real, multi-month program that accelerates cultural learning while capturing the new leader's observations. This is infrastructure, not a perk.
 
-**Define what's actually core.** Most organizations have never done the disciplined work of separating their true core ideology from their accumulated habits. Without that clarity, every change feels like an attack and every newcomer feels like a threat. Do the work. Name the five things that are truly non-negotiable. Let everything else be open for evolution.
+Third, define what's actually core. Most organizations have never done the disciplined work of separating their true core ideology from their accumulated habits. Without that clarity, every change feels like an attack and every newcomer feels like a threat. Do the work. Name the five things that are truly non-negotiable. Let everything else be open for evolution.
 
-**Create feedback loops that include outside perspectives.** External hires, new employees at all levels, departing employees, customers, partners: they all have cultural intelligence the organization needs. A culture that can only be understood by people who've been in it for a decade is not a healthy culture. It's an insular one.
-
-## What This Proposal Actually Tells Us
+Finally, create feedback loops that include outside perspectives. External hires, new employees at all levels, departing employees, customers, partners: they all have cultural intelligence the organization needs. A culture that can only be understood by people who've been in it for a decade is not a healthy culture. It's an insular one.
 
 When a VP identifies cultural deterioration and responds by wanting to close the organizational boundary, that is itself a cultural signal. It suggests a leadership orientation toward protection rather than adaptation. It implies a mental model where culture is something that happens *to* the organization from the outside, rather than something the organization produces through its own choices and behaviors.
 
 Argyris (1990) would call this a defensive routine. It's a pattern that protects leaders from the discomfort of harder questions. Questions like: "How have we, as the existing leadership, contributed to this decline?" The discomfort gets redirected toward an external cause instead. Defensive routines are among the hardest barriers to organizational learning to break, partly because they feel so reasonable from the inside.
 
-The more honest question isn't *Should we hire externally at senior levels?* It's *What are we investing in, or failing to invest in, that determines whether our culture strengthens or weakens regardless of where our leaders come from?*
+The more honest question is *What are we investing in, or failing to invest in, that determines whether our culture strengthens or weakens regardless of where our leaders come from?*
 
 That's a much harder question. And the willingness to sit with it, rather than reaching for a cleaner answer, might be the most telling signal a leadership team sends.
 
