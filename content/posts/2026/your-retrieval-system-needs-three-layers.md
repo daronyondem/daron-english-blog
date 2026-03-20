@@ -105,30 +105,17 @@ The retrieval layer isn't just getting smarter. It's becoming a system.
 
 ## References
 
-1. Singh, A. et al. (2025). "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG." arXiv:2501.09136. [Link](https://arxiv.org/abs/2501.09136)
-
-2. Nguyen, T. et al. (2025). "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning." arXiv:2505.20096. [Link](https://arxiv.org/abs/2505.20096)
-
-3. A-RAG (2026). "A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces." arXiv:2602.03442. [Link](https://arxiv.org/html/2602.03442v1)
-
-4. WideSeek (2026). "WideSeek: Advancing Wide Research via Multi-Agent Scaling." arXiv:2602.02636. [Link](https://arxiv.org/html/2602.02636)
-
-5. Martinez, N. (2026). "Build a Scalable Multi Agent RAG system with A2A Protocol and LangChain." Oracle Developers Blog. [Link](https://blogs.oracle.com/developers/build-a-scalable-multi-agent-rag-system-with-a2a-protocol-and-langchain)
-
-6. Data Nucleus (2026). "Agentic RAG in 2026: The UK/EU Enterprise Guide to Grounded GenAI." [Link](https://datanucleus.dev/rag-and-agentic-ai/agentic-rag-enterprise-guide-2026)
-
-7. NetApp Community (2026). "Hybrid RAG in the Real World: Graphs, BM25, and the End of Black-Box Retrieval." [Link](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hybrid-RAG-in-the-Real-World-Graphs-BM25-and-the-End-of-Black-Box-Retrieval/ba-p/464834)
-
-8. Prem AI (2026). "Hybrid Search for RAG: BM25, SPLADE, and Vector Search Combined." [Link](https://blog.premai.io/hybrid-search-for-rag-bm25-splade-and-vector-search-combined/)
-
-9. RAGFlow (2024). "The Rise and Evolution of RAG in 2024: A Year in Review." [Link](https://ragflow.io/blog/the-rise-and-evolution-of-rag-in-2024-a-year-in-review)
-
-10. IBM (2025). "What is Agentic RAG?" [Link](https://www.ibm.com/think/topics/agentic-rag)
-
-11. Glean (2026). "Agentic RAG Explained: Smarter Retrieval with AI Agents." [Link](https://www.glean.com/blog/agentic-rag-explained)
-
-12. LlamaIndex. "Agentic Retrieval Guide: Beyond Naive RAG." [Link](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
-
-13. Singh, A.P. et al. (2025). "Agentic Retrieval-Augmented Generation: Advancing AI-Driven Information Retrieval and Processing." IJCTT, Vol. 73, Issue 1, pp. 91-97. [Link](https://www.ijcttjournal.org/2025/Volume-73%20Issue-1/IJCTT-V73I1P111.pdf)
-
-14. MMA-RAG (2025). "MMA-RAG: A Survey on Multimodal Agentic Retrieval-Augmented Generation." HAL Archives. [Link](https://hal.science/hal-05322313v1/document)
+- Singh, A. et al. (2025). *Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG.* arXiv:2501.09136.
+- Nguyen, T. et al. (2025). *MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning.* arXiv:2505.20096.
+- A-RAG (2026). *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces.* arXiv:2602.03442.
+- WideSeek (2026). *WideSeek: Advancing Wide Research via Multi-Agent Scaling.* arXiv:2602.02636.
+- Martinez, N. (2026). *Build a Scalable Multi Agent RAG system with A2A Protocol and LangChain.* Oracle Developers Blog.
+- Data Nucleus (2026). *Agentic RAG in 2026: The UK/EU Enterprise Guide to Grounded GenAI.*
+- NetApp Community (2026). *Hybrid RAG in the Real World: Graphs, BM25, and the End of Black-Box Retrieval.*
+- Prem AI (2026). *Hybrid Search for RAG: BM25, SPLADE, and Vector Search Combined.*
+- RAGFlow (2024). *The Rise and Evolution of RAG in 2024: A Year in Review.*
+- IBM (2025). *What is Agentic RAG?*
+- Glean (2026). *Agentic RAG Explained: Smarter Retrieval with AI Agents.*
+- LlamaIndex. *Agentic Retrieval Guide: Beyond Naive RAG.*
+- Singh, A.P. et al. (2025). *Agentic Retrieval-Augmented Generation: Advancing AI-Driven Information Retrieval and Processing.* IJCTT, Vol. 73, Issue 1, pp. 91-97.
+- MMA-RAG (2025). *MMA-RAG: A Survey on Multimodal Agentic Retrieval-Augmented Generation.* HAL Archives.
