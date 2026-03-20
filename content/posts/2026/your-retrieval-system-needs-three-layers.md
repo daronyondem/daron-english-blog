@@ -9,6 +9,8 @@ Tags:
 ShowTableOfContent: true
 ---
 
+![A search query branching into layered retrieval pathways](/media/2026/2026-03-20-Retrieval-Three-Layers.png)
+
 **Last month I argued that single-shot retrieval is dead and agentic search is what replaces it. That post drew a line between "search and hope" and "search, reason, search again." But I left out the how. This is the how.**
 
 If you read [Your RAG Pipeline Isn't Searching. It's Pattern Matching](https://daron.blog/2026/your-rag-pipeline-isnt-searching.-its-pattern-matching./), you already know the progression: vector search alone misses exact matches, hybrid search fixes recall but is still a single shot, and agentic search lets the LLM drive the retrieval process. I ended that post by saying the future is convergence — agents using hybrid search as one tool among several.
