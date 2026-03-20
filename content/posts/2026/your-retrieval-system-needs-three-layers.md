@@ -31,6 +31,8 @@ One thing I want to stress because I keep seeing teams get this wrong: **the seq
 
 This is Layer 1. Fast, explainable, multi-signal retrieval. It's the engine. But it's not the driver.
 
+![Three-layer retrieval architecture diagram showing Hybrid Retrieval Infrastructure, Agentic Orchestration, and Reflection and Verification](/media/2026/2026-03-20-Three-Layer-Architecture-Diagram.png)
+
 ## Layer 2: Agentic Orchestration
 
 In the first post I described agentic search as "the LLM driving the retrieval." That's true, but it's vague. The research that's come out since paints a much more specific picture of what that looks like in practice.
