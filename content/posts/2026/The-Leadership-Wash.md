@@ -109,28 +109,15 @@ The people doing the real work of leadership often don't call it that. They're t
 
 ## References
 
-- [Argyris, C., & Schön, D. A. (1974). Theory in practice: Increasing professional effectiveness. Jossey-Bass.][1]
-- [Bass, B. M. (1985). Leadership and performance beyond expectations. Free Press.][2]
-- [Burns, J. M. (1978). Leadership. Harper & Row.][3]
-- [French, J. R. P., & Raven, B. (1959). The bases of social power. In D. Cartwright (Ed.), Studies in social power (pp. 150–167). Institute for Social Research.][4]
-- [Greenleaf, R. K. (1977). Servant leadership: A journey into the nature of legitimate power and greatness. Paulist Press.][5]
-- [Heifetz, R. A. (1994). Leadership without easy answers. Harvard University Press.][6]
-- [Hersey, P., & Blanchard, K. H. (1969). Life cycle theory of leadership. Training & Development Journal, 23(5), 26–34.][7]
-- [Kellerman, B. (2004). Bad leadership: What it is, how it happens, why it matters. Harvard Business School Press.][8]
-- [Kellerman, B. (2008). Followership: How followers are creating change and changing leaders. Harvard Business Press.][9]
-- [Kotter, J. P. (1990). A force for change: How leadership differs from management. Free Press.][10]
-- [Mintzberg, H. (2004). Managers not MBAs: A hard look at the soft practice of managing and management development. Berrett-Koehler Publishers.][11]
-- [Spillane, J. P. (2006). Distributed leadership. Jossey-Bass.][12]
-
-[1]: <https://amzn.to/4qoj8Yr> "Argyris, C., & Schön, D. A. (1974). Theory in practice: Increasing professional effectiveness. Jossey-Bass."
-[2]: <https://amzn.to/49QeNXc> "Bass, B. M. (1985). Leadership and performance beyond expectations. Free Press."
-[3]: <https://amzn.to/3NR7sPq> "Burns, J. M. (1978). Leadership. Harper & Row."
-[4]: <https://psycnet.apa.org/record/1960-06701-004> "French, J. R. P., & Raven, B. (1959). The bases of social power. In D. Cartwright (Ed.), Studies in social power (pp. 150–167). Institute for Social Research."
-[5]: <https://amzn.to/3Nsv0Ks> "Greenleaf, R. K. (1977). Servant leadership: A journey into the nature of legitimate power and greatness. Paulist Press."
-[6]: <https://amzn.to/3ZigTdj> "Heifetz, R. A. (1994). Leadership without easy answers. Harvard University Press."
-[7]: <https://psycnet.apa.org/record/1970-19661-001> "Hersey, P., & Blanchard, K. H. (1969). Life cycle theory of leadership. Training & Development Journal, 23(5), 26–34."
-[8]: <https://amzn.to/4sMa950> "Kellerman, B. (2004). Bad leadership: What it is, how it happens, why it matters. Harvard Business School Press."
-[9]: <https://www.hks.harvard.edu/publications/followership-how-followers-are-creating-change-and-changing-leaders> "Kellerman, B. (2008). Followership: How followers are creating change and changing leaders. Harvard Business Press."
-[10]: <https://amzn.to/4b583XC> "Kotter, J. P. (1990). A force for change: How leadership differs from management. Free Press."
-[11]: <https://amzn.to/45fkKvb> "Mintzberg, H. (2004). Managers not MBAs: A hard look at the soft practice of managing and management development. Berrett-Koehler Publishers."
-[12]: <https://amzn.to/3ZhaVJB> "Spillane, J. P. (2006). Distributed leadership. Jossey-Bass."
+[1] Argyris, C., & Schön, D. A. (1974). "Theory in practice: Increasing professional effectiveness." Jossey-Bass. https://amzn.to/4qoj8Yr
+[2] Bass, B. M. (1985). "Leadership and performance beyond expectations." Free Press. https://amzn.to/49QeNXc
+[3] Burns, J. M. (1978). "Leadership." Harper & Row. https://amzn.to/3NR7sPq
+[4] French, J. R. P., & Raven, B. (1959). "The bases of social power." In D. Cartwright (Ed.), *Studies in social power* (pp. 150-167). Institute for Social Research. https://psycnet.apa.org/record/1960-06701-004
+[5] Greenleaf, R. K. (1977). "Servant leadership: A journey into the nature of legitimate power and greatness." Paulist Press. https://amzn.to/3Nsv0Ks
+[6] Heifetz, R. A. (1994). "Leadership without easy answers." Harvard University Press. https://amzn.to/3ZigTdj
+[7] Hersey, P., & Blanchard, K. H. (1969). "Life cycle theory of leadership." *Training & Development Journal*, 23(5), 26-34. https://psycnet.apa.org/record/1970-19661-001
+[8] Kellerman, B. (2004). "Bad leadership: What it is, how it happens, why it matters." Harvard Business School Press. https://amzn.to/4sMa950
+[9] Kellerman, B. (2008). "Followership: How followers are creating change and changing leaders." Harvard Business Press. https://www.hks.harvard.edu/publications/followership-how-followers-are-creating-change-and-changing-leaders
+[10] Kotter, J. P. (1990). "A force for change: How leadership differs from management." Free Press. https://amzn.to/4b583XC
+[11] Mintzberg, H. (2004). "Managers not MBAs: A hard look at the soft practice of managing and management development." Berrett-Koehler Publishers. https://amzn.to/45fkKvb
+[12] Spillane, J. P. (2006). "Distributed leadership." Jossey-Bass. https://amzn.to/3ZhaVJB

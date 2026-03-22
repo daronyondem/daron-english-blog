@@ -110,11 +110,7 @@ The analyst will pay $500 because the product saves him time today. His boss won
 ## References
 
 [1] "Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp." *The Register*, April 23, 2019. https://www.theregister.com/2019/04/23/hertz_accenture_lawsuit/
-
 [2] "4 lessons from the Hertz vs. Accenture IT disaster." *CIO*, May 19, 2023. https://www.cio.com/article/201936/4-lessons-from-the-hertz-vs-accenture-it-disaster.html
-
 [3] The Standish Group, *CHAOS 2020 Report*. Analysis of over 50,000 global technology projects. Cited in: "IT Project Failure Rates: Facts and Reasons." *Faeth Executive Coaching*, March 28, 2022. https://faethcoaching.com/it-project-failure-rates-facts-and-reasons/
-
-[4] McKinsey & Company, "Delivering large-scale IT projects on time, on budget, and on value," 2020. Cited in: "Why Software Development Projects Fail." *3Pillar Global*, May 21, 2025. https://www.3pillarglobal.com/insights/blog/why-software-development-projects-fail/
-
+[4] McKinsey & Company (2020). "Delivering large-scale IT projects on time, on budget, and on value." Cited in: "Why Software Development Projects Fail." *3Pillar Global*, May 21, 2025. https://www.3pillarglobal.com/insights/blog/why-software-development-projects-fail/
 [5] "The GenAI Divide: State of AI in Business 2025." *MIT Sloan Management Review*, 2025. Cited in: "Why IT projects still fail." *CIO*, October 27, 2025. https://www.cio.com/article/4077457/why-it-projects-still-fail-2.html

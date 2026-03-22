@@ -101,14 +101,14 @@ That's a much harder question. And the willingness to sit with it, rather than r
 
 ## References
 
-- Argyris, C. (1990). *Overcoming Organizational Defenses: Facilitating Organizational Learning*. Allyn & Bacon.
-- Bower, J. L. (2007). *The CEO Within: Why Inside Outsiders Are the Key to Succession*. Harvard Business School Press.
-- Charan, R. (2005). Ending the CEO Succession Crisis. *Harvard Business Review*, 83(2), 72–81.
-- Collins, J. C., & Porras, J. I. (1994). *Built to Last: Successful Habits of Visionary Companies*. Harper Business.
-- Deal, T. E., & Kennedy, A. A. (1982). *Corporate Cultures: The Rites and Rituals of Corporate Life*. Addison-Wesley.
-- Hatch, M. J. (1993). The Dynamics of Organizational Culture. *Academy of Management Review*, 18(4), 657–693.
-- Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin.
-- Khanna, T. (2014). Contextual Intelligence. *Harvard Business Review*, 92(9), 58–68.
-- Peter, L. J., & Hull, R. (1969). *The Peter Principle*. William Morrow and Company.
-- Schein, E. H. (2010). *Organizational Culture and Leadership* (4th ed.). Jossey-Bass.
-- Watkins, M. (2003). *The First 90 Days: Critical Success Strategies for New Leaders at All Levels*. Harvard Business School Press.
+[1] Argyris, C. (1990). "Overcoming Organizational Defenses: Facilitating Organizational Learning." Allyn & Bacon.
+[2] Bower, J. L. (2007). "The CEO Within: Why Inside Outsiders Are the Key to Succession." Harvard Business School Press.
+[3] Charan, R. (2005). "Ending the CEO Succession Crisis." *Harvard Business Review*, 83(2), 72-81.
+[4] Collins, J. C., & Porras, J. I. (1994). "Built to Last: Successful Habits of Visionary Companies." Harper Business.
+[5] Deal, T. E., & Kennedy, A. A. (1982). "Corporate Cultures: The Rites and Rituals of Corporate Life." Addison-Wesley.
+[6] Hatch, M. J. (1993). "The Dynamics of Organizational Culture." *Academy of Management Review*, 18(4), 657-693.
+[7] Janis, I. L. (1972). "Victims of Groupthink." Houghton Mifflin.
+[8] Khanna, T. (2014). "Contextual Intelligence." *Harvard Business Review*, 92(9), 58-68.
+[9] Peter, L. J., & Hull, R. (1969). "The Peter Principle." William Morrow and Company.
+[10] Schein, E. H. (2010). "Organizational Culture and Leadership" (4th ed.). Jossey-Bass.
+[11] Watkins, M. (2003). "The First 90 Days: Critical Success Strategies for New Leaders at All Levels." Harvard Business School Press.

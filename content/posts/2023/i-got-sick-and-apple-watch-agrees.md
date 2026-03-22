@@ -60,12 +60,7 @@ My experience illustrates how an Apple Watch can provide valuable insights about
 
 ## References
 
-- [Association of heart rate variability and inflammatory response in patients with cardiovascular diseases: current strengths and limitations][4]
-- [Heart rate time series characteristics for early detection of infections in critically ill patients][1]
-- [Pulse oximetry in the evaluation of the severity of acute asthma and/or wheezing in children][2]
-- [Respiratory rate as an indicator of acute respiratory dysfunction][3]
-
-[1]: <https://link.springer.com/article/10.1007/s10877-016-9870-4> "Heart rate time series characteristics for early detection of infections in critically ill patients"
-[2]: <https://pubmed.ncbi.nlm.nih.gov/10386496/> "Pulse oximetry in the evaluation of the severity of acute asthma and/or wheezing in children"
-[3]: <https://pubmed.ncbi.nlm.nih.gov/7411767/> "Respiratory rate as an indicator of acute respiratory dysfunction"
-[4]: <https://pubmed.ncbi.nlm.nih.gov/23847549/> "Association of heart rate variability and inflammatory response in patients with cardiovascular diseases: current strengths and limitations"
+[1] "Association of heart rate variability and inflammatory response in patients with cardiovascular diseases: current strengths and limitations." https://pubmed.ncbi.nlm.nih.gov/23847549/
+[2] "Heart rate time series characteristics for early detection of infections in critically ill patients." https://link.springer.com/article/10.1007/s10877-016-9870-4
+[3] "Pulse oximetry in the evaluation of the severity of acute asthma and/or wheezing in children." https://pubmed.ncbi.nlm.nih.gov/10386496/
+[4] "Respiratory rate as an indicator of acute respiratory dysfunction." https://pubmed.ncbi.nlm.nih.gov/7411767/
